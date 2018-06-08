@@ -16,4 +16,4 @@ Dr. Durisi is a senior member of the IEEE. He is the recipient of the 2013 IEEE 
 <!--Dr. Durisi is a contributor and a maintainer of SPECTRE—short packet communication toolbox, a collection of numerical routines for finite-blocklength analyses in information theory.
 -->
 
-Curriculum vitae [[.pdf]({{ site.url }}/files/cv_giuseppedurisi.pdf)] 
+Curriculum vitae [[.pdf]({{ site.url }}/files/cv-giuseppedurisi.pdf)] 
