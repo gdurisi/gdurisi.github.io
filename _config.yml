@@ -11,9 +11,9 @@ title                    : "Giuseppe Durisi"
 title_separator          : "-"
 name                     : &name "Giuseppe Durisi"
 description              : &description "Giuseppe Durisi's personal website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gdurisi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "gdurisi/gdurisi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &giuseppe_durisi
 facebook:
   username               :
   app_id                 :
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Giuseppe Durisi"
-  avatar           : "profile.png"
-  bio              : "Professor,\n Communication Systems Group,\n Department of Electrical Engineering,\n Chalmers University of Technology\n, Gothenburg, Sweden"
-  location         : "Location"
+  avatar           : "giuseppe.jpeg"
+  bio              : "Professor, Chalmers"
+  location         : "Gothenburg, Sweden"
   employer         :
   googlescholar    : "https://scholar.google.se/citations?user=A9_oZxwAAAAJ&hl=en"
   email            : "durisi@chalmers.se"
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/giuseppe-durisi-7ba1095/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "giuseppe-durisi-7ba1095"
+  orcid            : "https://orcid.org/0000-0002-3941-4038"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
