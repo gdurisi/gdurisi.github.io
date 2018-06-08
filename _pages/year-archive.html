@@ -18,5 +18,7 @@ redirect_from:
    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
+  {% if post.categories contains 'blog' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

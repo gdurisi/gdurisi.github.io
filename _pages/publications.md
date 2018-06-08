@@ -254,13 +254,17 @@ G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuo
 ## Conference Papers
 <ol>
   
+
+  
 <li> S. Jacobsson, O. Castaneda, C. Jeon, G. Durisi, and C. Studer, “Nonlinear precoding for phase-quantized constant-envelope massive MU-MIMO-OFDM,” in <em>Proc. Int. Conf. Telecommun. (ICT)</em>, Saint-Malo, France, Jun. 2018.
   <hr>
 </li>
       
+  <li> H. Sac, T. Bacinoglu, E. Uysal-Biyikoglu, and G. Durisi, “Age-optimal channel coding blocklength for a transmission queue with fcfs service and arq,” <em>in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Kalamata, Greece, Jun. 2018.
+    <hr>
+  </li>
   
-  
-<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Delay and peak-age violation probability in short-packet transmission,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Vail, CO, U.S.A., Jun. 2018.
+<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Delay and peak-age violation probability in short-packet transmission,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Vail, CO, U.S.A., Jun. 2018.  [<a href="https://arxiv.org/abs/1805.03271" target="_blank">arXiv</a>]
   <hr>
 </li>
     
