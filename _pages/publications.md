@@ -161,9 +161,11 @@ W. Yang, G. Durisi, and Y. Polyanskiy,&nbsp;“Minimum Energy to Send <i>k</i> B
 <hr>
 
 <li>
-W. Yang, G. Durisi, and E. Riegler, ">On the capacity of large-MIMO block-fading channels</a>,''&nbsp;<i>IEEE J. Sel. Areas Commun.</i>, vol. 31, no. 2, pp. 117-132, Feb. 2013.
+W. Yang, G. Durisi, and E. Riegler, ">On the capacity of large-MIMO block-fading channels,''&nbsp;<i>IEEE J. Sel. Areas Commun.</i>, vol. 31, no. 2, pp. 117-132, Feb. 2013.
 
 <hr>
+</li>
+<li>
 G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuous-time noncoherent fading channel capacity, <i>&nbsp;IEEE Trans. Inf. Theory</i>, vol. 58, no. 10, pp. 6372--6391, Oct. 2012.
 
 

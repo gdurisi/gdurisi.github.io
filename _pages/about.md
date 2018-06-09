@@ -31,3 +31,15 @@ I'm currently interested in a broad range of topics:
 I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities. 
 
 
+## News
+{% include base_path %}
+{% for post in site.categories.news-post limit:4%}
+    {% include archive-single.html %}  
+{% endfor %}
+
+## My blog: short packets
+
+{% include base_path %}
+{% for post in site.categories.blog limit:2%}
+    {% include archive-single.html %}  
+{% endfor %}

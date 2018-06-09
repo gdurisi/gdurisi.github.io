@@ -1,7 +1,6 @@
 --- 
 title:  "Paper at ISIT 2018"
 date: 2018-06-07
-teaser: "isit2018.jpg"
 categories: 
   - news-post
 tags:

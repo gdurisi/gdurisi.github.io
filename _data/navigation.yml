@@ -2,25 +2,26 @@
 main:
   - title: "CV"
     url: /cv/
+    
+  - title: "News"
+    url: /news/
   
   - title: "Publications"
     url: /publications/
-
-  - title: "Team"
-    url: /team/
     
   - title: "Vacancies"
     url: /vacancies/
 
-  - title: "Teaching"
-    url: /teaching/  
-      
-    
-  - title: "News"
-    url: /news/
-        
+  - title: "Team"
+    url: /team/
+  
   - title: "Blog"
     url: /year-archive/
+
+  - title: "Teaching"
+    url: /teaching/  
+        
+
     
   
     
