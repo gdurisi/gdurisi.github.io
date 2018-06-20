@@ -1,5 +1,5 @@
 ---
-title: 'Designing URRLC via nonasymptotic information theory
+title: 'Designing URRLC via nonasymptotic information theory--part 1
 '
 date: 2018-06-19
 permalink: /posts/fbl-tutorial-1/
@@ -7,11 +7,6 @@ category: blog
 tags:
   - FBL_tutorial
 ---
-
-## Part 1: introduction
-
-
-
 One objective of next generation wireless communication systems is to provide mission critical links that can deliver short information packets with high reliability and low latency.
 The availability of such links, which are named ultra-reliable low-latency communications (URLLC) will enable a large range of novel applications such as vehicular communication for autonomous driving and traffic safety, and wireless-powered factory automation.
 
@@ -27,11 +22,11 @@ $$C= W\log_2\biggl(1+ \frac{P}{N_oW}\biggr)$$
 But to approach capacity, we need to use codes with large blocklength. And large blocklengths often mean large latency. So we cannot use classic performance metric such as ergodic capacity or outage capacity to benchmark the performance of URLLC. Neither we can use these capacity metrics to conduct joint queuing-coding analyses or to design resource allocation and scheduling algorithms.
 
 So what we can do instead? We must replace asymptotic information-theory results with nonasymptotic finite-blocklength ones!
-Over the last 10 years, the information-theory community has developed many such nonasymptotic results. Some of them, like the so-called normal approximation on the maximum coding rate achievable over an AWGN channel [^1], are now widely used in the URLLC literature.
+Over the last 10 years, the information-theory community has developed many such nonasymptotic results. Some of them, like the so-called normal approximation on the maximum coding rate achievable over an AWGN channel, [^1] are now widely used in the URLLC literature.
 
-Over the next couple of months, I plan to provide on this blog an accessible  introduction to some of the key results in finite-blocklength information theory, and discuss how they can be used to optimally design URLLC.
+In a series of posts on this blog, I will provide  an accessible  introduction to some of the key results in finite-blocklength information theory, and discuss how they can be used to optimally design URLLC.
 
-The plan is to start from a simple binary-input AWGN model, and then move to more sophisticated models including, e.g., fading and channel-estimation overhead, multiple antennas, HARQ, and queuing delays.
+I will start from a simple binary-input AWGN model, and then move to more sophisticated models including, e.g., fading and channel-estimation overhead, multiple antennas, HARQ, and queuing delays.
 
 
 

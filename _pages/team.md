@@ -31,4 +31,4 @@ author_profile: true
 
 - Veniamin I. Morgenshtern (ETH Zurich, 2010, co-supervised with Prof. Helmut Bölcskei), now with Erlangen University, Germany
 
-- Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with Ubitricity, Berlin, Germany
+- Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
