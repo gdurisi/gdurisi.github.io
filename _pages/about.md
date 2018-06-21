@@ -16,7 +16,7 @@ Gothenburg, Sweden
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
 
 ---
-## About
+# About
 My research area is information theory, a mathematical discipline that deals with optimal methods for representing, communicating and storing digital information. 
 I'm currently interested in a broad range of topics:
 
@@ -28,20 +28,19 @@ I'm currently interested in a broad range of topics:
 
 - the development of a theory able to explain the astounding performance of deep neural networks.
 
-## Vision
-
+### Vision
 I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities. 
 
 
-## News
+# News
 {% include base_path %}
 {% for post in site.categories.news-post limit:3%}
     {% include archive-single.html %}  
 {% endfor %}
 
-## My blog: short packets
+# My blog: short packets
 
 {% include base_path %}
-{% for post in site.categories.blog limit:3%}
+{% for post in site.categories.blog limit:3%}  
     {% include archive-single.html %}  
 {% endfor %}
