@@ -1,12 +1,14 @@
 ---
 permalink: /
 title: "Giuseppe Durisi"
-excerpt: "Professor, Chalmers University of Technology"
+excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, machine learning, AI"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!-- excerpt: "Professor, Chalmers University of Technology" -->
+
 
 Professor at the [Communication System Group](https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx)  
 [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)    
@@ -33,13 +35,13 @@ I strive  to find mathematically elegant solutions to practically relevant engin
 
 ## News
 {% include base_path %}
-{% for post in site.categories.news-post limit:4%}
+{% for post in site.categories.news-post limit:3%}
     {% include archive-single.html %}  
 {% endfor %}
 
 ## My blog: short packets
 
 {% include base_path %}
-{% for post in site.categories.blog limit:2%}
+{% for post in site.categories.blog limit:3%}
     {% include archive-single.html %}  
 {% endfor %}
