@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- excerpt: "Professor, Chalmers University of Technology" -->
-
-
 Professor at the [Communication System Group](https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx)  
 [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)    
 Gothenburg, Sweden    

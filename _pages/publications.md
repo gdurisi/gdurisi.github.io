@@ -24,6 +24,12 @@ author_profile: true
 ## Preprints
 
 <ol>
+
+<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” Jun. 2018. [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
+</li>
+
+<hr>
+
  <li> 
       P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” Apr. 2018. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
 </li>
