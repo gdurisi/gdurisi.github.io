@@ -5,7 +5,6 @@ date: 2018-06-29
 permalink: /posts/fbl-tutorial-2/
 category: blog
 teaser: /images/fbl_intro.png
-excerpt: finite blocklength information theory for optimum design of URLLC
 tags:
   - FBL_tutorial
 ---
