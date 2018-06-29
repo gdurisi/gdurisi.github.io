@@ -28,8 +28,11 @@ In a series of posts on this blog, I will provide  an accessible  introduction t
 
 I will start from a simple binary-input AWGN model, and then move to more sophisticated models including, e.g., fading and channel-estimation overhead, multiple antennas, HARQ, and queuing delays.
 
+Go to [part 2](/posts/fbl-tutorial-2/)
 
 
 [^1]: Eq. (296) in Y. Polyanskiy, H. V. Poor, and S. Verdú, “Channel coding rate in the finite blocklength regime,” IEEE Trans. Inf. Theory,  2010.
+
+
 
 
