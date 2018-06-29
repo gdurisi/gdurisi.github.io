@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Giuseppe Durisi"
-excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, machine learning, AI"
+excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, communication theory, machine learning, AI"
 author_profile: true
 redirect_from: 
   - /about/

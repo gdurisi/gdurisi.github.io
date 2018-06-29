@@ -5,7 +5,7 @@ date: 2018-06-29
 permalink: /posts/fbl-tutorial-2/
 category: blog
 teaser: /images/biawgn_fig.png
-excerpt: Second part of my series of posts about the design of URLLC through finite-blocklength information theory: the binary-input AWGN channel and its fundamental limits.
+excerpt: "Second part of my series of posts about the design of URLLC through finite-blocklength information theory: the binary-input AWGN channel and its fundamental limits."
 tags:
   - FBL_tutorial
 ---
