@@ -12,9 +12,9 @@ tags:
 We will start our tour through finite-blocklength information theory by analyzing one of the simplest, yet practically relevant, point-to-point communication channel: the discrete-time binary-input AWGN channel.
 The input-output relation of such a channel is
 
-$$y_k=\sqrt{\rho}x_k + w_k, \quad k=1,\dots, n \label{eq:io}$$
+$$y_j=\sqrt{\rho}x_j + w_j, \quad k=1,\dots, j \label{eq:io}$$
 
-Here, $x_k$ is the channel input, which we assume to belong to the set $\\{-1,1\\}$ whereas $\\{w_k\\}$ is the discrete-time AWGN process. We assume it to be stationary memoryless and that each of its samples has zero mean and unit variance. Hence, $\rho$ can be interpreted as the signal-to-noise ratio (SNR). Throughout, we shall assume that, to transmit an information message, i.e., a set of $k$ information bits, we are allowed to use the bi-AWGN channel $n$ times. 
+Here, $x_k$ is the channel input, which we assume to belong to the set $\\{-1,1\\}$ whereas $\\{w_j\\}$ is the discrete-time AWGN process. We assume it to be stationary memoryless and that each of its samples has zero mean and unit variance. Hence, $\rho$ can be interpreted as the signal-to-noise ratio (SNR). Throughout, we shall assume that, to transmit an information message, i.e., a set of $k$ information bits, we are allowed to use the bi-AWGN channel $n$ times. 
 
 Note that $n$ is closely related to the communication latency. Indeed, assume that to carry each binary symbol $x_k$ we use a continuous-time signal of bandwidth $W$ Hz. Then using the channel $n$ times to transmit our message of $k$ bits entails a delay of $n/W$ seconds. The actual overall delay may be larger if we also include queuing, propagation, and decoding delays. But in a first approximation, we will neglect these additional sources of delay and take $n$ as a  proxy for latency. This is not a bad assumption for short-distance communications. In 4G for example, the smallest packet size has a duration of 0.5 milliseconds, whereas the propagation delay to cover a distance of 180 meters is just 30 microseconds.
 
