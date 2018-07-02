@@ -12,7 +12,7 @@ tags:
 We will start our tour through finite-blocklength information theory by analyzing one of the simplest, yet practically relevant, point-to-point communication channel: the discrete-time binary-input AWGN channel.
 The input-output relation of such a channel is
 
-$$y_j=\sqrt{\rho}x_j + w_j, \quad k=1,\dots, j \label{eq:io}$$
+$$y_j=\sqrt{\rho}x_j + w_j, \quad j=1,\dots, n \label{eq:io}$$
 
 Here, $x_k$ is the channel input, which we assume to belong to the set $\\{-1,1\\}$ whereas $\\{w_j\\}$ is the discrete-time AWGN process. We assume it to be stationary memoryless and that each of its samples has zero mean and unit variance. Hence, $\rho$ can be interpreted as the signal-to-noise ratio (SNR). Throughout, we shall assume that, to transmit an information message, i.e., a set of $k$ information bits, we are allowed to use the bi-AWGN channel $n$ times. 
 
