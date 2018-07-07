@@ -137,7 +137,7 @@ One can see that the bounds and the approximation allow one to identify accurate
 
 ***
 Go to  back to [part 1](/posts/fbl-tutorial-1/)
-<!--or move on to [part 3](/posts/fbl-tutorial-3/)-->
+or move on to [part 3](/posts/fbl-tutorial-3/)
 
 [^1]: C. E. Shannon, “A mathematical theory of communication,” Bell Syst. Tech. J., vol. 27, pp. 379–423 and 623–656, July and October 1948.
 
