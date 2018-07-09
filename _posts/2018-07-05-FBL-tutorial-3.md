@@ -5,7 +5,6 @@ date: 2018-07-07
 permalink: /posts/fbl-tutorial-3/
 category: blog
 excerpt: "Third part of my series of posts about the design of URLLC through finite-blocklength information theory: the random-coding union bound with parameter s."
-teaser: /images/biawgn_fig_possible.png
 tags:
   - FBL_tutorial
 ---
@@ -62,7 +61,7 @@ We are now ready to state the RCUs bound.
 Fix an $s>0$ and an input distribution $P_{X^n}$. Then for every $k$ and $n$, there exists a $(k,n,\epsilon)$-code whose error probability is upper-bounded as
 $$ \epsilon \leq \mathbb{E}\left[ \exp\left[-\max\left\{0, \imath_s(X^n,Y^n)-(2^k-1) \right\} \right] \right]. $$
 Here, $(X^n,Y^n)$ is distributed as $P_{X^n}P_{Y^n | X^n}$  and  $\imath_s(x^n,y^n)$ is the generalized information density, which is defined as
-$$ \imath_s(x^n,y^n)=\log \frac{P^s_{Y^n | X^n} (y^n | x^n)}{\mathbb{E}\left[P_{Y^n | X^n}(y^n | \bar{X}^n)\right]}$$
+$$ \imath_s(x^n,y^n)=\log \frac{P^s_{Y^n | X^n} (y^n | x^n)}{\mathbb{E}\left[P^s_{Y^n | X^n}(y^n | \bar{X}^n)\right]}$$
 with $\bar{X}^n$ distributed as $P_{X^n}$ and independent of $X^n$.
 {: .notice--success}
 
