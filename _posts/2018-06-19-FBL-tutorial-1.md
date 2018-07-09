@@ -1,5 +1,5 @@
 ---
-title: 'Designing URRLC via nonasymptotic information theory--part 1
+title: 'Designing URLLC via nonasymptotic information theory--part 1
 '
 date: 2018-06-19
 permalink: /posts/fbl-tutorial-1/
