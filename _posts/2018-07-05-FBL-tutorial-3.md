@@ -59,7 +59,9 @@ We are now ready to state the RCUs bound.
 
 
 Fix an $s>0$ and an input distribution $P_{X^n}$. Then for every $k$ and $n$, there exists a $(k,n,\epsilon)$-code whose error probability is upper-bounded as
+{: .notice--success}
 $$ \epsilon \leq \mathbb{E}\left[ \exp\left[-\max\left\{0, \imath_s(X^n,Y^n)-(2^k-1) \right\} \right] \right]. $$
+{: .notice--success}
 Here, $(X^n,Y^n)$ is distributed as $P_{X^n}P_{Y^n | X^n}$  and  $\imath_s(x^n,y^n)$ is the generalized information density, which is defined as
 $$ \imath_s(x^n,y^n)=\log \frac{P^s_{Y^n | X^n} (y^n | x^n)}{\mathbb{E}\left[P^s_{Y^n | X^n}(y^n | \bar{X}^n)\right]}$$
 with $\bar{X}^n$ distributed as $P_{X^n}$ and independent of $X^n$.
@@ -132,7 +134,7 @@ end
 
 ***
 Go to  back to [part 2](/posts/fbl-tutorial-2/)
-<!--or move on to [part 3](/posts/fbl-tutorial-3/)-->
+or move on to [part 4](/posts/fbl-tutorial-4/)
 
 [^1]: Y. Polyanskiy, H. V. Poor, and S. Verdú, “Channel coding rate in the finite blocklength regime,” IEEE Trans. Inf. Theory, vol. 56, no. 5, pp. 2307–2359, May 2010.
 
