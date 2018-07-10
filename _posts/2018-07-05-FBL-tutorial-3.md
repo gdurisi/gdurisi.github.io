@@ -134,7 +134,7 @@ end
 Go to  back to [part 2](/posts/fbl-tutorial-2/)
 <!--or move on to [part 3](/posts/fbl-tutorial-3/)-->
 
-[^1]: Y. Polyanskiy, H. V. Poor, and S. Verdu ́, “Channel coding rate in the finite blocklength regime,” IEEE Trans. Inf. Theory, vol. 56, no. 5, pp. 2307–2359, May 2010.
+[^1]: Y. Polyanskiy, H. V. Poor, and S. Verdú, “Channel coding rate in the finite blocklength regime,” IEEE Trans. Inf. Theory, vol. 56, no. 5, pp. 2307–2359, May 2010.
 
 [^2]: A. Martinez and A. Guillén i Fàbregas, “Saddlepoint approximation of random–coding bounds,” in Proc. Inf. Theory Applicat. Workshop (ITA), San Diego, CA, U.S.A., Feb. 2011.
 

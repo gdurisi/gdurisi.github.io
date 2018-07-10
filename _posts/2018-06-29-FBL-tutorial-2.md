@@ -85,22 +85,24 @@ where $P_X$ denotes the probability distribution on the input $X$ and $I(X;Y)$ i
 
 $$ I(X;Y)= \mathbb{E}\left[\log\frac{P_{Y|X}(Y|X)}{P_Y(Y)}\right]. \label{eq:mutual_info}$$
 
-Here, the expectation is with respect to the joint distribution of $(X,Y)$. Furthermore, $P_{Y \|X}$ denotes the channel law
+Here, the expectation is with respect to the joint distribution of $(X,Y)$. Furthermore, $P_{Y |X}$ denotes the channel law
 
 $$ P_{Y | X} (y |x)=\frac{1}{\sqrt{2\pi}}\exp\left(- \frac{(y-\sqrt{\rho}x)^2}{2} \right) $$
 
-and $P_Y$ is the distribution on the channel output $Y$ induced by $P_X$ through $P_{Y \| X}$. 
+and $P_Y$ is the distribution on the channel output $Y$ induced by $P_X$ through $P_{Y | X}$. Specifically, $P_Y(y)=\mathrm{E}\left[P_{Y|X}(y|\bar{X})\right]$ where $\bar{X}\sim P_X$ and independent of $X$.
 
 A remark on notation is in order. It will be convenient from now on to distinguish between deterministic and random quantities. I will use uppercase letter such as $X$ to denote random quantities , and lowercase letters such as $x$ to denote their realizations.
 
 It will also be convenient to give a name to the loglikelihood ratio in the argument of the expectation that defines mutual information in \eqref{eq:mutual_info}. It is usually called *information density* and denoted  by $i(x;y)$.
 Hence, $I(X;Y)=\mathrm{E}[i(X;Y)]$.
 
-For the binary-input AWGN channel, one can show that
+
+
+For the binary-input AWGN channel, one can show that the uniform distribution over $\\{-1,1\\}$ achieves the maximum in \eqref{eq:capacity}. The induced output distribution $P_Y$ is a Gaussian mixture $$P_Y= \frac{1}{2}\mathcal{N}(-\sqrt{\rho},1)+\frac{1}{2}\mathcal{N}(\sqrt{\rho},1)$$ and the information density can be readily computed as
 
 $$ i(x;y) = \log 2 - \log\left(1+ \exp(-2xy\sqrt{\rho})\right).$$
 
-Furthermore, the uniform distribution over $\\{-1,1\\}$ achieves the maximum in \eqref{eq:capacity} and $C$ is given by
+Finally, the channel capacity $C$ is given by
 
 \begin{equation}
   C=\frac{1}{\sqrt{2\pi}}\int e^{-z^2/2} \Bigl(\log(2)-\log\bigl(1+e^{-2\rho-2z\sqrt{\rho}}\bigr) \Bigr)\, 
