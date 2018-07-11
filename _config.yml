@@ -256,7 +256,7 @@ permalink: /:categories/:title/
 timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
+# Plugins 
 # gems:
 #   - jekyll-paginate
 #   - jekyll-sitemap
@@ -315,3 +315,4 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
