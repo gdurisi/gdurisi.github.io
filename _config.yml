@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Giuseppe Durisi"
 title_separator          : "-"
-name                     : &name "Giuseppe Durisi"
-description              : &description "Giuseppe Durisi's personal website"
-url                      : https://gdurisi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Giuseppe Durisi"
+description              : "Personal website"
+url                      : "https://gdurisi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gdurisi/gdurisi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -270,6 +270,23 @@ timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 #   - jekyll-gist
 #   - jekyll-feed
 #   - jemoji
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 
 # Archives
