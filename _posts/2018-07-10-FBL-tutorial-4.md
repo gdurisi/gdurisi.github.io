@@ -165,7 +165,7 @@ function id=compute_samples(snr,n,precision)
   id=sum(idvec);
 end
 ```
-
+In the next blog post (after the summer break), I will explain how to find easy-to-compute approximations to converse and achievability bounds.
 
 ***
 Go to  back to [part 3](/posts/fbl-tutorial-3/)
