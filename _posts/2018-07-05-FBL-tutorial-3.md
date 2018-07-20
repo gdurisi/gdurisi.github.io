@@ -21,7 +21,7 @@ The figure illustrates achievability and converse bounds on $k^\star(n,\epsilon)
 
 I also plotted in magenta the curve $k^\star(n,\epsilon)=C n$ with $C$ standing for channel capacity, which comes from an asymptotic capacity analysis. Please note that this curve is just an approximation that is valid only in the asymptotic limit $n\rightarrow \infty$.
 
-The figure tells us that all $(k,n)$ pairs that lie above the converse (red) curve are not feasible, whereas the $(k,n)$ pairs that lie above the blue (achievability) curve are feasible. We cannot say anything about the pairs between the two curves. This is a consequence of the fact that we cannot determine $k^*(n,\epsilon)$ exactly because, as discussed in the previous post, finding it involves an exhaustive search over a number of codes that grow double-exponentially in $n$ for a fixed rate.
+The figure tells us that all $(k,n)$ pairs that lie above the converse (red) curve are not feasible, whereas the $(k,n)$ pairs that lie below the blue (achievability) curve are feasible. We cannot say anything about the pairs between the two curves. This is a consequence of the fact that we cannot determine $k^*(n,\epsilon)$ exactly because, as discussed in the previous post, finding it involves an exhaustive search over a number of codes that grow double-exponentially in $n$ for a fixed rate.
 Luckily, our bounds are tight and the region of $(k,n)$ pairs we cannot characterize is small.
 
 Note also how more accurate the  classification enabled by FBL-IT is compared to the one based on capacity.
