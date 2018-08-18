@@ -1,6 +1,7 @@
 --- 
 title:  "Presentation at TUM-COM Workshop on Ultra-Reliable Low-Latency Communications and Applications for 5G"
 date: 2018-07-06
+permalink: news-post/tum-presentation/
 read_time: false
 excerpt: "Presentation at the TUM-COM workshop on URRLC communications"
 categories: 

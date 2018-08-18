@@ -10,7 +10,7 @@ author_profile: true
 ## Software
 
 <ol>
-<li><a href="https://github.com/yp-mit/spectre">SPECTRE—short packet communication toolbox:</a> a collection of numerical routines for finite-blocklength analyses in information theory, Sep. 2016 [<a href="https://sites.google.com/site/durisi/manual.pdf?attredirects=0&amp;d=1" target="_blank">manual v0.2</a>]</li>
+<li><a href="https://github.com/yp-mit/spectre">SPECTRE—short packet communication toolbox:</a> a collection of numerical routines for finite-blocklength analyses in information theory, Jul. 2018 [<a href="https://sites.google.com/site/durisi/manual.pdf?attredirects=0&amp;d=1" target="_blank">manual v0.2</a>]</li>
 
 <li><a href="https://github.com/quantizedmassivemimo" target="_blank">Quantized massive MIMO:</a> a collection of numerical routines to analyze the performance of massive MIMO systems with low precision converters 
    
@@ -25,16 +25,25 @@ author_profile: true
 
 <ol>
 
-<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” Jun. 2018. [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
+ <li> 
+      S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, “Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink,” Jul. 2018. [<a href="https: //arxiv.org/abs/1709.04846
+">arXiv</a>].
 </li>
 
 <hr>
 
  <li> 
-      P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” Apr. 2018. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
+      P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” Jul. 2018. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
 </li>
 
 <hr>
+
+<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” Jun. 2018. [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
+</li>
+
+<hr>
+
+
 
 <li>
   J. Östman, G. Durisi, E. G. Ström, M. C. Coçkun, and G. Liva,
@@ -43,10 +52,7 @@ author_profile: true
 </li>
 <hr>
 
- <li> 
-     K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” Jun. 2017 [<a href="https://arxiv.org/abs/1706.07731" target="_blank">arXiv</a>].
-<hr>
-</li>
+
 
 <li> 
    A. Lancho, T. Koch, and G. Durisi, “On single-antenna Rayleigh block-fading channels at finite blocklength,” Jun. 2017 [<a href="https://arxiv.org/abs/1706.07778" target="_blank">arXiv</a>].
@@ -54,16 +60,15 @@ author_profile: true
 </li>
     
 
-  
- <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Variable-length coding with stop-feedback for the common-message broadcast channel in the nonasymptotic regime,” Jul. 2016. [<a href="http://arxiv.org/abs/1607.03519" target="_blank">arXiv</a>].&nbsp;</li>
+</ol>  
 
-</ol>
 
 
 
 
 
 ## Book Chapters
+
 <ol>
 <li>G.&nbsp;Durisi, U.&nbsp;G. Schuster, V.&nbsp;I. Morgenshtern, H.&nbsp;Bölcskei, and
 	  S.&nbsp;Shamai&nbsp;(Shitz), "<a href="https://sites.google.com/site/durisi/publications/Durisi2011-03a.pdf?attredirects=0">Information theory of underspread WSSUS channels</a>," in
@@ -76,7 +81,21 @@ author_profile: true
 
 
 ## Journal Papers
+
 <ol>
+
+ <li> 
+     K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear [<a href="https://arxiv.org/abs/1706.07731" target="_blank">arXiv</a>].
+<hr>
+</li>
+
+ <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Stop feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear. [<a href="http://arxiv.org/abs/1607.03519" target="_blank">arXiv</a>].&nbsp;
+ <hr>
+ </li>
+
+
+
+
 
 <li> 
   W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear [<a href="https://arxiv.org/abs/1706.05972" target="_blank">arXiv</a>]. 

@@ -13,13 +13,15 @@ author_profile: true
 
 ## Ph.D. students
 
+- Fredrik Hellström (August 2018-presents): Mathematics of deep learning 
+
 - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures
  
 - Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
 
 - Sven Jacobsson (March 2015-present): Massive MIMO with low precision converters [industrial PhD student at Ericsson Research]
 
-- Kamran Keykhosravi (March 2015-present): Information theory for fiber-optic channels [co-supervised with Prof. Erik Agrell]
+- Kamran Keykhosravi (March 2014-present): Information theory for fiber-optic channels [co-supervised with Prof. Erik Agrell]
 
 - Rahul Devassy (August 2013 - present): fading networks at finite blocklength
 

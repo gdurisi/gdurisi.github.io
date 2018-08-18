@@ -175,10 +175,12 @@ kramdown:
 collections:
   news-post:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:year/:month/:path/
+    permalink: date
   blog:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:year/:month/:path/
+    permalink: date
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -250,7 +252,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+permalink: date
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Europe/Stockholm # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
