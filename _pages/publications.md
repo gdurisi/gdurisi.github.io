@@ -98,7 +98,7 @@ author_profile: true
 
 
 <li> 
-  W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear [<a href="https://arxiv.org/abs/1706.05972" target="_blank">arXiv</a>]. 
+  W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, vol. 64, no. 9, pp. 6236--6256, Sep. 2018. [<a href="https://arxiv.org/abs/1706.05972" target="_blank">arXiv</a>]. 
 <hr>
 </li>
   
