@@ -180,7 +180,7 @@ W. Yang, G. Durisi, and Y. Polyanskiy,&nbsp;“Minimum Energy to Send <i>k</i> B
 
 <hr>
 </li>
-<li><W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “<a href="http://arxiv.org/abs/1311.2012" target="_blank">Quasi-static multiple-antenna fading channels at finite blocklength</a>,”&nbsp;<i style="line-height:1.25">IEEE Trans. Inf. Theory</i>, 2014,&nbsp; vol. 60, no. 7, pp. 4232–4265, Jul. 2014.
+<li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “<a href="http://arxiv.org/abs/1311.2012" target="_blank">Quasi-static multiple-antenna fading channels at finite blocklength</a>,”&nbsp;<i style="line-height:1.25">IEEE Trans. Inf. Theory</i>, 2014,&nbsp; vol. 60, no. 7, pp. 4232–4265, Jul. 2014.
 
 
 <hr>
@@ -292,7 +292,7 @@ G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuo
 <li> J. Östman, G. C. Ferrante, R. Devassy, and G. Durisi, ``Low-latency
   short-packet transmissions: Fixed length or HARQ?'' in <em>Proc. IEEE
   Global Telecommun. Conf. (GLOBECOM)</em>, Abu Dhabi, UAE, Dec. 2018.
-  <hr>
+  <hr> [<a href="https://arxiv.org/abs/1809.06560" target="_blank">arXiv</a>]
 </li>
   
 
