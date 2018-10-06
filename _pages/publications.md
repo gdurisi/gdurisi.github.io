@@ -24,16 +24,15 @@ author_profile: true
 ## Preprints
 
 <ol>
-
- <li> 
-      S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, “Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink,” Jul. 2018. [<a href="https: //arxiv.org/abs/1709.04846
-">arXiv</a>].
+  
+<li>
+  K. Keykhosravi, G. Durisi, and E. Agrell, "Bounds on the capacity of
+    memoryless simplified fiber-optical channel models," Sep. 2018. [<a href="https://arxiv.org/abs/1708.03102">arXiv</a>]  
 </li>
-
 <hr>
-
  <li> 
-      P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” Jul. 2018. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
+      S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," Jul. 2018. [<a href="https: //arxiv.org/abs/1709.04846
+">arXiv</a>].
 </li>
 
 <hr>
@@ -42,16 +41,6 @@ author_profile: true
 </li>
 
 <hr>
-
-
-
-<li>
-  J. Östman, G. Durisi, E. G. Ström, M. C. Coçkun, and G. Liva,
-  “Short packets over block-memoryless fading channels: Pilot-assisted or
-  noncoherent transmission?”, Dec. 2017.  [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>].
-</li>
-<hr>
-
 
 
 <li> 
@@ -63,7 +52,14 @@ author_profile: true
 </ol>  
 
 
+## Books
 
+<ol>
+<li>
+A. Zaidi, F. Athley, J. Medbo, U. Gustavsson, G. Durisi, and X. Cheng, <em>5G Physical Layer: principles, models and technology components</em>. Academic Press, 2018 [<a href="https://www.elsevier.com/books/5g-physical-layer/zaidi/978-0-12-814578-4" target="_blank">website</a>]. 
+
+</li>
+</ol>
 
 
 
@@ -84,8 +80,20 @@ author_profile: true
 
 <ol>
 
+<li>
+  J. Östman, G. Durisi, E. G. Ström, M. C. Coçkun, and G. Liva,
+  “Short packets over block-memoryless fading channels: Pilot-assisted or
+  noncoherent transmission?”, <em>IEEE Trans. Commun.</em>, 2018, to appear.  [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>].
+</li>
+<hr>
+
+<li> 
+      P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” <em>IEEE ACCESS</em>, 2018, to appear. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
+</li>
+<hr>
+
  <li> 
-     K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear [<a href="https://arxiv.org/abs/1706.07731" target="_blank">arXiv</a>].
+     K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear. [<a href="https://arxiv.org/abs/1706.07731" target="_blank">arXiv</a>].
 <hr>
 </li>
 
@@ -103,7 +111,7 @@ author_profile: true
 </li>
   
 <li> 
-         K. Keykhosravi, M. Tavana, E. Agrell, and G. Durisi, “Demodulation and detection schemes for a memoryless optical WDM channel,” <em>IEEE Trans. Commun.</em>, 2018, to appear. [<a href="https://arxiv.org/abs/1708.08320" target="_blank">arXiv</a>].
+         K. Keykhosravi, M. Tavana, E. Agrell, and G. Durisi, “Demodulation and detection schemes for a memoryless optical WDM channel,” <em>IEEE Trans. Commun.</em>, vol. 66, no. 7, pp. 2994–3005, Jul. 2018. [<a href="https://arxiv.org/abs/1708.08320" target="_blank">arXiv</a>].
 <hr>  
 </li>
 
@@ -113,7 +121,7 @@ O. Castaneda, S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, 
 </li>
 
 
-   <li>S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized precoding for massive MU-MIMO,”<i> IEEE Trans. Commun.</i>, 2017, to appear [<a href="https://arxiv.org/abs/%201610.07564" target="_blank">arXiv</a>].&nbsp; 
+   <li>S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized precoding for massive MU-MIMO,”<i> IEEE Trans. Commun.</i>,  vol. 65, no. 11, pp. 4670–4684, Nov. 2017. [<a href="https://arxiv.org/abs/%201610.07564" target="_blank">arXiv</a>].&nbsp; 
 <hr>
  </li>
   
@@ -133,7 +141,7 @@ W. Yang, G. Durisi, and Y. Polyanskiy,&nbsp;“Minimum Energy to Send <i>k</i> B
 <hr>
 </li>
  
-<li>C. Studer and G. Durisi, “Quantized massive MU-MIMO-OFDM uplink,” <i>IEEE Trans. Commun</i>., 2016, vol. 64, no. 6, pp. 2387–2399, Jun. 2016. [IEEExplore], [<a href="http://arxiv.org/abs/1509.07928" target="_blank">arXiv</a>]
+<li>C. Studer and G. Durisi, “Quantized massive MU-MIMO-OFDM uplink,” <i>IEEE Trans. Commun</i>., 2016, vol. 64, no. 6, pp. 2387–2399, Jun. 2016. [<a href="http://arxiv.org/abs/1509.07928" target="_blank">arXiv</a>]
 <hr>
 </li>
 
@@ -280,6 +288,12 @@ G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuo
 
 ## Conference Papers
 <ol>
+  
+<li> J. Östman, G. C. Ferrante, R. Devassy, and G. Durisi, ``Low-latency
+  short-packet transmissions: Fixed length or HARQ?'' in <em>Proc. IEEE
+  Global Telecommun. Conf. (GLOBECOM)</em>, Abu Dhabi, UAE, Dec. 2018.
+  <hr>
+</li>
   
 
   
