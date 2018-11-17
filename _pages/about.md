@@ -38,6 +38,7 @@ I strive  to find mathematically elegant solutions to practically relevant engin
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
+</div>
 
 
 ---

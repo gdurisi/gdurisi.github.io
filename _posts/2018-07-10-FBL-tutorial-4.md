@@ -9,7 +9,7 @@ excerpt: "Fourth part of my series of posts about the design of URLLC through fi
 tags:
   - FBL_tutorial
 header:
-  teaser: /images/neyman_pearson.png
+  teaser: /images/neyman_pearson_v2.png
 ---
 
 In [part 3](/posts/fbl-tutorial-3/) we learnt how to evaluate the achievability bound, i.e., the blue curve in the figure below.
