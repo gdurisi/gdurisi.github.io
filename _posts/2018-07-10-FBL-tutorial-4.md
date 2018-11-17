@@ -4,10 +4,12 @@ title: 'Designing URLLC via nonasymptotic information theory--part 4
 date: 2018-07-10
 permalink: /posts/fbl-tutorial-4/
 category: blog
-teaser: /images/neyman_pearson.png
+
 excerpt: "Fourth part of my series of posts about the design of URLLC through finite-blocklength information theory: the metaconverse theorem."
 tags:
   - FBL_tutorial
+header:
+  teaser: /images/neyman_pearson.png
 ---
 
 In [part 3](/posts/fbl-tutorial-3/) we learnt how to evaluate the achievability bound, i.e., the blue curve in the figure below.

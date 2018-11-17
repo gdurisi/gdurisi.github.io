@@ -3,10 +3,12 @@ permalink: /
 title: "Giuseppe Durisi"
 excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, communication theory, machine learning, AI"
 author_profile: true
+layout: single
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Professor at the [Communication System Group](https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx)  
 [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)    
 Gothenburg, Sweden    
@@ -25,19 +27,25 @@ I'm currently interested in a broad range of topics:
 
 - the development of a theory able to explain the astounding performance of deep neural networks.
 
-### Vision
-I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities. 
+# Vision
+I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities.
 
-
+---
 # News
-{% include base_path %}
-{% for post in site.categories.news-post limit:3%}
-    {% include archive-single.html %}  
+---
+<div class="grid__wrapper">
+{% for post in site.categories.news-post limit:4 %}  
+    {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
-# My blog: short packets
 
-{% include base_path %}
-{% for post in site.categories.blog limit:3%}  
-    {% include archive-single.html %}  
+---
+
+# My blog: short packets 
+---
+<div class="grid__wrapper">
+{% for post in site.categories.blog limit:8 %}  
+    {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
