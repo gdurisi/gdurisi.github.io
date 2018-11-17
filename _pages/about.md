@@ -31,22 +31,13 @@ I'm currently interested in a broad range of topics:
 I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities.
 
 ---
+# My blog: [short packets](/year-archive) 
+---
 # News
 ---
 <div class="grid__wrapper">
-{% for post in site.categories.news-post limit:4 %}  
+{% for post in site.categories.news-post limit:12 %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
-</div>
 
-
----
-
-# My blog: short packets 
----
-<div class="grid__wrapper">
-{% for post in site.categories.blog limit:8 %}  
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
