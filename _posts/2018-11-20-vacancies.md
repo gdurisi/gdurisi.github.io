@@ -4,7 +4,7 @@ date: 2018-11-19
 read_time: false
 excerpt: "I am looking for two postdoctoral researchers and 1 PhD students who would like to join my team"
 header:
-  teaser: /images/chalmers_small.png
+  teaser: /images/chalmers.png
 categories: 
   - news-post
 tags:
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![image-left](/images/chalmers_small.png){: .align-left}
+![image-left](/images/chalmers.png){: .align-left}
 I am looking for two postdoctoral researchers and 1 Phd student who are interested in joining my research team.
 
 The first postdoctoral vacancy is in the area of secure, private, and low-latency wireless cloud connectivity for Internet-of-thing applications
