@@ -1,8 +1,8 @@
 --- 
-title:  "Two postdoctoral and 1 PhD position available in my team"
+title:  "Two postdoctoral and 1 PhD positions available in my team"
 date: 2018-11-19
 read_time: false
-excerpt: "I am looking for two postdoctoral researchers and 1 PhD students who would like to join my team"
+excerpt: "I am looking for two postdoctoral researchers and 1 PhD student who would like to join my team"
 header:
   teaser: /images/chalmers_v2.png
 categories: 
