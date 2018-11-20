@@ -15,7 +15,7 @@ tags:
 ![image-left](/images/AvancezChalmers.png){: .align-left}
 I am looking for two postdoctoral researchers and 1 Phd student who are interested in joining my research team.
 
-The first postdoctoral vacancy is in the area of **secure, private, and low-latency wireless cloud connectivity for Internet-of-thing applications**
+The first postdoctoral vacancy is in the area of **secure, private, and low-latency wireless cloud connectivity for Internet-of-thing applications**.
 
 More informations about this position are available [here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928). 
 
@@ -27,7 +27,11 @@ More informations about this position are available [here](http://www.chalmers.s
 
 **Application deadline**: December 20, 2018.
 
-The Phd student position is in the area of **mission-critical machine-type communications**. More informations about this position are available [here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=p6932). 
+The Phd student position is in the area of **mission-critical machine-type wireless communications**. 
+
+More informations about this position are available [here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=p6932). 
 
 **Application deadline**: January 13, 2019.
+
+Do not hesitate to [get in touch](mailto:durisi@chalmers.se) if you need additional information.
 
