@@ -13,7 +13,7 @@ tags:
 
 
 ![image-left](/images/AvancezChalmers.png){: .align-left}
-I am looking for two postdoctoral researchers and 1 Phd student who are interested in joining my research team.
+I am looking for two postdoctoral researchers and one Phd student who are interested in joining my research team.
 
 The first postdoctoral vacancy is in the area of **secure, private, and low-latency wireless cloud connectivity for Internet-of-thing applications**.
 
