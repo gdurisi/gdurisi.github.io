@@ -4,7 +4,7 @@ date: 2018-11-19
 read_time: false
 excerpt: "I am looking for two postdoctoral researchers and 1 PhD students who would like to join my team"
 header:
-  teaser: /images/chalmers.png
+  teaser: /images/chalmers_v2.png
 categories: 
   - news-post
 tags:
