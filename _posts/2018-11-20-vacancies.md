@@ -19,13 +19,13 @@ The first postdoctoral vacancy is in the area of **secure, private, and low-late
 
 More informations about this position are available [here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928). 
 
-**Application deadline**: December 20, 2018.
+**Application deadline**: January 5, 2019.
 
 The second postdoctoral vacancy is in the area of **information-theoretic methods in machine learning**, with specific focus on deep neural networks.
 
 More informations about this position are available [here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918). 
 
-**Application deadline**: December 20, 2018.
+**Application deadline**: January 5, 2019.
 
 The Phd student position is in the area of **mission-critical machine-type wireless communications**. 
 
