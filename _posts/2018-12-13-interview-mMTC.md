@@ -11,7 +11,7 @@ tags:
 ---
 ![image-left](/images/connected.png){: .align-center}
 
-I recently presented my view on massive machine-type communications (mMTC) in a interview for the [Cognitive Networks Technical Committee Newsletter](http://cn.committees.comsoc.org/files/2018/12/NewsLetter_Dec_2018.pdf).
+I recently presented my view on massive machine-type communications (mMTC) in an interview for the [Cognitive Networks Technical Committee Newsletter](http://cn.committees.comsoc.org/files/2018/12/NewsLetter_Dec_2018.pdf).
 An excerpt of this interview is reported below.
 Do not hesitate to [get in touch](mailto:durisi@chalmers.se) if you have questions/comments. Also, I have some [openings](/news-post/2018/11/19/vacancies/) in this area. 
 
