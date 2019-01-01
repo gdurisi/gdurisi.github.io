@@ -24,6 +24,20 @@ author_profile: true
 ## Preprints
 
 <ol>
+
+<li>
+  M. C. Coçkun, G. Durisi, T. Jerkovits, G. Liva, W. Ryan, B. Stein, and F. Steiner, “Efficient error-correcting codes in the short blocklength regime,” Dec. 2018. 
+  [<a href="https://arxiv.org/abs/1812.08562">arXiv</a>]  
+</li>
+
+<hr>
+  
+<li>
+  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achiev- able information rate by per-channel dispersion compensation,” Dec. 2018. 
+  [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]  
+</li>
+  
+  <hr>
   
 <li>
   K. Keykhosravi, G. Durisi, and E. Agrell, "Bounds on the capacity of
@@ -289,13 +303,21 @@ G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuo
 ## Conference Papers
 <ol>
   
+<li>
+  M. C. Coskun, G. Liva, J. Östman, and G. Durisi, ``Low-complexity joint channel estimation and list decoding of short codes,'' in <em>Proc. Int. ITG Conf. Sys. Commun. Coding (SCC)</em>, Rostock, Germany, Feb. 2019.
+</li>
+<hr> 
+<li>
+  S. Jacobsson, U. Gustavsson, G. Durisi, and C. Studer, ``Massive MU-MIMO-OFDM uplink with hardware impairments: Modeling and analysis,'' in <em>Proc. Allerton Conf. Commun., Contr., Comput.,</em> Pacific Grove CA, U.S.A., Nov. 2018. [<a href="https://arxiv.org/abs/1812.02078" target="_blank">arXiv</a>]
+</li>
+  <hr> 
 <li> J. Östman, G. C. Ferrante, R. Devassy, and G. Durisi, ``Low-latency
   short-packet transmissions: Fixed length or HARQ?'' in <em>Proc. IEEE
   Global Telecommun. Conf. (GLOBECOM)</em>, Abu Dhabi, UAE, Dec. 2018.
-  <hr> [<a href="https://arxiv.org/abs/1809.06560" target="_blank">arXiv</a>]
+  [<a href="https://arxiv.org/abs/1809.06560" target="_blank">arXiv</a>]
 </li>
   
-
+<hr> 
   
 <li> S. Jacobsson, O. Castaneda, C. Jeon, G. Durisi, and C. Studer, “Nonlinear precoding for phase-quantized constant-envelope massive MU-MIMO-OFDM,” in <em>Proc. Int. Conf. Telecommun. (ICT)</em>, Saint-Malo, France, Jun. 2018.
   <hr>
