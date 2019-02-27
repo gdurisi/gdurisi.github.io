@@ -7,11 +7,12 @@ category: blog
 tags:
   - FBL_tutorial
 ---
+
 One objective of next generation wireless communication systems is to provide mission critical links that can deliver short information packets with high reliability and low latency.
 The availability of such links, which are named ultra-reliable low-latency communications (URLLC) will enable a large range of novel applications such as vehicular communication for autonomous driving and traffic safety, and wireless-powered factory automation.
 
 
-So how do we optimally design URLLCs? This is a tricky question, even if we just stop at the physical layer. Are our system models accurate enough to design systems operating at $10^{-6}$ frame error rate? 
+So how do we optimally design URLLCs? This is a tricky question, even if we just stop at the physical layer. Are our system models accurate enough to design systems operating at $10^{-6}$ frame error rate?
 
 But there is an even more fundamental problem. The physical-layer design of current systems relies largely on guidelines provided by information-theory analyses. For example, the well-known formula for the capacity of the AWGN channel
 
@@ -32,7 +33,3 @@ Go to [part 2](/posts/fbl-tutorial-2/)
 
 
 [^1]: Eq. (296) in Y. Polyanskiy, H. V. Poor, and S. Verdú, “Channel coding rate in the finite blocklength regime,” IEEE Trans. Inf. Theory,  2010.
-
-
-
-

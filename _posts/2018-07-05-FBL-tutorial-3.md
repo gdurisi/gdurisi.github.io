@@ -1,6 +1,5 @@
 ---
-title: 'Designing URLLC via nonasymptotic information theory--part 3
-'
+title: 'Designing URLLC via nonasymptotic information theory--part 3'
 date: 2018-07-07
 permalink: /posts/fbl-tutorial-3/
 category: blog
@@ -13,12 +12,12 @@ tags:
 
 
 
-In the last post, I gave a teaser on how finite-blocklength information theory can help us identifying the triplets $(k,n,\epsilon)$ for which a $(k,n,\epsilon)$ code can be found. 
-Let us illustrate this with the following figure: 
+In the last post, I gave a teaser on how finite-blocklength information theory can help us identifying the triplets $(k,n,\epsilon)$ for which a $(k,n,\epsilon)$ code can be found.
+Let us illustrate this with the following figure:
 
 ![Feasible and not feasible (k,n) pairs](/images/biawgn_fig_possible.png)
 
-This is essentially the same figure I showed  in [part 2](/posts/fbl-tutorial-2/),  but now I have put information bits rather rate on the y-axis. 
+This is essentially the same figure I showed  in [part 2](/posts/fbl-tutorial-2/),  but now I have put information bits rather rate on the y-axis.
 The figure illustrates achievability and converse bounds on $k^\star(n,\epsilon)$ as a function of $n$ for $\epsilon=10^{-4}$ and $\rho=0$ dB (here, $\rho$ is the SNR associated to the reception of our BPSK symbols).
 
 I also plotted in magenta the curve $k^\star(n,\epsilon)=C n$ with $C$ standing for channel capacity, which comes from an asymptotic capacity analysis. Please note that this curve is just an approximation that is valid only in the asymptotic limit $n\rightarrow \infty$.
@@ -30,7 +29,7 @@ Note also how more accurate the  classification enabled by FBL-IT is compared to
 
 In the remainder of this post, I will explain how to evaluate the achievability (blue) curve shown in the figure. I'll discuss the converse bound in the next post.
 
-### The random-coding union bound with parameter s.
+### The random-coding union bound with parameter s
 
 Achievability bounds in finite-blocklength information theory give us a lower bound on $k^\star(n,\epsilon)$, and, hence on $R^\star(k,n)$, or, equivalently, an upper bound on $\epsilon^*(k,n)$ for a given SNR value.
 
@@ -42,7 +41,7 @@ This bound, which gives the achievability curve showed in blue in the plot, is a
 - it is reasonably easy to evaluate numerically
 - it lends itself to an easy generalization to arbitrary, mismatch decoding rules. This allows for its applications in many setups of practical relevance, including when one uses pilot symbols to estimate the channel in a fading environment, and nearest-neighbor detection based on the estimated CSI at the receiver.
 
-Like most achievability bounds in information theory, the RCUs bound relies on *random coding*. What does this mean?  The goal is, for fixed $k$ and $n$, to produce a code whose probability of error can be upper-bounded by a function of $k$ and $n$ that is reasonably easy to compute. The proof methodology is, however, not constructive in that it does not give us an actual code. 
+Like most achievability bounds in information theory, the RCUs bound relies on *random coding*. What does this mean?  The goal is, for fixed $k$ and $n$, to produce a code whose probability of error can be upper-bounded by a function of $k$ and $n$ that is reasonably easy to compute. The proof methodology is, however, not constructive in that it does not give us an actual code.
 
 Indeed, rather than analyzing the performance of a given code, we analyze the average performance of a random ensemble of codes, whose codewords are drawn independently from a given input distribution. Then, we show that the average error probability, averaged over this ensemble is upper-bound by a suitable, easy-to-evaluate function of $k$ and $n$. Finally, we conclude that there must exist at least a code in the ensemble whose error probability is upper-bounded by that function.
 
@@ -71,7 +70,7 @@ with $\bar{X}^n$ distributed as $P_{X^n}$ and independent of $X^n$.
 
 I will next provide a proof for this bound. Implementation details, including a matlab script are given at the end of the post.
 
-Let $M=2^k$ be the number of messages associated with the $k$ information bits. We assign to each message an $n$-dimensional codeword $C_j$, $j=1\dots,M$ generated independently from $P_{X^n}$. 
+Let $M=2^k$ be the number of messages associated with the $k$ information bits. We assign to each message an $n$-dimensional codeword $C_j$, $j=1\dots,M$ generated independently from $P_{X^n}$.
 We shall analyze the average error probability under maximum-likelihood decoding, averaged with respect to all possible codewords generated in this way. The reader familiar with the derivation of Gallager's random coding error exponent [^3] will recognize most of the following steps.
 For a given realization $c_1,\dots,c_M$ of our random codebook, the error probability can be upper-bounded as
 
@@ -97,7 +96,7 @@ $$\epsilon \leq \mathbb{E}_{C_1,Y^n}\left[\min\left\{1, (M-1)\mathrm{Pr}\left[  
 
 This is precisely the RCU bound proposed in [^1] .
 
-Unfortunately, this bound is difficult to compute for the bi-AWGN channel. Indeed, no closed-form expression for the probability term in the bound is available. And a naïve Monte-Carlo approach to compute this term is unfeasible (although more sophisticated saddle-point approximation methods could be adopted instead). To see why, assume that $k=100$. Then, to compute the RCU bound, we would need to evaluate tail probabilities as small as $2^{-100}\approx 10^{-30}$. 
+Unfortunately, this bound is difficult to compute for the bi-AWGN channel. Indeed, no closed-form expression for the probability term in the bound is available. And a naïve Monte-Carlo approach to compute this term is unfeasible (although more sophisticated saddle-point approximation methods could be adopted instead). To see why, assume that $k=100$. Then, to compute the RCU bound, we would need to evaluate tail probabilities as small as $2^{-100}\approx 10^{-30}$.
 
 One way to avoid this is to upper-bound the probability term using generalized Markov inequality. This inequality says that for every nonnegative random variable $T$ and for every nonnegative $s$,
 
@@ -143,8 +142,3 @@ or move on to [part 4](/posts/fbl-tutorial-4/)
 [^2]: A. Martinez and A. Guillén i Fàbregas, “Saddlepoint approximation of random–coding bounds,” in Proc. Inf. Theory Applicat. Workshop (ITA), San Diego, CA, U.S.A., Feb. 2011.
 
 [^3]: Section 5.6 of R. G. Gallager, Information Theory and Reliable Communication, New York, NY, U.S.A., 1968.
-
-
-
-
-
