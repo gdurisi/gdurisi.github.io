@@ -4,6 +4,7 @@ title: 'Designing URLLC via nonasymptotic information theory--part 1
 date: 2018-06-19
 permalink: /posts/fbl-tutorial-1/
 category: blog
+classes: wide
 tags:
   - FBL_tutorial
 ---

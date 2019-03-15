@@ -1,10 +1,11 @@
---- 
+---
 title:  "My view on massive machine-type communications "
 read_time: false
 excerpt: "Interview on massive machine-type communications for the Cognitive Networks Technical Committee Newsletter"
+classes: wide
 header:
   teaser: /images/connected.png
-categories: 
+categories:
   - blog
 tags:
   - papers
@@ -13,24 +14,24 @@ tags:
 
 I recently presented my view on massive machine-type communications (mMTC) in an interview for the [Cognitive Networks Technical Committee Newsletter](http://cn.committees.comsoc.org/files/2018/12/NewsLetter_Dec_2018.pdf).
 An excerpt of this interview is reported below.
-Do not hesitate to [get in touch](mailto:durisi@chalmers.se) if you have questions/comments. Also, I have some [openings](/news-post/2018/11/19/vacancies/) in this area. 
+Do not hesitate to [get in touch](mailto:durisi@chalmers.se) if you have questions/comments. Also, I have some [openings](/news-post/2018/11/19/vacancies/) in this area.
 
 ***
 *Question:*
 
-How do you define future massive machine-type communication (mMTC) networks, and what will be the business cases for such 5G networks? 
+How do you define future massive machine-type communication (mMTC) networks, and what will be the business cases for such 5G networks?
 
 *Answer:*
 
-Machine-type communications (MTCs), i.e., machine-centric rather than human-centric communications, will form the backbone of the upcoming automated society. In 5G, they will come in two flavors: 
+Machine-type communications (MTCs), i.e., machine-centric rather than human-centric communications, will form the backbone of the upcoming automated society. In 5G, they will come in two flavors:
 
 * ultra-reliable, low-latency communications (URLLC), which will target wireless connections with stringent requirements on both latency and reliability;  
 
 *  massive MTC (mMTC), which will focus instead on providing connectivity to a large number of devices that transmit sporadically a low amount of traffic.
 
-I see mMTC as the key technology needed to scale up the internet of thing (IoT), from its current limited use in the consumer sector, to its general use by enterprises and public entities, including municipalities. 
+I see mMTC as the key technology needed to scale up the internet of thing (IoT), from its current limited use in the consumer sector, to its general use by enterprises and public entities, including municipalities.
 
-The country I live in, i.e., Sweden, has the objective to become best in the world in using the opportunities brought by digitalization. I believe that deploying mMTC solutions systematically at an enterprise and municipality level will be key to achieve this goal. 
+The country I live in, i.e., Sweden, has the objective to become best in the world in using the opportunities brought by digitalization. I believe that deploying mMTC solutions systematically at an enterprise and municipality level will be key to achieve this goal.
 Once available, such IoT connectivity solutions will bring many advantages, which span from increasing revenues by enabling new business models, to improving effectivity and decreasing costs. Pilot projects are already ongoing in different parts of the world where IoT technology is used for smart lightening, waste disposal, asset tracking, process monitoring and optimization, etc...
 
 Connectivity solutions for mMTC are currently under development both in the licensed part of the spectrum (LTE and 5G) and the unlicensed part (low-power wide-area network (LP-WAN) solutions such as SigFox and LoRaWAN). One critical challenge in developing general mMTC solutions is that MTC devices will be extremely heterogeneous in terms of computational capabilities, cost, energy consumption, and transmission power. It will probably be hard to develop a single cellular technology able to address such heterogeneity, and there will be business opportunities for alternative specialized technologies, especially in the LP-WAN area.
@@ -57,7 +58,7 @@ Could you please elaborate on the main role of mMTC in key vertical industries? 
 
 Possible scenarios for mMTCs include structure and environmental monitoring, asset tracking, and process monitoring and optimization. The volume necessary for the success of such technology will come only if mMTCs will be used extensively in many of the services offered by municipalities. Examples may include maintenance of road signs and lightening, as well as smart waste disposal.
 
-One challenge is that mMTCs as currently defined in 5G appear too heterogeneous for a single technology to cover all use cases. And this is true even if we focus on a single vertical scenario, say factory automation, where different MTC-enabled applications come with completely different throughput, latency, and reliability requirements. Compare for example the requirements on a wireless link used to control an actuator with the requirements on a link allowing an operator to access sensor data on a mobile device for monitoring purposes. 
+One challenge is that mMTCs as currently defined in 5G appear too heterogeneous for a single technology to cover all use cases. And this is true even if we focus on a single vertical scenario, say factory automation, where different MTC-enabled applications come with completely different throughput, latency, and reliability requirements. Compare for example the requirements on a wireless link used to control an actuator with the requirements on a link allowing an operator to access sensor data on a mobile device for monitoring purposes.
 
 Telecoms are heavily involved in pilot projects in different vertical industries. For example, Chalmers is part of a successful project in the area of [5G-enabled manufacturing](https://research.chalmers.se/en/project/8452) together with Ericsson, SKF, Volvo, and Siemens in which demonstrators for manufacturing system design, deployment, operation and maintenance are under development.
 
@@ -91,7 +92,7 @@ There are many excellent works on the design of mMTCs. I would like to highlight
 
 * C. Bockelmann, et al., “Towards Massive Connectivity Support for Scalable mMTC Communications in 5G Networks,” IEEE Access, vol. 6, pp. 28 969–28 992, 2018.
 
-This paper offers a comprehensive review of recent research activities on the design on mMTC for 5G, performed in the context of the Horizon2020 European Project FANTASTIC-5G. 
+This paper offers a comprehensive review of recent research activities on the design on mMTC for 5G, performed in the context of the Horizon2020 European Project FANTASTIC-5G.
 
 * Y. Polyanskiy, “A perspective on massive random access,” in IEEE Int. Symp. Inf. Theory (ISIT), Jan. 2017.
 
@@ -111,12 +112,10 @@ What are the most important open problems and future research directions towards
 
 The work by Polyanskiy (2017) has illustrated that classic random-access protocols, which were originally developed to maximize throughput, perform poorly when analyzed through the lens of energy efficiency. Many researchers have recently developed alternative coding schemes, which approach the fundamental limits unveiled by Polyanskiy (2017). However, most of these analyses are performed on simplified channel models. Assessing whether these alternative solutions are robust against the impairments typically encountered in mMTCs (asynchronism, lack of channel knowledge, phase noise) is an important research direction.
 
-Next-generation 5G networks will need to support other traffic types than just mMTC. How to guarantee optimal coexistence between drastically different service types is a crucial research question.  As for the case of fading in a multiuser environment, one should be able to exploit this heterogeneity in the protocol-design phase to improve performance, a concept we referred to as "reliability diversity" in a recent [contribution](https://arxiv.org/abs/1804.05057). 
+Next-generation 5G networks will need to support other traffic types than just mMTC. How to guarantee optimal coexistence between drastically different service types is a crucial research question.  As for the case of fading in a multiuser environment, one should be able to exploit this heterogeneity in the protocol-design phase to improve performance, a concept we referred to as "reliability diversity" in a recent [contribution](https://arxiv.org/abs/1804.05057).
 
 A final important research issue is privacy and security. Short payloads combined with latency constraints, and limited computational capabilities at the devices make it hard to adapt current cryptographic methods to mMTC. Recent nonasymptotic information-theory results have given us a precise way to characterize the tradeoff between reliability, energy efficiency, and throughput in the transmission of short payloads. However, very little is available on the characterization of the latency and energy overheads required to implement security and privacy protocols.
 
 The massiveness and the sporadic nature of the MTC traffic pose unique novel challenges that the research community has started investigating only very recently. I believe that there are many opportunities to bring novel research ideas into practice, both in 5G and in LP-WAN.
 
 To conclude, I would like to thank the following persons for the many interesting discussions on the topic of mMTC: Martin Edofsson, Johan Lassing, [Gianluigi Liva](http://www.wirelesscoding.org), [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/), [Petar Popovski](http://petarpopovski.es.aau.dk), [Osvaldo Simeone](https://nms.kcl.ac.uk/osvaldo.simeone/index.htm), Kasper Fløe Trillingsgaard, and Andreas Wolfgang.
-
-

@@ -3,6 +3,7 @@ title: 'Designing URLLC via nonasymptotic information theory--part 3'
 date: 2018-07-07
 permalink: /posts/fbl-tutorial-3/
 category: blog
+classes: wide
 excerpt: "Third part of my series of posts about the design of URLLC through finite-blocklength information theory: the random-coding union bound with parameter s."
 header:
   teaser: /images/biawgn_fig_possible.png
