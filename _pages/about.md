@@ -4,7 +4,8 @@ title: "Giuseppe Durisi"
 excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, communication theory, machine learning, AI"
 author_profile: true
 layout: single
-redirect_from: 
+classes: wide
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,7 +17,7 @@ Gothenburg, Sweden
 
 ---
 # About
-My research area is information theory, a mathematical discipline that deals with optimal methods for representing, communicating and storing digital information. 
+My research area is information theory, a mathematical discipline that deals with optimal methods for representing, communicating and storing digital information.
 I'm currently interested in a broad range of topics:
 
 - the characterization of the trade-off between latency, reliability and throughput in the transmission of digital information over both wireless and optical fiber channels
@@ -31,7 +32,7 @@ I'm currently interested in a broad range of topics:
 I strive  to find mathematically elegant solutions to practically relevant engineering problems in the field of information transmission and processing.  Aiming for clarity and precision as well as making my research reproducible are among  my top priorities.
 
 ---
-# My blog: [short packets](/year-archive) 
+# My blog: [short packets](/year-archive)
 ---
 # News
 ---
@@ -40,4 +41,3 @@ I strive  to find mathematically elegant solutions to practically relevant engin
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
-

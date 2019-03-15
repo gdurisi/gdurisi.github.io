@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+classes: wide
 ---
 
 
@@ -18,6 +19,3 @@ author_profile: true
 ## TU Vienna ##
 
 - [Network information theory](https://sites.google.com/site/durisi/teaching/nit-tuvienna-2012) (Ph.D., short course, 2012)
-
-
-

@@ -3,17 +3,17 @@ layout: archive
 permalink: /year-archive/
 title: "Short packets"
 author_profile: true
+classes: wide
 redirect_from:
   - /wordpress/blog-posts/
 ---
-<blockquote> “It has long been an axiom of mine that the little things are infinitely the most important.” 
+<blockquote> “It has long been an axiom of mine that the little things are infinitely the most important.”
 ― Arthur Conan Doyle, The Memoirs of Sherlock Holmes.
 </blockquote>
 
 {% for post in site.posts %}
   {% if post.categories contains 'blog' %}
 		<!-- <h2 class=class="archive__subtitle"><a href="{{ post.url }}">{{ post.title }}</a></h3> -->
-    {% include archive-single.html type="grid"%}  
+    {% include archive-single.html type="grid"%}
   {% endif %}
 {% endfor %}
-

@@ -3,6 +3,7 @@ layout: archive
 title: "Vacancies"
 permalink: /vacancies/
 author_profile: true
+classes: wide
 ---
 
 ### PhD student vacancies
