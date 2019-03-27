@@ -15,7 +15,7 @@ classes: wide
 
 ### Post-doctoral vacancies
 
-- [**March 2019**] I am looking for a postdoctoral researcher interested in working in information-theoretic analyses of massive machine-type communication systems and/or in information-theoretic methods in machine learning/deep learning. Do get in touch if you are interested.
+- [**March 2019**] I am looking for a postdoctoral researcher interested in working in information-theoretic problems in communication, inference, and learning. [Click here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=7369&rmlang=UK) for more info and for applying.
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 

@@ -14,7 +14,7 @@ tags:
 
 ![image-left](/images/AvancezChalmers.png){: .align-left}
 
-**Update March 2019**: I have an additional opening for one PhD student and one postdoctoral researcher. Do get in touch if you are interested.
+**Update March 2019**: I have an additional opening for one PhD student and one [postdoctoral researcher](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=7369&rmlang=UK). Do get in touch if you are interested.
 
 ***
 
