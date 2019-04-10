@@ -8,9 +8,9 @@ classes: wide
 
 
 
-## Post-doctoral students
+<!-- ## Post-doctoral students
 
-- Guido Carlo Ferrante (October 2017-present): finite-blocklength information theory
+- Guido Carlo Ferrante (October 2017-present): finite-blocklength information theory -->
 
 ## Ph.D. students
 
@@ -35,3 +35,7 @@ classes: wide
 - Veniamin I. Morgenshtern (ETH Zurich, 2010, co-supervised with Prof. Helmut Bölcskei), now with Erlangen University, Germany
 
 - Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
+
+## Former Post-doctoral students
+
+- Guido Carlo Ferrante (October 2017-October 2018), now with Ericsson Research, Sweden

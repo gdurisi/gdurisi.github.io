@@ -27,12 +27,10 @@ author_profile: true
 
 <ol>
 
+<li>
+ J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “On the nonasymptotic perforamnce of variable-length codes with noisy stop feedback (extended version with proof)”, 2019. [<a href="{{ site.url }}/files/2019/Ostman2019.pdf">pdf</a>]
+</li>
 
-
-  <li>
-    K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” Dec. 2018.
-    [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]
-  </li>
 
   <hr>
 
@@ -82,6 +80,13 @@ author_profile: true
 ## Journal Papers
 
 <ol>
+
+<li>
+  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019, to appear
+  [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]
+</li>
+
+  <hr>
 
   <li>
     M. C. Coçkun, G. Durisi, T. Jerkovits, G. Liva, W. Ryan, B. Stein, and F. Steiner, “Efficient error-correcting codes in the short blocklength regime,” Dec. 2018.

@@ -8,7 +8,7 @@ classes: wide
 
 ### PhD student vacancies
 
-- [**March 2019**] I have a PhD opening in the area of mission-critical machine-type communication; do get in touch if you are interested.
+- No openings available in my team 
 
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx)
 
