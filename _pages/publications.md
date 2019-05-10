@@ -28,7 +28,7 @@ author_profile: true
 <ol>
 
 <li>
- J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “On the nonasymptotic perforamnce of variable-length codes with noisy stop feedback (extended version with proof)”, 2019. [<a href="{{ site.url }}/files/2019/Ostman2019-a.pdf">pdf</a>]
+ J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “On the nonasymptotic performance of variable-length codes with noisy stop feedback (extended version with proof)”, 2019. [<a href="{{ site.url }}/files/2019/Ostman2019-a.pdf">pdf</a>]
 </li>
 
 
