@@ -14,19 +14,27 @@ classes: wide
 
 ## Ph.D. students
 
+- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
+
 - Fredrik Hellström (August 2018-presents): Mathematics of deep learning
 
 - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures
 
 - Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
 
-- Sven Jacobsson (March 2015-present): Massive MIMO with low precision converters [industrial PhD student at Ericsson Research]
+<!-- - Sven Jacobsson (March 2015-present): Massive MIMO with low precision converters [industrial PhD student at Ericsson Research]
 
 - Kamran Keykhosravi (March 2014-present): Information theory for fiber-optic channels [co-supervised with Prof. Erik Agrell]
 
-- Rahul Devassy (August 2013 - present): fading networks at finite blocklength
+- Rahul Devassy (August 2013 - present): fading networks at finite blocklength -->
 
 ## Former Ph.D. students
+
+- Sven Jacobsson (Chalmers, 2019): Massive multiantenna communications with low-resolution converters [[PhD thesis](https://chalmersuniversity.box.com/s/7gmf42jcxnfu8a02wx9r3si2e5c9qx2t)]
+
+- Rahul Devassy (Chalmers, 2019): Delay and throughput bounds for the design of next-generation wireless systems [[PhD thesis](https://chalmersuniversity.box.com/s/jjz97z6tjvpqlq2pgeg16pj5n60tr1h0)]
+
+- Kamran Keykhosravi (Chalmers, 2019): Capacity analysis and receiver design in the presence of fiber nonlinearity [[PhD thesis](https://chalmersuniversity.box.com/s/t12r161q6khcrx3aal4u9ho8mzlewncx)]
 
 - Wei Yang (Chalmers, 2015), now with Qualcomm, San Diego, CA USA [[PhD thesis](https://chalmersuniversity.box.com/shared/static/cp3xuzd81of6k9c6a3ajgezbfnzbospd.pdf)]
 
