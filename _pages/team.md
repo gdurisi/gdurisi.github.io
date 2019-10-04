@@ -34,8 +34,8 @@ classes: wide
 
 -   Rahul Devassy (Chalmers, 2019): Delay and throughput bounds for the design of next-generation wireless systems, now with Ericsson Research, Gothenburg, Sweden
  \[[PhD thesis](https://chalmersuniversity.box.com/s/jjz97z6tjvpqlq2pgeg16pj5n60tr1h0)]
- 
--   Kamran Keykhosravi (Chalmers, 2019): Capacity analysis and receiver design in the presence of fiber nonlinearity, now with QAMCOM
+
+-   Kamran Keykhosravi (Chalmers, 2019): Capacity analysis and receiver design in the presence of fiber nonlinearity, now with QAMCOM, Gothenburg, Sweden
  \[[PhD thesis](https://chalmersuniversity.box.com/s/t12r161q6khcrx3aal4u9ho8mzlewncx)]
 
 -   Wei Yang (Chalmers, 2015), now with Qualcomm, San Diego, CA USA \[[PhD thesis](https://chalmersuniversity.box.com/shared/static/cp3xuzd81of6k9c6a3ajgezbfnzbospd.pdf)]
