@@ -16,6 +16,9 @@ Gothenburg, Sweden
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
 
 ---
+**[Jan. 2020] [Vacancies in my team](/vacancies)!**
+<hr>
+
 # About
 My research area is information theory, a mathematical discipline that deals with optimal methods for representing, communicating and storing digital information.
 I'm currently interested in a broad range of topics:
