@@ -8,14 +8,14 @@ classes: wide
 
 ### PhD student vacancies
 
-- No openings available in my team 
+- [**Jan. 2020**] PhD student position available: ``[generalization bounds for deep neural network: design and insights](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=8281)''. Deadline: **Mar. 6**. Note: this is part of a broad recruitment at Chalmers in the field of mathematics for artificial intelligence. A total of six PhD students will be recruited.
 
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx)
 
 
 ### Post-doctoral vacancies
 
-- [**March 2019**] I am looking for a postdoctoral researcher interested in working in information-theoretic problems in communication, inference, and learning. [Click here](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=7369&rmlang=UK) for more info and for applying.
+- [**Jan. 2020**] I am looking for a postdoctoral researcher interested in working on the following project: ``[resilient and secure delay-critical edge computing](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=8237&rmlang=UK)''. Deadline: **Jan. 31**
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 

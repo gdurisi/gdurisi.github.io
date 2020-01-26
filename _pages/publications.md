@@ -1,13 +1,14 @@
 ---
-layout: archive
+<!-- layout: archive -->
+layout: single
+toc: true
+toc_label: "Table of content"
 title: "Publications"
-permalink: /publications/
-classes: wide
+permalink: /publications/ 
 author_profile: true
 ---
-
+<!-- classes: wide -->
 <!--******************************************** -->
-
 ## Software
 
 <ol>
@@ -27,6 +28,13 @@ author_profile: true
 ## Preprints
 
 <ol>
+
+<li>
+  O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
+  ``Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
+  mmWave communications,'' Sep. 2019.
+</li>
+<hr>
 
 <li>
   J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” Sep. 2019.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
@@ -285,10 +293,6 @@ author_profile: true
   <li> U.&nbsp;G. Schuster, G.&nbsp;Durisi, H.&nbsp;Bölcskei, and H.&nbsp;V. Poor, "<a href="http://dx.doi.org/10.1109/TCOMM.2009.09.080044">Capacity bounds
       for peak-constrained multiantenna wideband channels</a>," <em>IEEE Trans.
       Commun.</em>, vol.&nbsp;57, no.&nbsp;9, pp. 2686-2696, Sep. 2009.
-
-
-
-
   </li>
 <hr>
   <li> M.&nbsp;R. Casu and G.&nbsp;Durisi, "<a href="http://onlinelibrary.wiley.com/doi/10.1002/wcm.309/pdf">Implementation aspects of a transmitted-reference
@@ -314,9 +318,7 @@ author_profile: true
     probability computation of UWB systems for indoor multiuser
     communications," <em>J. Commun. Netw., Special Issue: Ultra-Wideband (UWB) Communication,</em>&nbsp;vol.&nbsp;5, no.&nbsp;4, pp. 354-364, Dec. 2003.
 
-
-
-    <hr>
+  <hr>
   </li>
 
   <li> G.&nbsp;Durisi and S.&nbsp;Benedetto, "Performance evaluation of TH-PPM in the presence of multiuser interference," <em>IEEE Commun. Lett.</em>, vol.&nbsp;7,
@@ -340,29 +342,70 @@ author_profile: true
 ## Conference Papers
 <ol>
 
+<li>
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
+  ``Soft-output finite alphabet equalization for mm-wave massive MIMO,'' in
+  <em>Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)</em>,
+  Barcelona, Spain, May 2020.
+</li>
+<hr>
+<li>
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
+  ``High-bandwidth spatial equalization for mmWave massive MU-MIMO with
+  processing-in-memory,'' in <em> Proc. IEEE Int. Symp. Circuits and Syst.
+  (ISCAS)</em>, Seville, Spain, May 2020.
+</li>
+<hr>
+<li>
+J. Östman, A. Lancho, and G. Durisi, ``Short-packet transmission over a
+  bidirectional massive MIMO link,'' in <em>Proc. Asilomar Conf. Signals</em>,
+  Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2019. <a href="https://arxiv.org/abs/1912.00718">[arXiv]</a>
+</li>
+<hr>
+<li>
+  Y. Ettefagh, A. Hu, S. Jacobsson, and G. Durisi, ``All-digital massive MIMO
+  uplink and downlink rates under a fronthaul constraint,'' in <em>Proc.
+  Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2019. <a href="https://arxiv.org/abs/1912.02718">[arXiiv]</a>
+</li>
+<hr>
+<li>
+  O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
+  ``Finite-alphabet Wiener filter precoding for mmWave massive MU-MIMO
+  systems,'' in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific
+  Grove CA, U.S.A., Nov. 2019.
+</li>
+<hr>
+<li>
+  M. Xhemrishi, M. C. Coskun, G. Liva, J. Östman, and G. Durisi, ``List
+  decoding of short codes for communication over unknown fading channels,'' in
+  <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA,
+  U.S.A., Nov. 2019.
+</li>
+<hr>
   <li>
     S. Jacobsson, L. Aabel, M. Coldrey, I. C. Sezgin, C. Fager, G. Durisi, and C. Studer, “Massive MU-MIMO-OFDM Uplink with Direct RF-Sampling and 1-Bit ADCs,” in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em>, Waikoloa, HI, USA, Dec. 2019.
   </li>
-
+<hr>
   <li>
-    J. ¨Ostman, R. Devassy, G. Durisi, and E. G. Str¨om, “On the nonasymptotic performance of variable-length codes with noisy stop feedback,” in <em>Proc. IEEE Inf. Theory Workshop (ITW)</em>, Visby, Sweden, Sep. 2019.
+    J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “On the nonasymptotic performance of variable-length codes with noisy stop feedback,” in <em>Proc. IEEE Inf. Theory Workshop (ITW)</em>, Visby, Sweden, Sep. 2019.
   </li>
-
+<hr>
   <li>
-    A. Lancho, J. ¨Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint approximations for noncoherent single-antenna Rayleigh block-fading channels,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Paris, France, Jul. 2019.
+    A. Lancho, J. Östman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint approximations for noncoherent single-antenna Rayleigh block-fading channels,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Paris, France, Jul. 2019.
   </li>
+  <hr>
   <li>
-    A. Balatsoukas-Stimming, O. Casta˜neda, S. Jacobsson, G. Durisi, and C. Studer, “Neural-network optimized 1-bit precoding for massive MU-MIMO,” in <em></em>, Cannes, France, Jul. 2019.
+    A. Balatsoukas-Stimming, O. Castañeda, S. Jacobsson, G. Durisi, and C. Studer, “Neural-network optimized 1-bit precoding for massive MU-MIMO,” in <em></em>, Cannes, France, Jul. 2019.
   </li>
-
+<hr>
   <li>
     S. Jacobsson, C. Lindquist, G. Durisi, T. Eriksson, and C. Studer, “Timing and frequency synchronization for 1-bit massive MU-MIMO-OFDM downlink,” in <em>IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Cannes, France Jul. 2019.
   </li>
-
+<hr>
   <li>
-    J. ¨Ostman, R. Devassy, G. Durisi, and E. Uysal, “Peak-age violation guarantees for the transmission of short packets over fading channels,” in <em>Proc. IEEE Int. Conf. Comp. Commun (INFOCOM)</em>, Paris, France, Apr. 2019.
+    J. Östman, R. Devassy, G. Durisi, and E. Uysal, “Peak-age violation guarantees for the transmission of short packets over fading channels,” in <em>Proc. IEEE Int. Conf. Comp. Commun (INFOCOM)</em>, Paris, France, Apr. 2019.
   </li>
-
+<hr>
   <li>
     M. C. Coskun, G. Liva, J. Östman, and G. Durisi, ``Low-complexity joint channel estimation and list decoding of short codes,'' in <em>Proc. Int. ITG Conf. Sys. Commun. Coding (SCC)</em>, Rostock, Germany, Feb. 2019.
   </li>
@@ -662,7 +705,7 @@ S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit ma
   <hr>
   <li>
     U. Gustavsson, C. Sanchéz-Perez, T. Eriksson, F. Athley, G. Durisi, P. Landin, K. Hausmair, C. Fager, and L. Svensson, “On the impact of hardware impairments on massive MIMO,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Austin, TX, Dec.
-    2014. [<a href="http://arxiv.org/abs/1411.7197" target="_blank">arXiv</a>]
+    1.    [<a href="http://arxiv.org/abs/1411.7197" target="_blank">arXiv</a>]
 
 
   </li>
