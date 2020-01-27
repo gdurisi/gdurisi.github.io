@@ -2,7 +2,8 @@
 <!-- layout: archive -->
 layout: single
 toc: true
-toc_label: "Table of content"
+toc_label: "Publications"
+toc_icon: "book"
 title: "Publications"
 permalink: /publications/ 
 author_profile: true
