@@ -12,7 +12,9 @@ tags:
   - team
 ---
 
-There are two open positions in my [team](/team), one doctoral-student vacancy and one post-doctoral vacancy.
+Currently, there are no open positions in my [team](/team).
+Please, check often for updates.
+ one doctoral-student vacancy and one post-doctoral vacancy.
 A short description of the two positions can be found below:
 
 ### Post-doctoral vacancy on ``resilient and secure delay-critical edge computing''

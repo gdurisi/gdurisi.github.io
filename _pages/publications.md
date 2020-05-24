@@ -31,22 +31,14 @@ author_profile: true
 <ol>
 
 <li>
-  O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
-  ``Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
-  mmWave communications,'' Sep. 2019.
+F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” May 2020. [<a href="https://arxiv.org/abs/2005.08044">arXiv</a>]
 </li>
+
 <hr>
 
 <li>
   J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” Sep. 2019.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
 </li>
-
-<hr>
-
-<li>
-  A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” Sep. 2019. [<a href="http://arxiv.org/abs/1904.10442">arXiv</a>]
-</li>
-
 </ol>
 
 
@@ -56,7 +48,6 @@ author_profile: true
   <li>
     A. Zaidi, F. Athley, J. Medbo, U. Gustavsson, G. Durisi, and X. Cheng, <em>5G Physical Layer: principles, models and technology components</em>. Academic Press, 2018 [<a href="https://www.elsevier.com/books/5g-physical-layer/zaidi/978-0-12-814578-4"
       target="_blank">website</a>].
-
   </li>
 </ol>
 
@@ -65,6 +56,10 @@ author_profile: true
 ## Book Chapters
 
 <ol>
+  <li>
+    G. Durisi, G. Liva, and Y. Polyanskiy, “Short-packet transmission,” in Information Theoretic Perspectives on 5G Systems and Beyond, I. Mari´c, S. Shamai (Shitz), and O. Simeone, Eds. London, U.K.: Cambridge Univ. Press, Jul. 2020.
+  </li>
+  <hr>
   <li>G.&nbsp;Durisi, U.&nbsp;G. Schuster, V.&nbsp;I. Morgenshtern, H.&nbsp;Bölcskei, and
     S.&nbsp;Shamai&nbsp;(Shitz), "<a href="https://sites.google.com/site/durisi/publications/Durisi2011-03a.pdf?attredirects=0">Information theory of underspread WSSUS channels</a>," in
     <em>Wireless Communications over Rapidly Time-Varying Channels</em>,
@@ -75,6 +70,25 @@ author_profile: true
 ## Journal Papers
 
 <ol>
+
+<li>
+A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” IEEE Trans. Wireless Commun., 2020.
+</li>
+<hr>
+
+<li>
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “High-bandwidth spatial equalization for mmWave massive MU-MIMO with processing-in-memory,” IEEE Trans. Circuits Syst. II: Express Briefs, 2020.
+</li>
+<hr>
+
+<li>
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
+  ``Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
+  mmWave communications,'' IEEE J. Sel. Areas Commun., 2020, to
+  appear.
+</li>
+
+<hr>
 
 <li>
   A. Lancho, T. Koch, and G. Durisi, “On single-antenna Rayleigh block-fading channels at ﬁnite blocklength,” IEEE Trans. Inf. Theory, 2019.
@@ -342,6 +356,10 @@ author_profile: true
 
 ## Conference Papers
 <ol>
+<li>
+F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Los Angeles, CA, Jul. 2020, to appear.
+</li>
+<hr>
 
 <li>
 O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
