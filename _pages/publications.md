@@ -31,14 +31,28 @@ author_profile: true
 <ol>
 
 <li>
-F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” May 2020. [<a href="https://arxiv.org/abs/2005.08044">arXiv</a>]
+ J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and
+Design at Finite Blocklength,” Sep. 2020. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>]
+
 </li>
 
 <hr>
 
 <li>
-  J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” Sep. 2019.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
+I. C. Sezgin, L. Aabel, S. Jacobsson, G. Durisi, Z. S. He, and C. Fager, “All-digital, radio-over-fiber, communication link architecture for time-division duplex distributed antenna system,” Sep. 2020.
+
 </li>
+
+
+<hr>
+
+<li>
+F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” May 2020. [<a href="https://arxiv.org/abs/2005.08044">arXiv</a>]
+</li>
+
+
+
+
 </ol>
 
 
@@ -71,6 +85,10 @@ F. Hellström and G. Durisi, “Generalization bounds via information density an
 
 <ol>
 
+<li>
+  J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” IEEE Trans. Wireless Commun, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
+</li>
+<hr>
 <li>
 A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” IEEE Trans. Wireless Commun., 2020.
 </li>
