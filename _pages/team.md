@@ -8,7 +8,7 @@ classes: wide
 
 ## Post-doctoral students
 
-- Dr. Khacc Hoang Ngo (October 2020-present): massive random access, security and privacy, age of information
+- Dr. Khac-Hoang Ngo (October 2020-present): massive random access, security and privacy, age of information
 
 - Dr. Arezou Rezazadeh (October 2019-present): finite-blocklength information theory, information theory for machine learning
 
@@ -16,7 +16,7 @@ classes: wide
 
 ## Ph.D. students
 
-- Selma Tabacovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
+- Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
 
 - Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
 
