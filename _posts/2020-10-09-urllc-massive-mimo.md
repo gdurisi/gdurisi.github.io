@@ -3,6 +3,7 @@ title:  "Massive MIMO for URLLC?"
 date: 2020-10-09
 read_time: false
 classes: wide
+image: /images/2020/m-mimo-cell_resized.png
 excerpt: "How should one design a massive MIMO systems so that it can support URLLC?"
 header:
   teaser: /images/2020/urllc_resized.png
