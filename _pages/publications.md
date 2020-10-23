@@ -31,6 +31,22 @@ author_profile: true
 <ol>
 
 <li>
+A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Information Bound for Meta Generalization Gap,” Oct. 2020. [<a href="http://arxiv.org/abs/2010.10886">arXiv</a>]
+
+</li>
+
+<hr>
+
+
+
+<li>
+F. Hellström and G. Durisi, “Nonvacuous loss bounds with fast rates for neural networks via conditional information measures,” Oct. 2020. [<a href="https://arxiv.org/abs/2010.11552">arXiv</a>]
+
+</li>
+
+<hr>
+
+<li>
  J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and
 Design at Finite Blocklength,” Sep. 2020. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>]
 
@@ -86,43 +102,43 @@ F. Hellström and G. Durisi, “Generalization bounds via information density an
 <ol>
 
 <li>
-  J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” IEEE Trans. Wireless Commun, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
+  J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
 </li>
 <hr>
 <li>
-A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” IEEE Trans. Wireless Commun., 2020.
+A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” <em>IEEE Trans. Wireless Commun.</em>, 2020.
 </li>
 <hr>
 
 <li>
-O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “High-bandwidth spatial equalization for mmWave massive MU-MIMO with processing-in-memory,” IEEE Trans. Circuits Syst. II: Express Briefs, 2020.
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “High-bandwidth spatial equalization for mmWave massive MU-MIMO with processing-in-memory,” <em>IEEE Trans. Circuits Syst. II: Express Briefs</em>, 2020.
 </li>
 <hr>
 
 <li>
 O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
   ``Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
-  mmWave communications,'' IEEE J. Sel. Areas Commun., 2020, to
+  mmWave communications,'' <em>IEEE J. Sel. Areas Commun.</em>, 2020, to
   appear.
 </li>
 
 <hr>
 
 <li>
-  A. Lancho, T. Koch, and G. Durisi, “On single-antenna Rayleigh block-fading channels at ﬁnite blocklength,” IEEE Trans. Inf. Theory, 2019.
+  A. Lancho, T. Koch, and G. Durisi, “On single-antenna Rayleigh block-fading channels at ﬁnite blocklength,” <em>IEEE Trans. Inf. Theory</em>, 2019.
   [<a href="https://arxiv.org/abs/1706.07778">arXiv</a>]
 </li>
 
 <hr>
 
 <li>
-  K. Keykhosravi, E. Agrell, and G. Durisi, “Accuracy assessment of nondispersive optical perturbative models through capacity analysis,” Entropy, vol. 21, no. 8, Aug. 2019.
+  K. Keykhosravi, E. Agrell, and G. Durisi, “Accuracy assessment of nondispersive optical perturbative models through capacity analysis,” <em>Entropy</em>, vol. 21, no. 8, Aug. 2019.
 </li>
 
 <hr>
 
 <li>
-  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019, to appear
+  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019
   [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]
 </li>
 
@@ -130,20 +146,19 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 
 <li>
     M. C. Coçkun, G. Durisi, T. Jerkovits, G. Liva, W. Ryan, B. Stein, and F. Steiner, “Efficient error-correcting codes in the short blocklength regime,” Dec. 2018.
-    Physical Communication, Vol. 34, pp. 66-79, Jun. 2019 [<a href="https://arxiv.org/abs/1812.08562">arXiv</a>]
+    <em>Physical Communication</em>, Vol. 34, pp. 66-79, Jun. 2019 [<a href="https://arxiv.org/abs/1812.08562">arXiv</a>]
 </li>
 
 <hr>
 
-<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” <em>IEEE J. Sel. Areas Commun.</em>, 2019,
-    to appear [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
+<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” <em>IEEE J. Sel. Areas Commun.</em>, 2019 [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
 </li>
 
 <hr>
 
 
 <li>
-    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019, to appear [<a href="https: //arxiv.org/abs/1709.04846
+    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019[<a href="https: //arxiv.org/abs/1709.04846
 ">arXiv</a>].
 </li>
 
@@ -152,23 +167,23 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 <li>
     J. Östman, G. Durisi, E. G. Ström, M. C. Coçkun, and G. Liva,
     “Short packets over block-memoryless fading channels: Pilot-assisted or
-    noncoherent transmission?”, <em>IEEE Trans. Commun.</em>, 2018, to appear. [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>].
+    noncoherent transmission?”, <em>IEEE Trans. Commun.</em>, 2018 [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>].
 </li>
 <hr>
 
 <li>
-    P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” <em>IEEE ACCESS</em>, 2018, to appear. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
+    P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” <em>IEEE ACCESS</em>, 2018 [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
 </li>
 
 <hr>
 
 <li>
-    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear. [<a href="https://arxiv.org/abs/1706.07731"
+    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018 [<a href="https://arxiv.org/abs/1706.07731"
       target="_blank">arXiv</a>].
     <hr>
 </li>
 
-  <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Stop feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018, to appear. [<a href="http://arxiv.org/abs/1607.03519"
+  <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Stop feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018 [<a href="http://arxiv.org/abs/1607.03519"
       target="_blank">arXiv</a>].&nbsp;
     <hr>
   </li>
@@ -375,7 +390,7 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 ## Conference Papers
 <ol>
 <li>
-F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Los Angeles, CA, Jul. 2020, to appear.
+F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Los Angeles, CA, Jul. 2020.
 </li>
 <hr>
 
