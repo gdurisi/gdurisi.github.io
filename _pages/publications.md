@@ -30,13 +30,19 @@ author_profile: true
 
 <ol>
 
+
+<li>
+  S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” Nov. 2020. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
+</li>
+  
+<hr>
+
 <li>
 A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Information Bound for Meta Generalization Gap,” Oct. 2020. [<a href="http://arxiv.org/abs/2010.10886">arXiv</a>]
 
 </li>
 
 <hr>
-
 
 
 <li>
