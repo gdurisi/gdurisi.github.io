@@ -24,7 +24,7 @@ classes: wide
 
 - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures
 
-- Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
+<!-- - Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström] -->
 
 <!-- - Sven Jacobsson (March 2015-present): Massive MIMO with low precision converters [industrial PhD student at Ericsson Research]
 

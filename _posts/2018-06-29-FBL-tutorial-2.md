@@ -10,6 +10,8 @@ excerpt: "Second part of my series of posts about the design of URLLC through fi
 tags:
   - FBL_tutorial
 ---
+An updated and expanded version of these notes can be found [here](https://gdurisi.github.io/fbl-notes/){: .btn .btn--danger}
+
 We will start our tour through finite-blocklength information theory by analyzing one of the simplest, yet practically relevant, point-to-point communication channel: the discrete-time binary-input AWGN channel.
 The input-output relation of such a channel is
 

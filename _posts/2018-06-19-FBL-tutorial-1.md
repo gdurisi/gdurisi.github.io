@@ -9,6 +9,8 @@ tags:
   - FBL_tutorial
 ---
 
+An updated version of these notes can be found [here](https://gdurisi.github.io/fbl-notes/){: .btn .btn--danger}
+
 One objective of next generation wireless communication systems is to provide mission critical links that can deliver short information packets with high reliability and low latency.
 The availability of such links, which are named ultra-reliable low-latency communications (URLLC) will enable a large range of novel applications such as vehicular communication for autonomous driving and traffic safety, and wireless-powered factory automation.
 

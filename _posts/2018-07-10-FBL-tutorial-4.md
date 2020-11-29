@@ -11,6 +11,7 @@ tags:
 header:
   teaser: /images/neyman_pearson_v2.png
 ---
+An updated and expanded version of these notes can be found [here](https://gdurisi.github.io/fbl-notes/){: .btn .btn--danger}
 
 In [part 3](/posts/fbl-tutorial-3/) we learnt how to evaluate the achievability bound, i.e., the blue curve in the figure below.
 
