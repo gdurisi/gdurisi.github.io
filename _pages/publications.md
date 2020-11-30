@@ -103,6 +103,14 @@ F. Hellström and G. Durisi, “Generalization bounds via information density an
   </li>
 </ol>
 
+## Lecture Notes
+
+<ol>
+<li>
+G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Transmitting short packets over wireless channels--an information-theoretic perspective</a></em>, Nov. 2020. 
+</li>
+</ol>
+
 ## Journal Papers
 
 <ol>
