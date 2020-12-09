@@ -404,6 +404,14 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 ## Conference Papers
 <ol>
 <li>
+L. Aabel, G. Durisi, I. C. Sezgin, S. Jacobsson, C. Fager, and M. Coldrey, “Distributed massive MIMO via all-digital radio over fiber,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2020. [.pdf](https://research.chalmers.se/publication/520648/file/520648_Fulltext.pdf)
+</li>
+
+<li>
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hardware-friendly two-stage spa- tial equalization for all-digital mm-wave massive MU-MIMO,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2020.
+</li>
+
+<li>
 F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Los Angeles, CA, Jul. 2020.
 </li>
 <hr>
