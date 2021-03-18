@@ -29,48 +29,34 @@ author_profile: true
 ## Preprints
 
 <ol>
+<li>
+ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” Mar. 2021. 
+ [<a href="http://arxiv.org/abs/2103.09721">arXiv</a>]
+</li><hr>
 
+<li>
+F. Hellström and G. Durisi, “Nonvacuous loss bounds with fast rates for neural networks via conditional information measures,” Mar. 2021. [<a href="https://arxiv.org/abs/2010.11552">arXiv</a>]
+</li><hr>
+
+<li>
+A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Information Bound for Meta Generalization Gap,” Feb. 2021. [<a href="http://arxiv.org/abs/2010.10886">arXiv</a>]
+</li><hr>
+
+
+<li>
+S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020
+</li><hr>
 
 <li>
   S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” Nov. 2020. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
-</li>
-  
-<hr>
-
-<li>
-A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Information Bound for Meta Generalization Gap,” Oct. 2020. [<a href="http://arxiv.org/abs/2010.10886">arXiv</a>]
-
-</li>
-
-<hr>
-
-
-<li>
-F. Hellström and G. Durisi, “Nonvacuous loss bounds with fast rates for neural networks via conditional information measures,” Oct. 2020. [<a href="https://arxiv.org/abs/2010.11552">arXiv</a>]
-
-</li>
-
-<hr>
+</li><hr>
 
 <li>
  J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and
 Design at Finite Blocklength,” Sep. 2020. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>]
-
 </li>
-
 <hr>
 
-<li>
-I. C. Sezgin, L. Aabel, S. Jacobsson, G. Durisi, Z. S. He, and C. Fager, “All-digital, radio-over-fiber, communication link architecture for time-division duplex distributed antenna system,” Sep. 2020.
-
-</li>
-
-
-<hr>
-
-<li>
-F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” May 2020. [<a href="https://arxiv.org/abs/2005.08044">arXiv</a>]
-</li>
 
 
 
@@ -114,9 +100,17 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 
 <ol>
-
 <li>
-  J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
+ I. C. Sezgin, L. Aabel, S. Jacobsson, G. Durisi, Z. S. He, and C. Fager, “All-digital, radio-over-fiber, com- munication link architecture for time-division duplex distributed antenna system,” <em>J. Lightw. Technol.</em>, Feb. 2021.
+</li>
+<hr>
+<li>
+  F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” <em>IEEE J. Sel. Areas Info. Theory</em>, vol. 1, no. 3, pp. 824–839, Nov. 2020.  [<a href="http://arxiv.org/abs/2005.08044">arXiv</a>].
+<b>Important note:</b>  the proof of the data-dependent bounds provided in the paper <b>contains an error</b>, which is rectified in the following <a href="{{site.url }}/files/2021/jsait-correction.pdf">document</a>
+</li>
+<hr>
+<li>
+J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
 </li>
 <hr>
 <li>
@@ -403,16 +397,22 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 
 ## Conference Papers
 <ol>
+  <li>
+     A. Lancho, J. Ostman, G. Durisi, and L. Sanguinetti, “A finite-blocklength analysis for URLLC with
+massive MIMO,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Canada, Jun. 2021.
+  </li>
+  <hr>
 <li>
-L. Aabel, G. Durisi, I. C. Sezgin, S. Jacobsson, C. Fager, and M. Coldrey, “Distributed massive MIMO via all-digital radio over fiber,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2020. [.pdf](https://research.chalmers.se/publication/520648/file/520648_Fulltext.pdf)
+  L. Aabel, G. Durisi, I. C. Sezgin, S. Jacobsson, C. Fager, and M. Coldrey, “Distributed massive MIMO via all-digital radio over fiber,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2020. <a href="https://research.chalmers.se/publication/520648/file/520648_Fulltext.pdf">[.pdf]</a>
 </li>
+<hr>
 
 <li>
-O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hardware-friendly two-stage spa- tial equalization for all-digital mm-wave massive MU-MIMO,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2020.
+O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hardware-friendly two-stage spa- tial equalization for all-digital mm-wave massive MU-MIMO,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2020.
 </li>
-
+<hr>
 <li>
-F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Los Angeles, CA, Jul. 2020.
+F. Hellström and G. Durisi, “Generalization error bounds via the central moments and tail of the information density,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Los Angeles, CA, Jul. 2020.
 </li>
 <hr>
 
