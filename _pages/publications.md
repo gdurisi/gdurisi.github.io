@@ -18,6 +18,8 @@ author_profile: true
   </li>
 
   <li><a href="https://github.com/quantizedmassivemimo" target="_blank">Quantized massive MIMO:</a> a collection of numerical routines to analyze the performance of massive MIMO systems with low precision converters
+  
+  <li><a href="https://github.com/infotheorychalmers">Additional code repositories from our group</a>, including simulation scenarios for the transmission of short packets over massive MIMO networks 
 
   </li>
 
@@ -44,18 +46,13 @@ A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Infor
 
 
 <li>
-S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020
+S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020.
 </li><hr>
 
 <li>
   S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” Nov. 2020. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
 </li><hr>
 
-<li>
- J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and
-Design at Finite Blocklength,” Sep. 2020. [<a href="http://arxiv.org/abs/2009.10550">arXiv</a>]
-</li>
-<hr>
 
 
 
@@ -69,7 +66,7 @@ Design at Finite Blocklength,” Sep. 2020. [<a href="http://arxiv.org/abs/2009.
 <ol>
   <li>
     A. Zaidi, F. Athley, J. Medbo, U. Gustavsson, G. Durisi, and X. Cheng, <em>5G Physical Layer: principles, models and technology components</em>. Academic Press, 2018 [<a href="https://www.elsevier.com/books/5g-physical-layer/zaidi/978-0-12-814578-4"
-      target="_blank">website</a>].
+      target="_blank">website</a>]
   </li>
 </ol>
 
@@ -101,6 +98,11 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 
 <ol>
 <li>
+J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design
+at Finite Blocklength,” <em>IEEE Trans. Wireless Commun.</em>, 2021.  [<a href="https://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
+</li>
+<hr>
+<li>
  I. C. Sezgin, L. Aabel, S. Jacobsson, G. Durisi, Z. S. He, and C. Fager, “All-digital, radio-over-fiber, com- munication link architecture for time-division duplex distributed antenna system,” <em>J. Lightw. Technol.</em>, Feb. 2021.
 </li>
 <hr>
@@ -112,12 +114,11 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 <li>
 J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
 </li>
-<hr>
+ <hr>
 <li>
 A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” <em>IEEE Trans. Wireless Commun.</em>, 2020.
 </li>
 <hr>
-
 <li>
 O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “High-bandwidth spatial equalization for mmWave massive MU-MIMO with processing-in-memory,” <em>IEEE Trans. Circuits Syst. II: Express Briefs</em>, 2020.
 </li>
@@ -146,28 +147,28 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 <hr>
 
 <li>
-  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019
+  K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019.
   [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]
 </li>
 
 <hr>
 
 <li>
-    M. C. Coçkun, G. Durisi, T. Jerkovits, G. Liva, W. Ryan, B. Stein, and F. Steiner, “Efficient error-correcting codes in the short blocklength regime,” Dec. 2018.
-    <em>Physical Communication</em>, Vol. 34, pp. 66-79, Jun. 2019 [<a href="https://arxiv.org/abs/1812.08562">arXiv</a>]
+    M. C. Coçkun, G. Durisi, T. Jerkovits, G. Liva, W. Ryan, B. Stein, and F. Steiner, “Efficient error-correcting codes in the short blocklength regime,”
+    <em>Physical Communication</em>, Vol. 34, pp. 66-79, Jun. 2019. [<a href="https://arxiv.org/abs/1812.08562">arXiv</a>]
 </li>
 
 <hr>
 
-<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” <em>IEEE J. Sel. Areas Commun.</em>, 2019 [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>].
+<li> R. Devassy, G. Durisi, G. C. Ferrante, O. Simeone, and E. Uysal-Biyikoglu, “Reliable transmission of short packets through queues and noisy channels under latency and peak-age violation guarantees,” <em>IEEE J. Sel. Areas Commun.</em>, 2019. [<a href="https://arxiv.org/abs/1806.09396">arXiv</a>]
 </li>
 
 <hr>
 
 
 <li>
-    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019[<a href="https: //arxiv.org/abs/1709.04846
-">arXiv</a>].
+    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019. [<a href="https: //arxiv.org/abs/1709.04846
+">arXiv</a>]
 </li>
 
 <hr>
@@ -175,31 +176,31 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 <li>
     J. Östman, G. Durisi, E. G. Ström, M. C. Coçkun, and G. Liva,
     “Short packets over block-memoryless fading channels: Pilot-assisted or
-    noncoherent transmission?”, <em>IEEE Trans. Commun.</em>, 2018 [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>].
+    noncoherent transmission?”, <em>IEEE Trans. Commun.</em>, 2018. [<a href="https://arxiv.org/abs/1712.06387" target="_blank">arXiv</a>]
 </li>
 <hr>
 
 <li>
-    P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” <em>IEEE ACCESS</em>, 2018 [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>].
+    P. Popovski, K. F. Trillingsgaard, O. Simeone, and G. Durisi, “5G wireless network slicing for eMBB, URLLC, and mMTC: A communication-theoretic view,” <em>IEEE ACCESS</em>, 2018. [<a href="https://arxiv.org/abs/1804.05057">arXiv</a>]
 </li>
 
 <hr>
 
 <li>
-    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018 [<a href="https://arxiv.org/abs/1706.07731"
-      target="_blank">arXiv</a>].
-    <hr>
+    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Full feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018. [<a href="https://arxiv.org/abs/1706.07731"
+      target="_blank">arXiv</a>]
+<hr>
 </li>
 
-  <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Stop feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018 [<a href="http://arxiv.org/abs/1607.03519"
-      target="_blank">arXiv</a>].&nbsp;
-    <hr>
-  </li>
+<li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Common-message broadcast channels with feedback in the nonasymptotic regime: Stop feedback,” <i>IEEE Tran. Inf. Theory</i>, 2018. [<a href="http://arxiv.org/abs/1607.03519"
+      target="_blank">arXiv</a>]
+<hr>
+</li>
 
 
 
 
-
+Caire
   <li>
     W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, vol. 64, no. 9, pp. 6236--6256, Sep. 2018. [<a href="https://arxiv.org/abs/1706.05972"
       target="_blank">arXiv</a>].
@@ -259,12 +260,12 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
     <hr>
   </li>
 
-  <li>W. Yang, G. Caire, G. Durisi, and Y. Polyanskiy, “Optimum power control at finite blocklength,” <i>IEEE Trans. Inf. Theory</i>,&nbsp;vol. 61, no. 9, pp. 4598–4615, Sep. 2015&nbsp;[<a href="http://arxiv.org/abs/1406.5422" target="_blank">arXiv</a>],
+  <li>W. Yang, G. Caire, G. Durisi, and Y. Polyanskiy, “Optimum power control at finite blocklength,” <i>IEEE Trans. Inf. Theory</i>,&nbsp;vol. 61, no. 9, pp. 4598–4615, Sep. 2015. [<a href="http://arxiv.org/abs/1406.5422" target="_blank">arXiv</a>],
     [<a href="https://github.com/yp-mit/spectre.git" target="_blank">numerical routines</a>]
     <hr>
   </li>
 
-  <li>M. R. Khanzadi, G. Durisi, and T. Eriksson, “Capacity of SIMO and MISO Phase-Noise Channels with Common/Separate Oscillators,” <i>IEEE Trans. Commun.</i>,&nbsp;vol. 63, no. 9, pp. 3218 – 3231, Sep. 2015&nbsp;[<a href="http://arxiv.org/abs/1409.0561"
+  <li>M. R. Khanzadi, G. Durisi, and T. Eriksson, “Capacity of SIMO and MISO Phase-Noise Channels with Common/Separate Oscillators,” <i>IEEE Trans. Commun.</i>,&nbsp;vol. 63, no. 9, pp. 3218 – 3231, Sep. 2015. [<a href="http://arxiv.org/abs/1409.0561"
       target="_blank">arXiv</a>]
     <hr>
   </li>
