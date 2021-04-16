@@ -16,13 +16,10 @@ author_profile: true
   <li><a href="https://github.com/yp-mit/spectre">SPECTRE—short packet communication toolbox:</a> a collection of numerical routines for finite-blocklength analyses in information theory, Jul. 2018 [<a href="https://sites.google.com/site/durisi/manual.pdf?attredirects=0&amp;d=1"
       target="_blank">manual v0.2</a>]
   </li>
-
   <li><a href="https://github.com/quantizedmassivemimo" target="_blank">Quantized massive MIMO:</a> a collection of numerical routines to analyze the performance of massive MIMO systems with low precision converters
-  
+</li>	
   <li><a href="https://github.com/infotheorychalmers">Additional code repositories from our group</a>, including simulation scenarios for the transmission of short packets over massive MIMO networks 
-
   </li>
-
 </ol>
 
 
