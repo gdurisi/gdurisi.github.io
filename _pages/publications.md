@@ -50,11 +50,6 @@ S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson
   S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” Nov. 2020. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
 </li><hr>
 
-
-
-
-
-
 </ol>
 
 
@@ -104,14 +99,14 @@ at Finite Blocklength,” <em>IEEE Trans. Wireless Commun.</em>, 2021.  [<a href
 </li>
 <hr>
 <li>
+J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2021.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>], [<a href="https://github.com/infotheorychalmers/vlsf-bounds">matlab code</a>]
+</li>
+ <hr>
+<li>
   F. Hellström and G. Durisi, “Generalization bounds via information density and conditional information density,” <em>IEEE J. Sel. Areas Info. Theory</em>, vol. 1, no. 3, pp. 824–839, Nov. 2020.  [<a href="http://arxiv.org/abs/2005.08044">arXiv</a>].
 <b>Important note:</b>  the proof of the data-dependent bounds provided in the paper <b>contains an error</b>, which is rectified in the following <a href="{{site.url }}/files/2021/jsait-correction.pdf">document</a>
 </li>
 <hr>
-<li>
-J. Östman, R. Devassy, G. Durisi, and E. G. Ström, “Short-packet Transmission via Variable-Length Codes in the Presence of Noisy Stop Feedback,” <em>IEEE Trans. Wireless Commun</em>, 2020.  [<a href="http://arxiv.org/abs/1909.01049">arXiv</a>]
-</li>
- <hr>
 <li>
 A. Lancho, J. Ostman, G. Durisi, T. Koch, and G. Vazquez-Vilar, “Saddlepoint Approximations for Short-Packet Wireless Communications,” <em>IEEE Trans. Wireless Commun.</em>, 2020.
 </li>

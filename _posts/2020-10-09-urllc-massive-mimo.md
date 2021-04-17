@@ -11,7 +11,7 @@ header:
 categories:
   - news-post
 tags:
-  - paper
+  - papers
 ---
 
 <!-- ![m-mimo-cell_resized](/images/2020/m-mimo-cell_resized.png) -->

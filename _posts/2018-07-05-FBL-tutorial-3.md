@@ -11,7 +11,7 @@ tags:
   - FBL_tutorial
 ---
 
-
+An updated and expanded version of these notes can be found [here](https://gdurisi.github.io/fbl-notes/){: .btn .btn--danger}
 
 In the last post, I gave a teaser on how finite-blocklength information theory can help us identifying the triplets $(k,n,\epsilon)$ for which a $(k,n,\epsilon)$ code can be found.
 Let us illustrate this with the following figure:
