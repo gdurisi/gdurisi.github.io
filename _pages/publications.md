@@ -122,27 +122,23 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
   mmWave communications,'' <em>IEEE J. Sel. Areas Commun.</em>, 2020, to
   appear.
 </li>
-
 <hr>
 
 <li>
   A. Lancho, T. Koch, and G. Durisi, “On single-antenna Rayleigh block-fading channels at ﬁnite blocklength,” <em>IEEE Trans. Inf. Theory</em>, 2019.
   [<a href="https://arxiv.org/abs/1706.07778">arXiv</a>]
 </li>
-
 <hr>
 
 <li>
   K. Keykhosravi, E. Agrell, and G. Durisi, “Accuracy assessment of nondispersive optical perturbative models through capacity analysis,” <em>Entropy</em>, vol. 21, no. 8, Aug. 2019.
 </li>
-
 <hr>
 
 <li>
   K. Keykhosravi, M. Secondini, G. Durisi, and E. Agrell, “How to increase the achievable information rate by per-channel dispersion compensation,” <em>J. Lightw. Technol.</em>  2019.
   [<a href="https://arxiv.org/abs/1812.03556">arXiv</a>]
 </li>
-
 <hr>
 
 <li>
@@ -189,34 +185,28 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 <hr>
 </li>
 
-
-
-
-Caire
-  <li>
-    W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, vol. 64, no. 9, pp. 6236--6256, Sep. 2018. [<a href="https://arxiv.org/abs/1706.05972"
-      target="_blank">arXiv</a>].
-    <hr>
-  </li>
-
-  <li>
-    K. Keykhosravi, M. Tavana, E. Agrell, and G. Durisi, “Demodulation and detection schemes for a memoryless optical WDM channel,” <em>IEEE Trans. Commun.</em>, vol. 66, no. 7, pp. 2994–3005, Jul. 2018. [<a href="https://arxiv.org/abs/1708.08320"
-      target="_blank">arXiv</a>].
-    <hr>
-  </li>
-
-  <li>
-    O. Castaneda, S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “1-bit massive MU-MIMO precoding in VLSI,” <em>IEEE Trans. Emerg. Sel. Topics Circuits Syst,</em> vol. 7, no. 4, pp. 508–522, Dec. 2017.
-
-  </li>
+<li>
+W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “Beta-beta bounds: Finite-blocklength analog of the golden formula,” <i>IEEE Tran. Inf. Theory</i>, vol. 64, no. 9, pp. 6236--6256, Sep. 2018. [<a href="https://arxiv.org/abs/1706.05972"
+target="_blank">arXiv</a>].
 <hr>
+</li>
 
-  <li>S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized precoding for massive MU-MIMO,”<i> IEEE Trans. Commun.</i>, vol. 65, no. 11, pp. 4670–4684, Nov. 2017. [<a href="https://arxiv.org/abs/%201610.07564" target="_blank">arXiv</a>].&nbsp;
-
-  </li>
-
+<li>
+K. Keykhosravi, M. Tavana, E. Agrell, and G. Durisi, “Demodulation and detection schemes for a memoryless optical WDM channel,” <em>IEEE Trans. Commun.</em>, vol. 66, no. 7, pp. 2994–3005, Jul. 2018. [<a href="https://arxiv.org/abs/1708.08320"
+target="_blank">arXiv</a>].
 <hr>
+</li>
 
+<li>
+O. Castaneda, S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “1-bit massive MU-MIMO precoding in VLSI,” <em>IEEE Trans. Emerg. Sel. Topics Circuits Syst,</em> vol. 7, no. 4, pp. 508–522, Dec. 2017.
+</li>
+<hr>
+	
+<li>
+S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized precoding for massive MU-MIMO,”<i> IEEE Trans. Commun.</i>, vol. 65, no. 11, pp. 4670–4684, Nov. 2017. [<a href="https://arxiv.org/abs/%201610.07564" target="_blank">arXiv</a>].&nbsp;
+</li>
+<hr>
+	
   <li>S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “Throughput analysis of massive MIMO with low-resolution ADCs,” <i>IEEE Trans. Wirel. Comm.</i> vol. 16, no. 6, pp. 4038–4051, Jun. 2017. [<a href="http://arxiv.org/abs/1602.01139"
       target="_blank">arXiv</a>].&nbsp;
     <hr>
