@@ -28,19 +28,6 @@ author_profile: true
 ## Preprints
 
 <ol>
-<li>
- K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Massive Uncoordinated Access With Random User Activity,” Mar. 2021. 
- [<a href="http://arxiv.org/abs/2103.09721">arXiv</a>]
-</li><hr>
-
-<li>
-F. Hellström and G. Durisi, “Nonvacuous loss bounds with fast rates for neural networks via conditional information measures,” Mar. 2021. [<a href="https://arxiv.org/abs/2010.11552">arXiv</a>]
-</li><hr>
-
-<li>
-A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, “Conditional Mutual Information Bound for Meta Generalization Gap,” Feb. 2021. [<a href="http://arxiv.org/abs/2010.10886">arXiv</a>]
-</li><hr>
-
 
 <li>
 S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020.
@@ -118,8 +105,8 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “High-ban
 
 <li>
 O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
-  ``Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
-  mmWave communications,'' <em>IEEE J. Sel. Areas Commun.</em>, 2020, to
+  "Finite-alphabet MMSE equalization for all-digital massive MU-MIMO
+  mmWave communications," <em>IEEE J. Sel. Areas Commun.</em>, 2020, to
   appear.
 </li>
 <hr>
@@ -152,7 +139,6 @@ O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer,
 </li>
 
 <hr>
-
 
 <li>
     S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019. [<a href="https: //arxiv.org/abs/1709.04846
@@ -289,7 +275,7 @@ S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized p
   <li>
     W. Yang, G. Durisi, and E. Riegler, ">On the capacity of large-MIMO block-fading channels,''&nbsp;<i>IEEE J. Sel. Areas Commun.</i>, vol. 31, no. 2, pp. 117-132, Feb. 2013.
   </li>
-    <hr>
+  <hr>
 
   <li>
     G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuous-time noncoherent fading channel capacity, <i>&nbsp;IEEE Trans. Inf. Theory</i>, vol. 58, no. 10, pp. 6372--6391, Oct. 2012.
@@ -380,6 +366,36 @@ S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized p
 
 ## Conference Papers
 <ol>
+
+<li>
+ O. Castañeda, S. H. Mirfarshbafan, S. Ghajari, A. Molnar, S. Jacobsson, G. Durisi, and C. Studer, "Resolution-adaptive all-digital spatial equalization for mmWave massive MU-MIMO," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021.
+</li>
+<hr>
+
+<li>
+ A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021.
+</li>
+<hr>
+
+<li>
+ F. Hellström and G. Durisi, "Data-dependent PAC-Bayesian bounds in the random-subset setting with application to neural networks," in <em>Int. Conf. Machine Learning (ICML), Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3)</em>, Jul. 2021.
+</li>
+<hr>
+
+<li>
+ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Sidney, Australia, Jul. 2021.  <a href="https://arxiv.org/abs/2103.09721">[.pdf]</a>
+</li>
+<hr>
+
+<li>
+ A. Rezazadeh, S. T. Jose, G. Durisi, and O. Simeone, Conditional Mutual Information Bound for Meta Generalization Gap, in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Sidney, Australia, Jul. 2021.  <a href="https://arxiv.org/abs/2010.10886">[.pdf]</a>
+</li>
+<hr>
+
+<li>
+F. Hellström and G. Durisi, “Nonvacuous loss bounds with fast rates for neural networks via conditional information measures,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Sidney, Australia, Jul. 2021. <a href="https://arxiv.org/abs/2010.11552">[.pdf]</a>
+</li>
+<hr>
   <li>
      A. Lancho, J. Ostman, G. Durisi, and L. Sanguinetti, “A finite-blocklength analysis for URLLC with
 massive MIMO,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Montreal, Canada, Jun. 2021.
