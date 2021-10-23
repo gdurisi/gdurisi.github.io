@@ -12,8 +12,6 @@ classes: wide
 
 - Dr. Arezou Rezazadeh (October 2019-present): finite-blocklength information theory, information theory for machine learning
 
-- Dr. Alejandro Lancho (October 2019-present): finite-blocklength information theory, massive random access, security and privacy.
-
 ## Ph.D. students
 
 - Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
@@ -33,7 +31,8 @@ classes: wide
 - Rahul Devassy (August 2013 - present): fading networks at finite blocklength -->
 
 ## Former Ph.D. students
-
+-  Johan Östman (Chalmers 2020): Ultra-reliable short-packet communication, now with Zenseact, Gothenburg, Sweden [[PhD thesis](https://chalmersuniversity.app.box.com/file/727304702240?s=4x3icks6qfbmbbjahzy9m4bihpyjb39u)]
+ 
 - Sven Jacobsson (Chalmers, 2019): Massive multiantenna communications with low-resolution converters, now with Ericsson Research, Gothenburg, Sweden \[[PhD thesis](https://chalmersuniversity.box.com/s/7gmf42jcxnfu8a02wx9r3si2e5c9qx2t)]
 
 - Rahul Devassy (Chalmers, 2019): Delay and throughput bounds for the design of next-generation wireless systems, now with Ericsson Research, Gothenburg, Sweden
@@ -46,10 +45,12 @@ classes: wide
 
 - Patrick Kuppinger (ETH Zurich, 2011, co-supervised with Prof. Helmut Bölcskei), now with Bank Vontobel, Zurich, Switzerland
 
-- Veniamin I. Morgenshtern (ETH Zurich, 2010, co-supervised with Prof. Helmut Bölcskei), now with Erlangen University, Germany
+- Veniamin I. Morgenshtern (ETH Zurich, 2010, co-supervised with Prof. Helmut Bölcskei), now with Citadel
 
 - Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
 
 ## Former Post-doctoral students
 
-- Guido Carlo Ferrante (October 2017-October 2018), now with Ericsson Research, Sweden
+ - Dr. Alejandro Lancho (October 2019-September 2021), now with MIT
+
+- Dr. Guido Carlo Ferrante (October 2017-October 2018), now with Ericsson Research, Sweden

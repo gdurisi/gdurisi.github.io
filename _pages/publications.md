@@ -33,9 +33,7 @@ author_profile: true
 S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020.
 </li><hr>
 
-<li>
-  S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” Nov. 2020. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
-</li><hr>
+
 
 </ol>
 
@@ -55,7 +53,7 @@ S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson
 
 <ol>
   <li>
-    G. Durisi, G. Liva, and Y. Polyanskiy, “Short-packet transmission,” in Information Theoretic Perspectives on 5G Systems and Beyond, I. Mari´c, S. Shamai (Shitz), and O. Simeone, Eds. London, U.K.: Cambridge Univ. Press, Jul. 2020.
+    G. Durisi, G. Liva, and Y. Polyanskiy, “Short-packet transmission,” in Information Theoretic Perspectives on 5G Systems and Beyond, I. Maric, S. Shamai (Shitz), and O. Simeone, Eds. London, U.K.: Cambridge Univ. Press, Jul. 2020.
   </li>
   <hr>
   <li>G.&nbsp;Durisi, U.&nbsp;G. Schuster, V.&nbsp;I. Morgenshtern, H.&nbsp;Bölcskei, and
@@ -76,6 +74,10 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 ## Journal Papers
 
 <ol>
+<li>
+  S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory, 2021</em>, to appear. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
+</li>
+<hr>
 <li>
 J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design
 at Finite Blocklength,” <em>IEEE Trans. Wireless Commun.</em>, 2021.  [<a href="https://arxiv.org/abs/2009.10550">arXiv</a>] [<a href="https://github.com/infotheorychalmers/URLLC_Massive_MIMO">matlab code</a>]
