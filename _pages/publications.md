@@ -368,14 +368,16 @@ S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized p
 
 ## Conference Papers
 <ol>
-
 <li>
- O. Castañeda, S. H. Mirfarshbafan, S. Ghajari, A. Molnar, S. Jacobsson, G. Durisi, and C. Studer, "Resolution-adaptive all-digital spatial equalization for mmWave massive MU-MIMO," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021.
+A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[.pdf]</a>  
 </li>
 <hr>
-
 <li>
- A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021.
+ O. Castañeda, S. H. Mirfarshbafan, S. Ghajari, A. Molnar, S. Jacobsson, G. Durisi, and C. Studer, "Resolution-adaptive all-digital spatial equalization for mmWave massive MU-MIMO," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.11073">[.pdf]</a>
+</li>
+<hr>
+<li>
+ A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.10707">[.pdf]</a>
 </li>
 <hr>
 
