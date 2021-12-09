@@ -369,18 +369,43 @@ S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Quantized p
 ## Conference Papers
 <ol>
 <li>
-A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[.pdf]</a>  
+G. Marti, O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hybrid jammer mitigation for all-digital
+mmWave massive MU-MIMO,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.
+<a href="http://arxiv.org/abs/2111.13055">[.pdf]</a>
 </li>
 <hr>
 <li>
- O. Castañeda, S. H. Mirfarshbafan, S. Ghajari, A. Molnar, S. Jacobsson, G. Durisi, and C. Studer, "Resolution-adaptive all-digital spatial equalization for mmWave massive MU-MIMO," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.11073">[.pdf]</a>
+A. Munari, F. Lázaro, G. Durisi, and G. Liva, “An age of information characterization of frameless ALOHA,” in Proc.
+Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.  <a href="http://arxiv.org/abs/2112.00491">[.pdf]</a>
 </li>
 <hr>
 <li>
- A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.10707">[.pdf]</a>
+K.-H. Ngo, G. Durisi, and A. Graell i Amat, “Age of information in prioritized random access,” in Proc. Asilomar Conf.
+Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.01182">[.pdf]</a>
 </li>
 <hr>
-
+<li>
+I. Atzeni, A. Tölli, and G. Durisi, “Low-resolution massive MIMO under hardware power consumption constraints,” in Proc.
+Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.02021">[.pdf]</a>
+</li>
+<hr> 
+<li>
+A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[.pdf]</a>
+</li> 
+<hr> 
+<li> 
+O. Castañeda, S. H. Mirfarshbafan, S. Ghajari, A. Molnar, S. Jacobsson, G. Durisi, and C. Studer,
+"Resolution-adaptive all-digital spatial equalization for mmWave massive MU-MIMO," in <em>Proc. IEEE Int. Workshop
+Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sep. 2021. <a
+href="https://arxiv.org/abs/2107.11073">[.pdf]</a> 
+</li> 
+<hr> 
+<li> 
+A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free
+massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun.
+(SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.10707">[.pdf]</a> 
+</li> 
+<hr>
 <li>
  F. Hellström and G. Durisi, "Data-dependent PAC-Bayesian bounds in the random-subset setting with application to neural networks," in <em>Int. Conf. Machine Learning (ICML), Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3)</em>, Jul. 2021.
 </li>
