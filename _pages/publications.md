@@ -30,7 +30,8 @@ author_profile: true
 <ol>
 
 <li>
-S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for massive MIMO downlink systems with nonlinear power ampliﬁers,” Dec. 2020.
+S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for
+   massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021.
 </li><hr>
 
 
@@ -75,7 +76,9 @@ G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Tran
 
 <ol>
 <li>
-  S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory, 2021</em>, to appear. [<a href="http://arxiv.org/abs/2011.02872">arXiv</a>] 
+  S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information Meta-Risk
+     Minimization,” <em> IEEE Trans. Inf. Theory, 2021</em>. <a
+     href="http://arxiv.org/abs/2011.02872"><i class="fas fa-book"></i></a> 
 </li>
 <hr>
 <li>
