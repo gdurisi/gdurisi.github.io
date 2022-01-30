@@ -376,6 +376,8 @@ Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.  <
 <li>
 K.-H. Ngo, G. Durisi, and A. Graell i Amat, “Age of information in prioritized random access,” in Proc. Asilomar Conf.
 Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.01182">[<i class="fas fa-book"></i>]</a>
+<a href="https://www.youtube.com/watch?v=xtyOsdLLIso">[<i class="fab fa-youtube"></i>]</a>
+<a href="https://github.com/khachoang1412/AoI_prioritized_random_access" target="_blank">[<i class="fab fa-github"></i>]</a>
 </li>
 <hr>
 <li>
@@ -386,6 +388,7 @@ Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2021. <a 
 <li>
 A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in Proc. IEEE
    Global Telecommun. Conf. (GLOBECOM), Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[<i class="fas fa-book"></i>]</a>
+   <a href="https://www.youtube.com/watch?v=McGaedtIIrA">[<i class="fab fa-youtube"></i>]</a> 
 </li> 
 <hr> 
 <li> 
@@ -398,8 +401,9 @@ href="https://arxiv.org/abs/2107.11073">[<i class="fas fa-book"></i>]</a>
 <li> 
 A. Lancho, G. Durisi, and L. Sanguinetti, "Cell-free
 massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun.
-(SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.10707">[<i class="fas fa-book"></i>]</a>, 
-</li><a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">[<i class="fab fa-youtube"></i>]</a> 
+(SPAWC)</em>, Lucca, Italy, Sep. 2021. <a href="https://arxiv.org/abs/2107.10707">[<i class="fas fa-book"></i>]</a> 
+<a href="https://www.youtube.com/watch?v=Uxk3-8YAK9Q">[<i class="fab fa-youtube"></i>]</a> 
+</li>
 <hr>
 <li>
  F. Hellström and G. Durisi, "Data-dependent PAC-Bayesian bounds in the random-subset setting with application to neural networks," in <em>Int. Conf. Machine Learning (ICML), Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3)</em>, Jul. 2021.
@@ -408,6 +412,7 @@ massive MIMO with short packets," in <em>Proc. IEEE Int. Workshop Signal Process
 
 <li>
  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Sidney, Australia, Jul. 2021.  <a href="https://arxiv.org/abs/2103.09721">[<i class="fas fa-book"></i>]</a>
+ <a href="https://www.youtube.com/watch?v=6Vr5ZKZzIjw">[<i class="fab fa-youtube"></i>]</a> 
 </li>
 <hr>
 

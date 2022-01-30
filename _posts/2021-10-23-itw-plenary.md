@@ -13,7 +13,7 @@ header:
 It was a great pleasure to give a plenary talk at this year [Information Theory Workshop (ITW)](https://www.itw2021.org). 
 My talk was entitled "Short packets over wireless fading networks". 
 The slides can be downloaded [here](https://chalmersuniversity.box.com/s/rfqz5w5w4g93icjfh67mcwwlb107t6oi). 
-A video recording is available on the ITW website for registered users and will also be made available to everyone on the Information Theory Society [website](https://www.itsoc.org).
+A video recording is available on the ITW website for registered users and has also been made available to everyone on the Information Theory Society [website](https://www.itsoc.org/video/plenary-short-packets-over-wireless-fading-networks).
 
 The theme of the talk was to show how to use finite-blocklength information-theoretic tools to optimally design wireless fading networks supporting the transmission of short packets.
 
