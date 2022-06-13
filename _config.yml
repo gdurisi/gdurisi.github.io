@@ -1,15 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -19,11 +7,11 @@ locale                   : "en-US"
 title                    : "Giuseppe Durisi"
 title_separator          : "-"
 name                     : "Giuseppe Durisi"
-description              : "Personal website"
-url                      : "https://gdurisi.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Professional website of Giuseppe Durisi"
+url                      : "https://gdurisi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gdurisi/gdurisi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/linkedin_box.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/images/linkedin_box.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -80,7 +68,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : &giuseppe_durisi
-facebook:
+facebebook:
   username               :
   app_id                 :
   publisher              :
@@ -103,8 +91,8 @@ analytics:
 # Site Author
 author:
   name             : "Giuseppe Durisi"
-  avatar           : "/images/giuseppe.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Professor, Chalmers"
+  avatar           : "/images/giuseppe.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Professor, Chalmers University of Technology"
   location         : "Gothenburg, Sweden"
   # email            : "durisi@chalmers.se"
   # twitter          : "@giuseppe_durisi"

@@ -29,7 +29,6 @@ Johan graduated!
 
 FLB notes in a simple form
 
-
 Example of a [good description](https://www.comp.nus.edu.sg/~scarlett/research.html) of current research activities
 
 
