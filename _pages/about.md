@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Giuseppe Durisi"
-excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, communication theory, machine learning, AI"
+excerpt: "Giuseppe Durisi, Professor, Chalmers University of Technology, information theory, communication theory, machine learning"
 author_profile: true
 layout: single
 classes: wide
@@ -40,7 +40,7 @@ I strive  to find mathematically elegant solutions to practically relevant engin
 # News
 ---
 <div class="grid__wrapper">
-{% for post in site.categories.news-post limit:12 %}  
+{% for post in site.categories.news-post %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
