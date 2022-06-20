@@ -10,7 +10,10 @@ classes: wide
 
 <!-- - [**Jan. 2020**] PhD student position available: ``[generalization bounds for deep neural network: design and insights](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=8281)''. Deadline: **Mar. 6, 2020**. Note: this is part of a broad recruitment at Chalmers in the field of mathematics for artificial intelligence. A total of six PhD students will be recruited. -->
 
-- We will soon announce three PhD vacancies: one in the area of information-theoretic bounds in statistical learning theory, and two in the area of machine-learning algorithms for/over communication networks. 
+- [**Jun. 2022**] PhD student position on [information-theoretic generalization bounds](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=10639&rmlang=UK) 
+in statistical learning theory. Deadline: **August 16, 2022**
+
+- We will soon announce two more PhD vacancies in the area of machine-learning algorithms for/over communication networks. 
 
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx)
 
