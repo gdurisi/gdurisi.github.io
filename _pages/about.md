@@ -40,7 +40,7 @@ I strive  to find mathematically elegant solutions to practically relevant engin
 # News
 ---
 <div class="grid__wrapper">
-{% for post in site.categories.news-post %}  
+{% for post in site.categories.news-post limit:12 %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
