@@ -27,10 +27,25 @@ author_profile: true
 ## Preprints
 <ol>
   <li>
-    S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for
-   massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021.
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite- blocklength analysis,” Jul. 2022.[<a href="https://arxiv.org/abs/2207.00856"><i class="fas
+    fa-book"></i></a>]
   </li>
   <hr>
+  <li>
+Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Per- formance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Jun. 2022.
+  </li>
+  <hr>
+  <li>
+  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” Feb. 2022 [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>  
+  <li>
+    S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for
+   massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021. [<a href="https://arxiv.org/abs/2012.1333"><i class="fas
+    fa-book"></i></a>]
+  </li>
+  <hr>
+
 </ol>
 
 ## Books
@@ -363,6 +378,21 @@ author_profile: true
 ## Conference Papers
 <ol>
 <li>
+F. Hellström and G. Durisi, "Evaluated CMI bounds for meta learning: Tightness and expressiveness," in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Nov. 2022.
+</li>
+<hr>
+
+<li>
+ F. Hellström and G. Durisi, "A new family of generalization bounds using samplewise evaluated CMI," in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Nov. 2022.
+</li>
+<hr>
+
+<li>
+G. Tsaloli, A. Lancho, K. Mitrokotsa, and G. Durisi, "WIP: Verifiable, secure and energy-efficient private data aggregation in wireless sensor networks," in Proc. ACM Symp. Access Control Models and Technologies, New York, NY, Jun. 2022.
+</li>
+<hr>
+
+<li>
 G. Marti, O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hybrid jammer mitigation for all-digital
 mmWave massive MU-MIMO,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.
 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
@@ -497,7 +527,7 @@ J. Östman, A. Lancho, and G. Durisi, ``Short-packet transmission over a
   </li>
   <hr>
   <li>
-    A. Balatsoukas-Stimming, O. Castañeda, S. Jacobsson, G. Durisi, and C. Studer, “Neural-network optimized 1-bit precoding for massive MU-MIMO,” in <em></em>, Cannes, France, Jul. 2019.
+    A. Balatsoukas-Stimming, O. Castañeda, S. Jacobsson, G. Durisi, and C. Studer, “Neural-network optimized 1-bit precoding for massive MU-MIMO,” in <em>IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Cannes, France, Jul. 2019.
   </li>
 <hr>
   <li>
@@ -660,6 +690,11 @@ A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single
 
   </li>
 
+  <hr>
+  <li>
+
+[1] G. Liva, G. Durisi, M. Chiani, S. S. Ullah, and S. C. Liew, "Short codes with mismatched channel state information: A case study," in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC), Sapporo, Japan, Jul. 2017.
+  </li>
   <hr>
 
   <li>
