@@ -27,12 +27,15 @@ author_profile: true
 ## Preprints
 <ol>
   <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite- blocklength analysis,” Jul. 2022.[<a href="https://arxiv.org/abs/2207.00856"><i class="fas
-    fa-book"></i></a>]
+A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022. [Online]. Available:  [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
-Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Per- formance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Jun. 2022.
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022.[<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
+Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Jun. 2022.
   </li>
   <hr>
   <li>
@@ -377,6 +380,14 @@ Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, �
 
 ## Conference Papers
 <ol>
+<li>
+A. O. Kislal, A. Lancho, G. Durisi, and E. Str ̈om, “Efficient evaluation of the error probability for pilot- assisted finite-blocklength transmission,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2022.
+</li>
+<hr>
+<li>
+K.-H. Ngo, G. Durisi, A. G. i Amat, P. Popovski, B. Soret, and A. E. Kalør, “Unsourced multiple access for heterogeneous traffic requirements,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2022.
+</li>
+<hr>
 <li>
 F. Hellström and G. Durisi, "Evaluated CMI bounds for meta learning: Tightness and expressiveness," in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Nov. 2022.
 </li>
