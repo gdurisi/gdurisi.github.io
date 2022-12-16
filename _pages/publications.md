@@ -27,11 +27,11 @@ author_profile: true
 ## Preprints
 <ol>
   <li>
-A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022. [Online]. Available:  [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
+A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022 [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022.[<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022 [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
