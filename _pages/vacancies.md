@@ -8,11 +8,12 @@ classes: wide
 
 ### PhD student vacancies
 
+- [**Dec. 2022**] 1 PhD student position in **goal-oriented semantic communication**: click [here](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=11269&rmlang=UK) for more information and to apply. **Deadline**: February 19, 2023; Indicative starting date: Fall 2023.
 <!-- - [**Jan. 2020**] PhD student position available: ``[generalization bounds for deep neural network: design and insights](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=8281)''. Deadline: **Mar. 6, 2020**. Note: this is part of a broad recruitment at Chalmers in the field of mathematics for artificial intelligence. A total of six PhD students will be recruited. -->
 
-- [**Sep. 2022**] PhD student position in **[information-theoretic generalization bounds]({% post_url 2022-06-13-wasp %})**: contact me per email if you are interested (attach cv, grades, and motivation letter) 
+<!-- - [**Sep. 2022**] PhD student position in **[information-theoretic generalization bounds]({% post_url 2022-06-13-wasp %})**: contact me per email if you are interested (attach cv, grades, and motivation letter) --> 
 
-- [**Sep. 2022**] 2 PhD student positions in **machine learning over wireless networks**: click [here](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=10910&rmlang=UK) for more information and to apply. **Deadline**: October 31
+<!-- - [**Sep. 2022**] 2 PhD student positions in **machine learning over wireless networks**: click [here](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=10910&rmlang=UK) for more information and to apply. **Deadline**: October 31 -->
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](http://www.chalmers.se/en/about-chalmers/vacancies/Pages/default.aspx)
 
 ### Post-doctoral vacancies
