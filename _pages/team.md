@@ -18,7 +18,7 @@ classes: wide
 
 - Lise Aabel (March 2020-preseent): Distributed massive MIMO 
 
-- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström][https://www.chalmers.se/en/staff/Pages/erik-strom.aspx]]
+- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström](https://www.chalmers.se/en/staff/Pages/erik-strom.aspx)]
 
 - Fredrik Hellström (August 2018-presents): Information-theoretic generalization bounds  
 
