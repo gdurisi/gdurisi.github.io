@@ -6,19 +6,21 @@ author_profile: true
 classes: wide
 ---
 
-## Post-doctoral students
+## Post-doctoral researchers
 
 - Dr. Khac-Hoang Ngo (October 2020-present): massive random access, security and privacy, age of information
 
-- Dr. Arezou Rezazadeh (October 2019-present): finite-blocklength information theory, information theory for machine learning
-
 ## Ph.D. students
+
+- Jayadev Naram (Jan. 2022-present): Information-theoretic generalization bounds 
 
 - Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
 
-- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström]
+- Lise Aabel (March 2020-preseent): Distributed massive MIMO 
 
-- Fredrik Hellström (August 2018-presents): Mathematics of deep learning
+- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström][https://www.chalmers.se/en/staff/Pages/erik-strom.aspx]]
+
+- Fredrik Hellström (August 2018-presents): Information-theoretic generalization bounds  
 
 - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures
 
@@ -31,7 +33,7 @@ classes: wide
 - Rahul Devassy (August 2013 - present): fading networks at finite blocklength -->
 
 ## Former Ph.D. students
--  Johan Östman (Chalmers 2020): Ultra-reliable short-packet communication, now with Zenseact, Gothenburg, Sweden [[PhD thesis](https://chalmersuniversity.app.box.com/file/727304702240?s=4x3icks6qfbmbbjahzy9m4bihpyjb39u)]
+-  Johan Östman (Chalmers 2020): Ultra-reliable short-packet communication, now with AI Sweden, Gothenburg, Sweden [[PhD thesis](https://chalmersuniversity.app.box.com/file/727304702240?s=4x3icks6qfbmbbjahzy9m4bihpyjb39u)]
  
 - Sven Jacobsson (Chalmers, 2019): Massive multiantenna communications with low-resolution converters, now with Ericsson Research, Gothenburg, Sweden \[[PhD thesis](https://chalmersuniversity.box.com/s/7gmf42jcxnfu8a02wx9r3si2e5c9qx2t)]
 
@@ -50,7 +52,8 @@ classes: wide
 - Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
 
 ## Former Post-doctoral students
+- Dr. Arezou Rezazadeh (October 2019-March 2022), now with KTH
 
- - Dr. Alejandro Lancho (October 2019-September 2021), now with MIT
+- Dr. Alejandro Lancho (October 2019-September 2021), now with MIT
 
 - Dr. Guido Carlo Ferrante (October 2017-October 2018), now with Ericsson Research, Sweden
