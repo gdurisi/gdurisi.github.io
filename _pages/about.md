@@ -16,7 +16,7 @@ Gothenburg, Sweden
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
 
 ---
- Dec. 2023: [1 PhD position available in my team](/vacancies){: .btn .btn--danger}
+Jan. 2023: [1 PhD position available in my team](/vacancies){: .btn .btn--danger}
 
 
 # About
