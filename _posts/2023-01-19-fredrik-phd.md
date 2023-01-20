@@ -16,7 +16,7 @@ Yesterday, my PhD student Fredrik Hellström successfully defended his PhD thesi
 
 ![Fredrik during his PhD thesis presentation](/images/2023/fredrik_defense.jpg)
 
-The faculty opponent was Prof. [Gergerly Neu](http://cs.bme.hu/~gergo/).
+The faculty opponent was Prof. [Gergely Neu](http://cs.bme.hu/~gergo/).
 The grading committee consisted of 
 - Prof. [Peter Grünwald](https://safestatistics.com) (CWI, The Netherlands)
 - Prof. [Yevgeny Seldin](https://sites.google.com/site/yevgenyseldin/) (DTU, Denmark)
