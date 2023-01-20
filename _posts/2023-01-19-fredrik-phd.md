@@ -1,6 +1,6 @@
 ---
 title: "Fredrik Hellström's PhD defense"
-date: 2023-01-19
+date: 2023-01-20
 read_time: false
 excerpt: "My PhD student Fredrik Hellström successfully defended his PhD thesis"
 categories:
@@ -11,7 +11,7 @@ header:
   teaser: /images/2023/fredrik_defense.jpg
 ---
 
-Today, my PhD student Fredrik Hellström successfully defended his PhD thesis entitled 
+Yesterday, my PhD student Fredrik Hellström successfully defended his PhD thesis entitled 
 "**Information theoretic generalization bounds: tightness and expressiveness**" [[.pdf]](https://evt.ungpd.com/Issues/dd1df13d-d893-48ef-a233-559dfdfd586e/Click?ContactId=8ad52a77-803a-4e7f-98d9-d9f1be23f3d1&url=https%3a%2f%2fchalmersuniversity.box.com%2fs%2fy7a50qdyxaz988vdasl18yfj9op2j9pu)
 
 ![Fredrik during his PhD thesis presentation](/images/2023/fredrik_defense.jpg)
