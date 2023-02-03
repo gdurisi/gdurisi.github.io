@@ -27,3 +27,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-include-cache'
 end
+
+gem "webrick", "~> 1.8"
