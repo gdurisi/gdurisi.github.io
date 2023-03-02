@@ -27,6 +27,18 @@ author_profile: true
 ## Preprints
 <ol>
   <li>
+Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Mar. 2023.
+ </li>
+ <hr>
+ <li>
+ K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” Feb. 2023 [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>]
+ </li>
+ <hr>
+ <li>
+A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of frameless ALOHA: Stability, throughput, and age of information,” Jan. 2023 [<a href="http://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
+ </li>
+ <hr>
+ <li>
 A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022 [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -34,11 +46,7 @@ A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of th
 A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022 [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
-  <li>
-Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Jun. 2022.
-  </li>
-  <hr>
-  <li>
+   <li>
   K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” Feb. 2022 [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]
   </li>
   <hr>  
@@ -82,6 +90,11 @@ Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, �
 
 ## Journal Papers
 <ol>
+<li>
+K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em>, Feb. 2023, to appear, <a href="http://arxiv.org/abs/2202.06365">[<i class="fas fa-book"></i>]</a> 
+
+</li>
+<hr>
   <li>
     S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information
      Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory,
@@ -380,6 +393,10 @@ Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, �
 
 ## Conference Papers
 <ol>
+<li>
+K.-H. Ngo, A. G. i. Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, May 2023 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
+</li>
+<hr>
 <li>
 A. O. Kislal, A. Lancho, G. Durisi, and E. Str ̈om, “Efficient evaluation of the error probability for pilot- assisted finite-blocklength transmission,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2022.
 </li>
