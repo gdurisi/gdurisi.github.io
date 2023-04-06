@@ -19,10 +19,13 @@ author_profile: true
   <hr>
   <li><a href="https://github.com/quantizedmassivemimo" target="_blank">Quantized massive MIMO:</a> a collection of numerical routines to analyze the performance of massive MIMO systems with low precision converters
   </li>
+  <hr>
   <li><a href="https://github.com/infotheorychalmers">Additional code repositories from our group</a>, including
     simulation scenarios for the transmission of short packets over massive MIMO networks
   </li>
 </ol>
+Links to additional code repositories are provided below together with the
+corresponding journal publication.
 <!--******************************************** -->
 ## Preprints
 <ol>
@@ -38,25 +41,14 @@ Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, �
 A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of frameless ALOHA: Stability, throughput, and age of information,” Jan. 2023 [<a href="http://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
  </li>
  <hr>
- <li>
-A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” Nov. 2022 [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
-  </li>
-  <hr>
-  <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” Jul. 2022 [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
-  </li>
-  <hr>
-   <li>
-  K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” Feb. 2022 [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]
-  </li>
-  <hr>  
-  <li>
-    S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for
-   massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021. [<a href="https://arxiv.org/abs/2012.1333"><i class="fas
-    fa-book"></i></a>]
-  </li>
-  <hr>
 
+  <!-- <li> -->
+  <!--   S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for -->
+  <!--  massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021. [<a href="https://arxiv.org/abs/2012.1333"><i class="fas -->
+  <!--   fa-book"></i></a>] -->
+  <!-- </li> -->
+  <!-- <hr> -->
+  <!---->
 </ol>
 
 ## Books
@@ -90,8 +82,22 @@ A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A
 
 ## Journal Papers
 <ol>
+  <li>
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” IEEE Trans. Wireless Commun., 2023, to appear [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+ 
+ <li>
+A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” <em>IEEE J. Sel. Areas Commun.</em> 2023, to appear [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+
 <li>
-K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em>, Feb. 2023, to appear, <a href="http://arxiv.org/abs/2202.06365">[<i class="fas fa-book"></i>]</a> 
+K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em> 2023, to appear, [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>] 
+[<a href="https://github.com/khachoang1412/UMA_random_user_activity
+"><i class="fab
+    fa-github"></i></a>]
+
 
 </li>
 <hr>

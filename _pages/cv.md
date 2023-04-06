@@ -16,6 +16,7 @@ Switzerland. In 2010, he joined Chalmers University of Technology, Gothenburg,
 Sweden, where he is now full professor with the Communication Systems Group. At
 Chalmers, he served as co-director of the Information and Communication
 Technology Area of Advance, and of the Artificial Intelligence Research Center.
+He is currently director of the master program in information and communication technologies.
 
 Dr. Durisi is a senior member of the IEEE. He is the recipient of the 2013 IEEE
 ComSoc Best Young Researcher Award for the Europe, Middle East, and Africa
