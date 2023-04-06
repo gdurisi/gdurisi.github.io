@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Full Professor at the [Communication System Group](https://www.chalmers.se/en/staff/Pages/giuseppe-durisi.aspx)  
+Full Professor at the [Communication System Group](https://www.chalmers.se/en/persons/durisi/)  
 [Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)    
 Gothenburg, Sweden    
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
