@@ -13,7 +13,7 @@ classes: wide
 
 <!-- - [**Sep. 2022**] PhD student position in **[information-theoretic generalization bounds]({% post_url 2022-06-13-wasp %})**: contact me per email if you are interested (attach cv, grades, and motivation letter) --> 
 
-- [**Apr. 2023**] 1 PhD student position in **machine learning over wireless networks**: a link to the job announcement will be posted soon together with information on how to apply; please get in touch for preliminary information
+- [**Apr. 2023**] 1 PhD student position in **machine learning over wireless networks**: click [here](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11704&rmlang=UK) for more information and to apply. **Deadline**: May 12, 2023 
 <!-- click [here](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=10910&rmlang=UK) for more information and to apply. **Deadline**: October 31 -->
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/)
 
