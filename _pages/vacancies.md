@@ -23,7 +23,7 @@ classes: wide
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 
-- [Marie Skłodowska-Curie Individual Fellowships](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-msca-2023-pf-01-01;callCode=null;freeTextSearchKeyword=MSCA;matchWholeText=true;typeCodes=0,1,2,8;statusCodes=31094501,31094502,31094503;programmePeriod=null;programCcm2Id=null;programDivisionCode=null;focusAreaCode=null;destinationGroup=null;missionGroup=null;geographicalZonesCode=null;programmeDivisionProspect=null;startDateLte=null;startDateGte=null;crossCuttingPriorityCode=null;cpvCode=null;performanceOfDelivery=null;sortQuery=sortStatus;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState) within the European Horizon framework program. If you are interested to apply to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: September 13, 2023.
+- [Marie Skłodowska-Curie Individual Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/news/opening-of-postdoctoral-fellowships-2023-call) within the European Horizon framework program. If you are interested to apply to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: September 13, 2023.
 
 ### Master theses
 
