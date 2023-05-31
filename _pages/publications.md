@@ -34,7 +34,7 @@ Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, �
  </li>
  <hr>
  <li>
- K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” Feb. 2023 [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>]
+ K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” Feb. 2023 [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
  </li>
  <hr>
  <li>
@@ -93,11 +93,11 @@ A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of th
   <hr>
 
 <li>
-K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em> 2023, to appear, [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>] 
+K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em> 2023, to appear, [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]  
 [<a href="https://github.com/khachoang1412/UMA_random_user_activity
 "><i class="fab
     fa-github"></i></a>]
-
+[<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
 
 </li>
 <hr>
