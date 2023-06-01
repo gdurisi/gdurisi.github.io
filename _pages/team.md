@@ -10,6 +10,9 @@ classes: wide
 
 - Dr. Khac-Hoang Ngo (October 2020-present): massive random access, security and privacy, age of information
 
+- Dr. Deekshith Pathayappilly Krishnan (May 2023-present): massive random
+  access, statistical learning theory  
+
 ## Ph.D. students
 
 - Jayadev Naram (Jan. 2022-present): Information-theoretic generalization bounds 
