@@ -8,11 +8,11 @@ classes: wide
 
 
 ## Chalmers ##
-- [MVE137](https://chalmers.instructure.com/courses/15077/assignments/syllabus): Probability and statistical learning using Python (2021-2022)
-- [EEN100](https://chalmers.instructure.com/courses/10132): Statistics and machine learning in high dimensions (2020-2022)
+- [MVE137](https://chalmers.instructure.com/courses/15077/assignments/syllabus): Probability and statistical learning using Python (2021-2023)
+- [EEN100](https://chalmers.instructure.com/courses/10132): Statistics and machine learning in high dimensions (2020-2023)
 - [SSY210](https://chalmers.instructure.com/courses/23386): Information theory (2013--2023)
 - [SSY125](https://chalmers.instructure.com/courses/20979): Digital
-  communications (2021-2022)
+  communications (2021-2023)
 - [SSY135](https://www.student.chalmers.se/sp/course?course_id=20251): Wireless communications (guest lecturer, 2012-2023)
 - [MVE251](https://pingpong.chalmers.se/public/courseId/6916/publicPage.do): Probability theory and random processes (2016--2018)
 - [LET271](https://www.student.chalmers.se/sp/course?course_id=23877): Electrical measurements: systems and methods (2014-2018)
