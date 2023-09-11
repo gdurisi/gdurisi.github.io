@@ -29,16 +29,16 @@ corresponding journal publication.
 <!--******************************************** -->
 ## Preprints
 <ol>
-  <li>
-Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” Mar. 2023.
+<li>
+F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” Sept. 2023.
+</li>
+ <hr>
+ <li>
+A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” Mar. 2023.
  </li>
  <hr>
  <li>
  K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” Feb. 2023 [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
- </li>
- <hr>
- <li>
-A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of frameless ALOHA: Stability, throughput, and age of information,” Jan. 2023 [<a href="http://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
  </li>
  <hr>
 
@@ -83,6 +83,16 @@ A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of framele
 ## Journal Papers
 <ol>
   <li>
+  A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of
+  frameless ALOHA: Stability, throughput, and age of information,” IEEE Trans.
+  Commun., 2023, to appear [<a href="https://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
+  Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” IEEE Access, 2023 [<a href="https://ieeexplore.ieee.org/document/10143081"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
 A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” IEEE Trans. Wireless Commun., 2023, to appear [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -106,6 +116,10 @@ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple acc
      Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory,
      2021</em>. <a href="http://arxiv.org/abs/2011.02872">[<i class="fas fa-book"></i>]</a>
   </li>
+<hr>
+<li>
+F. Hellström and G. Durisi, Corrections to “Generalization bounds via information and conditional information density”, IEEE J. Sel. Areas Inf. Theory, vol. 2, no. 3, pp. 1072- 1073, Sep. 2021.
+</li>
 <hr>
   <li>
     J. Ostman, A. Lancho, G. Durisi, and L. Sanguinetti, “URLLC with Massive MIMO: Analysis and Design at Finite

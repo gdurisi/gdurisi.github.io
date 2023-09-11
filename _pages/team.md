@@ -15,7 +15,10 @@ classes: wide
 
 ## Ph.D. students
 
-- Jayadev Naram (Jan. 2022-present): Information-theoretic generalization bounds 
+- Alireza Bordbar (Sep. 2023-present): machine-learning for communication
+  systems 
+
+- Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bounds 
 
 - Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
 
