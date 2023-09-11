@@ -414,6 +414,11 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 <ol>
 <li>
+K.-H. Ngo, G. Durisi, A. Graell i Amat, A. Munari, and F. Lazaro, 
+"Age of information in slotted aloha with energy harvesting," in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), (Kuala Lumpur, Malaysia), Dec. 2023.
+
+</li>
+<li>
 K.-H. Ngo, A. G. i. Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, May 2023 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
 </li>
 <hr>
