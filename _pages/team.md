@@ -8,14 +8,17 @@ classes: wide
 
 ## Post-doctoral researchers
 
-- Dr. Khac-Hoang Ngo (October 2020-present): massive random access, security and privacy, age of information
+- Dr. Khac-Hoang Ngo (October 2020-present): Massive random access, security and privacy, age of information
 
-- Dr. Deekshith Pathayappilly Krishnan (May 2023-present): massive random
+- Dr. Deekshith Pathayappilly Krishnan (May 2023-present): Massive random
   access, statistical learning theory  
 
 ## Ph.D. students
 
-- Alireza Bordbar (Sep. 2023-present): machine-learning for communication
+- Kaan Okumus (Oct. 2023-present): Goal oriented communication [main supervisor:
+  [Erik Ström](https://www.chalmers.se/en/persons/estrom/)]
+
+- Alireza Bordbar (Sep. 2023-present): Machine-learning for communication
   systems 
 
 - Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bounds 

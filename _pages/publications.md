@@ -30,19 +30,14 @@ corresponding journal publication.
 ## Preprints
 <ol>
 <li>
-F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” Sept. 2023.
+F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” Sept. 2023. [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-book"></i></a>]
 </li>
  <hr>
  <li>
 A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” Mar. 2023.
  </li>
  <hr>
- <li>
- K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” Feb. 2023 [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
- </li>
- <hr>
-
-  <!-- <li> -->
+   <!-- <li> -->
   <!--   S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for -->
   <!--  massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021. [<a href="https://arxiv.org/abs/2012.1333"><i class="fas -->
   <!--   fa-book"></i></a>] -->
@@ -82,6 +77,11 @@ A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analy
 
 ## Journal Papers
 <ol>
+  <li>
+ K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” IEEE Trans.
+  Commun., 2023, to appear [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
+ </li>
+ <hr>
   <li>
   A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of
   frameless ALOHA: Stability, throughput, and age of information,” IEEE Trans.
