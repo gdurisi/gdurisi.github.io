@@ -30,13 +30,16 @@ corresponding journal publication.
 ## Preprints
 <ol>
 <li>
+A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Jan. 2024. [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
+</li>
+<hr>
+<li>
 F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” Sept. 2023. [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-book"></i></a>]
 </li>
  <hr>
  <li>
-A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” Mar. 2023.
+A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” Dec. 2023.
  </li>
- <hr>
    <!-- <li> -->
   <!--   S. R. Aghdam, S. Jacobsson, U. Gustavsson, G. Durisi, C. Studer, and T. Eriksson, “Distortion-aware linear precoding for -->
   <!--  massive MIMO downlink systems with nonlinear power amplifiers,” Nov. 2021. [<a href="https://arxiv.org/abs/2012.1333"><i class="fas -->
@@ -78,32 +81,32 @@ A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analy
 ## Journal Papers
 <ol>
   <li>
- K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” IEEE Trans.
-  Commun., 2023, to appear [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
+ K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” <em>IEEE Trans.
+  Commun.</em>, 2023, to appear [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
  </li>
  <hr>
   <li>
   A. Munari, F. Lazaro, G. Durisi, and G. Liva, “The dynamic behavior of
-  frameless ALOHA: Stability, throughput, and age of information,” IEEE Trans.
-  Commun., 2023, to appear [<a href="https://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
+  frameless ALOHA: Stability, throughput, and age of information,” <em>IEEE Trans.
+  Commun.</em>, Dec. 2023 [<a href="https://arxiv.org/abs/2301.10078"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
-  Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” IEEE Access, 2023 [<a href="https://ieeexplore.ieee.org/document/10143081"><i class="fas fa-book"></i></a>]
+  Y. Ettefagh, S. R. Aghdam, G. Durisi, S. Jacobsson, M. Coldrey, and C. Studer, “Performance of quantized massive MIMO with fronthaul rate constraint over quasi-static channels,” <em>IEEE Access</em>, 2023 [<a href="https://ieeexplore.ieee.org/document/10143081"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
-A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” IEEE Trans. Wireless Commun., 2023, to appear [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
+A. Lancho, G. Durisi, and L. Sanguinetti, “Cell-free massive MIMO for URLLC: A finite-blocklength analysis,” <em>IEEE Trans. Wireless Commun.</em>, Dec. 2023, [<a href="https://arxiv.org/abs/2207.00856"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
  
  <li>
-A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” <em>IEEE J. Sel. Areas Commun.</em> 2023, to appear [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
+A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted URLLC with Massive MIMO,” <em>IEEE J. Sel. Areas Commun.</em> Jul. 2023, [<a href="http://arxiv.org/abs/2211.02385"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
 
 <li>
-K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em> 2023, to appear, [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]  
+K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” <em>IEEE Trans. Inf. Theory</em> Jul. 2023, [<a href="http://arxiv.org/abs/2202.06365"><i class="fas fa-book"></i></a>]  
 [<a href="https://github.com/khachoang1412/UMA_random_user_activity
 "><i class="fab
     fa-github"></i></a>]
@@ -113,8 +116,8 @@ K.-H. Ngo, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple acc
 <hr>
   <li>
     S. T. Jose, O. Simeone, and G. Durisi, “Transfer Meta-Learning: Information-Theoretic Bounds and Information
-     Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory,
-     2021</em>. <a href="http://arxiv.org/abs/2011.02872">[<i class="fas fa-book"></i>]</a>
+     Meta-Risk Minimization,” <em> IEEE Trans. Inf. Theory, Jan.
+     2022</em>. <a href="http://arxiv.org/abs/2011.02872">[<i class="fas fa-book"></i>]</a>
   </li>
 <hr>
 <li>
@@ -415,62 +418,62 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 <ol>
 <li>
 K.-H. Ngo, G. Durisi, A. Graell i Amat, A. Munari, and F. Lazaro, 
-"Age of information in slotted aloha with energy harvesting," in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), (Kuala Lumpur, Malaysia), Dec. 2023.
+"Age of information in slotted aloha with energy harvesting," in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em>, (Kuala Lumpur, Malaysia), Dec. 2023.
 </li>
 <hr>
 <li>
-K.-H. Ngo, A. G. i. Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in Proc. IEEE Int. Conf. Commun. (ICC), Rome, Italy, May 2023 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
+K.-H. Ngo, A. G. i. Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Rome, Italy, May 2023 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
 </li>
 <hr>
 <li>
-A. O. Kislal, A. Lancho, G. Durisi, and E. Str ̈om, “Efficient evaluation of the error probability for pilot- assisted finite-blocklength transmission,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2022.
+A. O. Kislal, A. Lancho, G. Durisi, and E. Str ̈om, “Efficient evaluation of the error probability for pilot- assisted finite-blocklength transmission,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2022.
 </li>
 <hr>
 <li>
-K.-H. Ngo, G. Durisi, A. G. i Amat, P. Popovski, B. Soret, and A. E. Kalør, “Unsourced multiple access for heterogeneous traffic requirements,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2022.
+K.-H. Ngo, G. Durisi, A. G. i Amat, P. Popovski, B. Soret, and A. E. Kalør, “Unsourced multiple access for heterogeneous traffic requirements,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2022.
 </li>
 <hr>
 <li>
-F. Hellström and G. Durisi, "Evaluated CMI bounds for meta learning: Tightness and expressiveness," in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Nov. 2022.
-</li>
-<hr>
-
-<li>
- F. Hellström and G. Durisi, "A new family of generalization bounds using samplewise evaluated CMI," in Proc. Conf. Neural Information Processing Systems (NeurIPS), New Orleans, LA, U.S.A., Nov. 2022.
+F. Hellström and G. Durisi, "Evaluated CMI bounds for meta learning: Tightness and expressiveness," in <em>Proc. Conf. Neural Information Processing Systems (NeurIPS)</em>, New Orleans, LA, U.S.A., Nov. 2022.
 </li>
 <hr>
 
 <li>
-G. Tsaloli, A. Lancho, K. Mitrokotsa, and G. Durisi, "WIP: Verifiable, secure and energy-efficient private data aggregation in wireless sensor networks," in Proc. ACM Symp. Access Control Models and Technologies, New York, NY, Jun. 2022.
+ F. Hellström and G. Durisi, "A new family of generalization bounds using samplewise evaluated CMI," in <em>Proc. Conf. Neural Information Processing Systems (NeurIPS)</em>, New Orleans, LA, U.S.A., Nov. 2022.
+</li>
+<hr>
+
+<li>
+G. Tsaloli, A. Lancho, K. Mitrokotsa, and G. Durisi, "WIP: Verifiable, secure and energy-efficient private data aggregation in wireless sensor networks," in <em>Proc. ACM Symp. Access Control Models and Technologies</em>, New York, NY, Jun. 2022.
 </li>
 <hr>
 
 <li>
 G. Marti, O. Castañeda, S. Jacobsson, G. Durisi, T. Goldstein, and C. Studer, “Hybrid jammer mitigation for all-digital
-mmWave massive MU-MIMO,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.
+mmWave massive MU-MIMO,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove, CA, U.S.A., Nov. 2021.
 <a href="http://arxiv.org/abs/2111.13055">[<i class="fas fa-book"></i>]</a>
 </li>
 <hr>
 <li>
-A. Munari, F. Lázaro, G. Durisi, and G. Liva, “An age of information characterization of frameless ALOHA,” in Proc.
-Asilomar Conf. Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021.  <a href="http://arxiv.org/abs/2112.00491">[<i class="fas fa-book"></i>]</a>
+A. Munari, F. Lázaro, G. Durisi, and G. Liva, “An age of information characterization of frameless ALOHA,” in 
+<em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove, CA, U.S.A., Nov. 2021.  <a href="http://arxiv.org/abs/2112.00491">[<i class="fas fa-book"></i>]</a>
 </li>
 <hr>
 <li>
-K.-H. Ngo, G. Durisi, and A. Graell i Amat, “Age of information in prioritized random access,” in Proc. Asilomar Conf.
-Signals, Syst., Comput., Pacific Grove, CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.01182">[<i class="fas fa-book"></i>]</a>
+K.-H. Ngo, G. Durisi, and A. Graell i Amat, “Age of information in prioritized random access,” in <em>Proc. Asilomar Conf.
+Signals, Syst., Comput.</em>, Pacific Grove, CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.01182">[<i class="fas fa-book"></i>]</a>
 <a href="https://www.youtube.com/watch?v=xtyOsdLLIso">[<i class="fab fa-youtube"></i>]</a>
 <a href="https://github.com/khachoang1412/AoI_prioritized_random_access" target="_blank">[<i class="fab fa-github"></i>]</a>
 </li>
 <hr>
 <li>
-I. Atzeni, A. Tölli, and G. Durisi, “Low-resolution massive MIMO under hardware power consumption constraints,” in Proc.
-Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.02021">[<i class="fas fa-book"></i>]</a>
+I. Atzeni, A. Tölli, and G. Durisi, “Low-resolution massive MIMO under hardware power consumption constraints,” in 
+<em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2021. <a href="http://arxiv.org/abs/2112.02021">[<i class="fas fa-book"></i>]</a>
 </li>
 <hr> 
 <li>
-A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in Proc. IEEE
-   Global Telecommun. Conf. (GLOBECOM), Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[<i class="fas fa-book"></i>]</a>
+A. Lancho, J. Östman, and G. Durisi, “On joint detection and decoding in short-packet transmission,” in <em>Proc. IEEE
+   Global Telecommun. Conf. (GLOBECOM)</em>, Madrid, Spain, Dec. 2021. <a href="https://arxiv.org/abs/2109.13669">[<i class="fas fa-book"></i>]</a>
    <a href="https://www.youtube.com/watch?v=McGaedtIIrA">[<i class="fab fa-youtube"></i>]</a> 
 </li> 
 <hr> 
