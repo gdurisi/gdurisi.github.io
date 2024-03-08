@@ -8,6 +8,10 @@ classes: wide
 
 
 ## Chalmers ##
+
+- [Master program in information and communication technology (MPICT)]({% post_url 2024-03-04-mpict %}): 
+Since 2023, I
+have taken the role as director of the MPICT program.
 - [MVE137](https://chalmers.instructure.com/courses/15077/assignments/syllabus): Probability and statistical learning using Python (2021-2023)
 - [EEN100](https://chalmers.instructure.com/courses/10132): Statistics and machine learning in high dimensions (2020-2023)
 - [SSY210](https://chalmers.instructure.com/courses/23386): Information theory (2013--2023)
