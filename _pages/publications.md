@@ -29,6 +29,10 @@ corresponding journal publication.
 
 ## Preprints
 <ol>
+  <li>
+ K.-H. Ngo, J. Östman, G. Durisi, and A. Graell i Amat, “Secure aggregation is not private against membership inference attacks,” Mar. 2024. [<a href="http://arxiv.org/abs/2403.17775"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
 <li>
 A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Jan. 2024. [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
 </li>

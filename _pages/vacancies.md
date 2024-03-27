@@ -19,7 +19,7 @@ classes: wide
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/)
 
 ### Post-doctoral vacancies
-- [**Feb. 2024**] There will be soon an open position in my team in the area of
+- [**Mar. 2024**] There will be soon an open position in my team in the area of
   machine learning for communications and statistical learning theory; get in
   touch if you are interested.
 <!-- - [**Jan. 2020**] I am looking for a postdoctoral researcher interested in working on the following project: ``[resilient and secure delay-critical edge computing](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=8237&rmlang=UK)''. Deadline (extended): **Feb. 29, 2020** -->
