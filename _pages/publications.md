@@ -79,14 +79,12 @@ A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analy
 </ol>
 
 ## Journal Papers
-<ol 
+<ol> 
   <li>
   L. Aabel, S. Jacobsson, M. Coldrey, F. Olofsson, G. Durisi, and C. Fager, “A TDD distributed MIMO testbed using a 1-bit radio-over-fiber fronthaul architecture,” <em>IEEE Trans. Microw. Theory Tech.</em>, 2024, to appear, [<a href="https://arxiv.org/abs/2403.17476"><i class="fas fa-book"></i></a>]
    </li>
 <hr>
-
->
-  <li>
+<li>
  K.-H. Ngo, G. Durisi, A. G. i. Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” <em>IEEE Trans.
   Commun.</em>, Feb. 2024, [<a href="http://arxiv.org/abs/2302.11026"><i class="fas fa-book"></i></a>], [<a href="https://youtu.be/JW0i132qlro"><i class="fas fa-video"></i></a>]
  </li>
