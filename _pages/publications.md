@@ -2,10 +2,10 @@
 <!-- layout: archive -->
 layout: single
 toc: true
-toc_label: "Publications"
-toc_icon: "book"
-title: "Publications"
-permalink: /publications/ 
+toc_label: Publications
+toc_icon: book
+title: Publications
+permalink: /publications/
 author_profile: true
 ---
 <!-- classes: wide -->
@@ -435,7 +435,8 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 </li>
 <hr>
 <li>
-    A. Bordbar, L. Aabel, C. Häger, C. Fager, and G. Durisi, “Deep-learning-based channel-estimation for distributed MIMO with 1-bit radio-over-fiber fronthaul,” in <em>Proc. IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS)</em>, Rio de Janeiro, Brazil, July 2024.
+    A. Bordbar, L. Aabel, C. Häger, C. Fager, and G. Durisi, “Deep-learning-based channel-estimation for distributed MIMO with 1-bit radio-over-fiber fronthaul,” in <em>Proc. IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS)</em>, Rio de Janeiro, Brazil, July 2024. <a href="https://arxiv.org/abs/2406.11325">[<i class="fas fa-book"></i>]</a>
+
 </li>
 <hr>
 <li>
@@ -1079,3 +1080,4 @@ S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit ma
 
   </li>
 </ol>
+
