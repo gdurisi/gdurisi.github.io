@@ -31,6 +31,10 @@ corresponding journal publication.
 
 <ol>
   <li>
+  A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” June 2024.
+    </li>
+    <hr>
+  <li>
     K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
     updates in slotted Aloha networks with energy harvesting,” May 2024. [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>]
     </li>
@@ -87,7 +91,8 @@ A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popov
 
 <ol>
   <li>
-    A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” IEEE Trans. Commun., May 2024, accepted for publication.
+    A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” IEEE Trans. Commun., June 2024 [<a href="https://arxiv.org/abs/2405.18892"><i class="fas fa-book"></i></a>]
+.
   </li>
   <hr>
   <li>
@@ -429,6 +434,11 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+<li>
+    K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC), (Lucca, Italy), Sept. 2024. <a href="https://arxiv.org/abs/2404.19552">[<i class="fas fa-book"></i>]</a>
+
+</li>
+  <hr>
 <li>
     K.-H. Ngo, J. Östman, G. Durisi, and A. Graell i Amat, “Secure aggregation is not private against membership inference attacks,” in <em>Proc. European Conf. Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)</em>, Vilnius, Lithuania, Sept. 2024. <a href="http://arxiv.org/abs/2403.17775">[<i class="fas fa-book"></i>]</a>
 
@@ -1080,4 +1090,3 @@ S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit ma
 
   </li>
 </ol>
-
