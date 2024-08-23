@@ -44,7 +44,7 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 
 ## Former Ph.D. students
 
-- Fredrik Hellström (Chalmers 2023): Information theoretic generalization bounds: tightness and expressiveness, Gothenburg, Sweden [[PhD thesis]](https://evt.ungpd.com/Issues/dd1df13d-d893-48ef-a233-559dfdfd586e/Click?ContactId=8ad52a77-803a-4e7f-98d9-d9f1be23f3d1&url=https%3a%2f%2fchalmersuniversity.box.com%2fs%2fy7a50qdyxaz988vdasl18yfj9op2j9pu)
+- Fredrik Hellström (Chalmers 2023): Information theoretic generalization bounds: tightness and expressiveness, now with University College London, U.K. [[PhD thesis]](https://evt.ungpd.com/Issues/dd1df13d-d893-48ef-a233-559dfdfd586e/Click?ContactId=8ad52a77-803a-4e7f-98d9-d9f1be23f3d1&url=https%3a%2f%2fchalmersuniversity.box.com%2fs%2fy7a50qdyxaz988vdasl18yfj9op2j9pu)
 
 - Johan Östman (Chalmers 2020): Ultra-reliable short-packet communication, now with AI Sweden, Gothenburg, Sweden [[PhD thesis](https://chalmersuniversity.app.box.com/file/727304702240?s=4x3icks6qfbmbbjahzy9m4bihpyjb39u)]
 
@@ -66,8 +66,9 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 
 ## Former Post-doctoral students
 
-- Dr. Arezou Rezazadeh (October 2019-March 2022), now with KTH
+- Dr. Arezou Rezazadeh (October 2019-March 2022)
 
-- Dr. Alejandro Lancho (October 2019-September 2021), now with MIT
+- Dr. Alejandro Lancho (October 2019-September 2021), now with Universidad Carlos III,
+Madrid, Spain
 
 - Dr. Guido Carlo Ferrante (October 2017-October 2018), now with Ericsson Research, Sweden
