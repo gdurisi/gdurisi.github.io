@@ -8,10 +8,13 @@ classes: wide
 
 ## Post-doctoral researchers
 
-- Dr. Khac-Hoang Ngo (October 2020-present): Massive random access, security and privacy, age of information
+<!-- - Dr. Khac-Hoang Ngo (October 2020-present): Massive random access, security and privacy, age of information -->
 
 - Dr. Deekshith Pathayappilly Krishnan (May 2023-present): Massive random
   access, statistical learning theory  
+
+- Dr. Unnikrishnan Kunnath Ganesan (October 2024-present): Machine learning over
+communication systems
 
 ## Ph.D. students
 
@@ -26,13 +29,13 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 
 - Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bounds
 
-- Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)]
+<!-- - Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)] -->
 
 - Lise Aabel (March 2020-preseent): Distributed massive MIMO
 
-- Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström](https://www.chalmers.se/en/staff/Pages/erik-strom.aspx)]
+<!-- - Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström](https://www.chalmers.se/en/staff/Pages/erik-strom.aspx)] -->
 
-- Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures
+<!-- - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures -->
 
 <!-- - Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström] -->
 
@@ -43,6 +46,9 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 - Rahul Devassy (August 2013 - present): fading networks at finite blocklength -->
 
 ## Former Ph.D. students
+
+- Oguz Kislal (Chalmers 2024): Fundamental limits of ultra-reliable, low latency
+communications
 
 - Fredrik Hellström (Chalmers 2023): Information theoretic generalization bounds: tightness and expressiveness, now with University College London, U.K. [[PhD thesis]](https://evt.ungpd.com/Issues/dd1df13d-d893-48ef-a233-559dfdfd586e/Click?ContactId=8ad52a77-803a-4e7f-98d9-d9f1be23f3d1&url=https%3a%2f%2fchalmersuniversity.box.com%2fs%2fy7a50qdyxaz988vdasl18yfj9op2j9pu)
 
@@ -65,6 +71,8 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 - Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
 
 ## Former Post-doctoral students
+
+- Dr. Khac-Hoang Ngo (October 2020-September 2024), now with Linköping University, Sweden
 
 - Dr. Arezou Rezazadeh (October 2019-March 2022)
 
