@@ -39,10 +39,6 @@ corresponding journal publication.
     updates in slotted Aloha networks with energy harvesting,” May 2024. [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>]
     </li>
   <hr>
-<li>
-A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Jan. 2024. [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
-</li>
-<hr>
 </ol>
 
 ## Books and Monographs
@@ -86,6 +82,10 @@ A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popov
 ## Journal Papers
 
 <ol>
+<li>
+A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. {IEEE}, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
+</li>
+<hr>
   <li>
     A. O. Kislal, M. Rajiv, G. Durisi, E. G. Ström, and U. Mitra, “Is synchronization a bottleneck for pilot-assisted URLLC links?,” IEEE Trans. Wireless Commun., Sept. 2024, to appear, [<a href="http://arxiv.org/abs/2401.09089"><i class="fas fa-book"></i></a>]
     </li>
