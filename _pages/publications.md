@@ -83,7 +83,14 @@ corresponding journal publication.
 
 <ol>
 <li>
-A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. {IEEE}, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
+    H. Guo, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. F. Keskin, M. M. Moghaddam,
+C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localiza-
+tion and sensing in 6G D-MIMO networks,” IEEE Wireless Commun. Mag., Dec. 2024, accepted for
+publication.
+</li>
+<hr>
+<li>
+A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. IEEE, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
 </li>
 <hr>
   <li>
