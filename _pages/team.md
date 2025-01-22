@@ -18,6 +18,9 @@ communication systems
 
 ## Ph.D. students
 
+- Akshay Vayal Parambath (Nov. 2024-present): Distributed MIMO systems, started in 2024
+[main supervisor: [Tommy Svensson](https://www.chalmers.se/en/persons/tommys/)]
+
 - Bingcheng Chen (Aug. 2024-present): Machine-learning over communication systems [main
 supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 
