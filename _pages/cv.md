@@ -24,9 +24,11 @@ Region, and is co-author of a paper that won a "student paper award" at the
 2012 International Symposium on Information Theory, and of a paper that won the
 2013 IEEE Sweden VT-COM-IT joint chapter best student conference paper award.
 From 2011 to 2014, he served as publications editor for the
-IEEE Transactions on Information Theory. 
+IEEE Transactions on Information Theory.
 From 2015 to 2021, he served as associate editor for the IEEE Transactions on
-Communications.  
+Communications.
+He is currently associate editor for the IEEE Transactions on Information
+Theory.
 His research interests are in the
 areas of communication and information theory and machine learning.
 
