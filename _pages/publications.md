@@ -33,8 +33,8 @@ corresponding journal publication.
   <li>
      K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
 with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
-
     </li>
+  <hr>
   <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” June 2024.
     </li>
@@ -90,26 +90,25 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 <ol>
 <li>
     H. Guo, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. F. Keskin, M. M. Moghaddam,
-C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localiza-
-tion and sensing in 6G D-MIMO networks,” IEEE Wireless Commun. Mag., Dec. 2024, accepted for
+C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Dec. 2024, accepted for
 publication.
 </li>
-<hr>
+  <hr>
+ <li>
+    A. O. Kislal, M. Rajiv, G. Durisi, E. G. Ström, and U. Mitra, “Is synchronization a bottleneck for pilot-assisted URLLC links?,” <em>IEEE Trans. Wireless Commun.</em>, Dec. 2024, [<a href="http://arxiv.org/abs/2401.09089"><i class="fas fa-book"></i></a>]
+    </li>
+  <hr>
 <li>
-A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. IEEE}, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
+A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” <em>Proc. IEEE</em>, Nov. 2024, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
 </li>
 <hr>
   <li>
-    A. O. Kislal, M. Rajiv, G. Durisi, E. G. Ström, and U. Mitra, “Is synchronization a bottleneck for pilot-assisted URLLC links?,” IEEE Trans. Wireless Commun., Sept. 2024, to appear, [<a href="http://arxiv.org/abs/2401.09089"><i class="fas fa-book"></i></a>]
-    </li>
-  <hr>
-  <li>
-    A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” IEEE Trans. Commun., June 2024 [<a href="https://arxiv.org/abs/2405.18892"><i class="fas fa-book"></i></a>]
+    A. Hu, L. Aabel, G. Durisi, S. Jacobsson, M. Coldrey, and C. Fager, “EVM analysis of distributed massive MIMO with 1-bit radio-over-fiber fronthaul,” <em>IEEE Trans. Commun.,</em> Nov. 2024 [<a href="https://arxiv.org/abs/2405.18892"><i class="fas fa-book"></i></a>]
 .
   </li>
   <hr>
   <li>
-  L. Aabel, S. Jacobsson, M. Coldrey, F. Olofsson, G. Durisi, and C. Fager, “A TDD distributed MIMO testbed using a 1-bit radio-over-fiber fronthaul architecture,” <em>IEEE Trans. Microw. Theory Tech.</em>, 2024, to appear, [<a href="https://arxiv.org/abs/2403.17476"><i class="fas fa-book"></i></a>]
+  L. Aabel, S. Jacobsson, M. Coldrey, F. Olofsson, G. Durisi, and C. Fager, “A TDD distributed MIMO testbed using a 1-bit radio-over-fiber fronthaul architecture,” <em>IEEE Trans. Microw. Theory Tech.</em>,  Oct. 2024., [<a href="https://arxiv.org/abs/2403.17476"><i class="fas fa-book"></i></a>]
    </li>
 <hr>
 <li>
