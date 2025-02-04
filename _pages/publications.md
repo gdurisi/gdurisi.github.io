@@ -31,6 +31,11 @@ corresponding journal publication.
 
 <ol>
   <li>
+     K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
+with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
+
+    </li>
+  <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” June 2024.
     </li>
     <hr>
@@ -50,7 +55,8 @@ corresponding journal publication.
   </li>
   <hr>
   <li>
-    F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, Generalization Bounds: Perspectives from Infor- mation Theory and PAC-Bayes. Foundations and Trends in Machine Learning, 2024, to appear.
+    F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” vol. 18, pp. 1–223, Foundations and Trends in Machine Learning, Jan.
+2025.
 [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -90,7 +96,7 @@ publication.
 </li>
 <hr>
 <li>
-A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. IEEE, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
+A. E. Kalør, G. Durisi, S. Coleri, S. Parkvall, W. Yu, A. Mueller, and P. Popovski, “Wireless 6G connectivity for massive number of devices and critical services,” Proc. IEEE}, Oct. 2024, to appear, [<a href="http://arxiv.org/abs/2401.01127v2"><i class="fas fa-book"></i></a>]
 </li>
 <hr>
   <li>
