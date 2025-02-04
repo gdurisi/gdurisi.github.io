@@ -29,7 +29,7 @@ classes: wide
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 
-- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) within the European Horizon framework program. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: September, 2025.
+- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) within the European Horizon framework program. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: September 10, 2025.
 
 ### Master theses
 
