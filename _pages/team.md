@@ -51,7 +51,7 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 ## Former Ph.D. students
 
 - Oguz Kislal (Chalmers 2024): Fundamental limits of ultra-reliable, low latency
-communications
+communications [[PhD thesis]](https://research.chalmers.se/en/publication/543180)
 
 - Fredrik Hellström (Chalmers 2023): Information theoretic generalization bounds: tightness and expressiveness, now with University College London, U.K. [[PhD thesis]](https://evt.ungpd.com/Issues/dd1df13d-d893-48ef-a233-559dfdfd586e/Click?ContactId=8ad52a77-803a-4e7f-98d9-d9f1be23f3d1&url=https%3a%2f%2fchalmersuniversity.box.com%2fs%2fy7a50qdyxaz988vdasl18yfj9op2j9pu)
 
