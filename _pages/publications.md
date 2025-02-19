@@ -36,10 +36,6 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
     </li>
   <hr>
   <li>
-  A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” June 2024.
-    </li>
-    <hr>
-  <li>
     K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
     updates in slotted Aloha networks with energy harvesting,” May 2024. [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>]
     </li>
@@ -50,14 +46,14 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 
 <ol>
   <li>
-    A. Zaidi, F. Athley, J. Medbo, U. Gustavsson, G. Durisi, and X. Cheng, <em>5G Physical Layer: principles, models and technology components</em>. Academic Press, 2018 [<a href="https://www.elsevier.com/books/5g-physical-layer/zaidi/978-0-12-814578-4"
-      target="_blank">website</a>]
-  </li>
-  <hr>
-  <li>
     F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” vol. 18, pp. 1–223, Foundations and Trends in Machine Learning, Jan.
 2025.
 [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
+    A. Zaidi, F. Athley, J. Medbo, U. Gustavsson, G. Durisi, and X. Cheng, <em>5G Physical Layer: principles, models and technology components</em>. Academic Press, 2018 [<a href="https://www.elsevier.com/books/5g-physical-layer/zaidi/978-0-12-814578-4"
+      target="_blank">website</a>]
   </li>
   <hr>
 </ol>
@@ -88,6 +84,12 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 ## Journal Papers
 
 <ol>
+<li>
+  A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
+in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
+Commun. </em>, Feb. 2025, accepted for publication.
+</li>
+  <hr>
 <li>
     H. Guo, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. F. Keskin, M. M. Moghaddam,
 C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Dec. 2024, accepted for
