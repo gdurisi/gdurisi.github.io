@@ -35,11 +35,6 @@ corresponding journal publication.
 with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
     </li>
   <hr>
-  <li>
-    K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
-    updates in slotted Aloha networks with energy harvesting,” May 2024. [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>]
-    </li>
-  <hr>
 </ol>
 
 ## Books and Monographs
@@ -84,6 +79,11 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 ## Journal Papers
 
 <ol>
+    <li>
+    K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
+    updates in slotted Aloha networks with energy harvesting,” <em>IEEE Trans. Commun.</em>, Feb. 2025. Accepted for publication [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>], [<a href="https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting"><i class="fab fa-github"></i></a>]
+    </li>
+  <hr>
 <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
 in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
