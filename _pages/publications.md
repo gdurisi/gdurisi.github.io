@@ -87,7 +87,7 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
 in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
-Commun. </em>, Feb. 2025, accepted for publication.
+Commun. </em>, Feb. 2025, accepted for publication [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>]
 </li>
   <hr>
 <li>
