@@ -16,7 +16,7 @@ Gothenburg, Sweden
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
 
 ---
-<!--June. 2024: [Postdoctoral researcher position available in my team](/vacancies){: .btn .btn--danger}-->
+Apr. 2025: [A PhD position will soon be available in my team](/vacancies){: .btn .btn--danger}
 
 # About
 
