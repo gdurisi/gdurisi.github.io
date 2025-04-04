@@ -31,6 +31,11 @@ corresponding journal publication.
 
 <ol>
   <li>
+    U. K. Ganesan, G. Durisi, M. Zecchin, P. Popovski, and O. Simeone, “Online conformal compression for
+zero-delay communication with distortion guarantees,” Mar. 2025. [<a href="http://arxiv.org/abs/2503.08340"><i class="fas fa-book"></i></a>]
+  </li>
+   <hr>
+  <li>
      K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
 with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
     </li>
@@ -87,7 +92,8 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
 in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
-Commun. </em>, Feb. 2025, accepted for publication [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>]
+Commun. </em>, Feb. 2025, accepted for publication [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>
+    , <a href="ttps://github.com/OguzKislal/ErrorDetection InfoTheory"><i class="fab fa-github"></i></a>]
 </li>
   <hr>
 <li>
