@@ -31,11 +31,6 @@ corresponding journal publication.
 
 <ol>
   <li>
-    U. K. Ganesan, G. Durisi, M. Zecchin, P. Popovski, and O. Simeone, “Online conformal compression for
-zero-delay communication with distortion guarantees,” Mar. 2025. [<a href="http://arxiv.org/abs/2503.08340"><i class="fas fa-book"></i></a>]
-  </li>
-   <hr>
-  <li>
      K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
 with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
     </li>
@@ -454,8 +449,29 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+  <li>
+K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
+channels with cell-free massive MIMO,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Ann Arbor, MI,
+USA, June 2025.
+        [<a href="https://arxiv.org/abs/2504.19954"><i class="fas fa-book"></i></a>],
+    [<a href="https://github.com/okumuskaan/tuma_fading_cf"><i class="fab fa-github"></i></a>]
+  </li>
+  <hr>
+  <li>
+D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “An achievability bound for type-based unsourced
+multiple access,” in <em>Proc. IEEE Int. Symp. Inf. Theory ISIT</em>, (Ann Arbor, MI, USA), June 2025.
+    [<a href="https://arxiv.org/abs/2504.19916"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
+    U. K. Ganesan, G. Durisi, M. Zecchin, P. Popovski, and O. Simeone, “Online conformal
+compression for zero-delay communication with distortion guarantees,” in <em>Proc. IEEE
+Int. Symp. Inf. Theory (ISIT), Learn to Compress & Compress to Learn Workshop</em>,
+Ann Arbor, MI, USA, June 2025. [<a href="http://arxiv.org/abs/2503.08340"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
 <li>
-    K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC), (Lucca, Italy), Sept. 2024. <a href="https://arxiv.org/abs/2404.19552">[<i class="fas fa-book"></i>]</a>
+    K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, (Lucca, Italy), Sept. 2024. <a href="https://arxiv.org/abs/2404.19552">[<i class="fas fa-book"></i>]</a>
 
 </li>
   <hr>
