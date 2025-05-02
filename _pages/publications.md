@@ -465,7 +465,7 @@ USA, June 2025.
   <hr>
   <li>
 D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “An achievability bound for type-based unsourced
-multiple access,” in <em>Proc. IEEE Int. Symp. Inf. Theory ISIT</em>, (Ann Arbor, MI, USA), June 2025.
+multiple access,” in <em>Proc. IEEE Int. Symp. Inf. Theory ISIT</em>, Ann Arbor, MI, USA, June 2025.
     [<a href="https://arxiv.org/abs/2504.19916"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -477,7 +477,7 @@ Ann Arbor, MI, USA, June 2025. [<a href="http://arxiv.org/abs/2503.08340"><i cla
   </li>
   <hr>
 <li>
-    K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, (Lucca, Italy), Sept. 2024. <a href="https://arxiv.org/abs/2404.19552">[<i class="fas fa-book"></i>]</a>
+    K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Lucca, Italy, Sept. 2024. <a href="https://arxiv.org/abs/2404.19552">[<i class="fas fa-book"></i>]</a>
 
 </li>
   <hr>
