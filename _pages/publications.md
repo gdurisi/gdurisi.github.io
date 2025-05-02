@@ -450,6 +450,12 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 
 <ol>
   <li>
+    J. Naram, F. Hellström, Z. Wang, R. Jörnsten, and G. Durisi, “Theoretical performance guarantees for
+partial domain adaptation via partial optimal transport,” in Proc. Int. Conf. Machine Learning (ICML),
+Vancouver, Canada, July 2025.
+   </li>
+  <hr>
+  <li>
 K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
 channels with cell-free massive MIMO,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Ann Arbor, MI,
 USA, June 2025.
