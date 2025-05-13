@@ -8,7 +8,7 @@ classes: wide
 
 ### PhD student vacancies
 
-- No openings at the moment
+- [**May 2025**] 1 PhD student position in *Theoretical Machine Learning---Understanding Transformers through Information Theory*: click [here]({% link _posts/2025-05-13-vacancy.md %}) for more information and instructions on how to apply. **Deadline: June 14, 2025**; indicative starting date: Fall 2025.
 <!-- - [**Jun. 2024**] There will be soon open positions in my team in the area of -->
   <!--joint communication and sensing and context-aided communication; get in touch if you are interested.-->
 <!-- - [**Dec. 2022**] 1 PhD student position in **goal-oriented semantic communication**: click [here](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11269&rmlang=UK) for more information and to apply. **Deadline**: February 19, 2023; Indicative starting date: Fall 2023. -->

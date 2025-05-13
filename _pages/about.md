@@ -16,7 +16,7 @@ Gothenburg, Sweden
 [Directions to my office](http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=108483441345999380628.00049637fcf7f87e20bc4)
 
 ---
-Apr. 2025: [A PhD position will soon be available in my team](/vacancies){: .btn .btn--danger}
+May 2025: [A PhD position is available in my team (deadline June 14)](/vacancies){: .btn .btn--danger}
 
 # About
 
