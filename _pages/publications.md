@@ -452,7 +452,7 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
   <li>
     J. Naram, F. Hellström, Z. Wang, R. Jörnsten, and G. Durisi, “Theoretical performance guarantees for
 partial domain adaptation via partial optimal transport,” in Proc. Int. Conf. Machine Learning (ICML),
-Vancouver, Canada, July 2025.
+Vancouver, Canada, July 2025.  [<a href="https://arxiv.org/abs/2506.02712"><i class="fas fa-book"></i></a>],
    </li>
   <hr>
   <li>
@@ -473,7 +473,7 @@ multiple access,” in <em>Proc. IEEE Int. Symp. Inf. Theory ISIT</em>, Ann Arbo
     U. K. Ganesan, G. Durisi, M. Zecchin, P. Popovski, and O. Simeone, “Online conformal
 compression for zero-delay communication with distortion guarantees,” in <em>Proc. IEEE
 Int. Symp. Inf. Theory (ISIT), Learn to Compress & Compress to Learn Workshop</em>,
-Ann Arbor, MI, USA, June 2025. [<a href="http://arxiv.org/abs/2503.08340"><i class="fas fa-book"></i></a>]
+Ann Arbor, MI, USA, June 2025. [<a href="http://arxiv.org/abs/2503.08340"><i class="fas fa-book"></i></a>] (<b>chosen as best paper</b>)
   </li>
   <hr>
 <li>
