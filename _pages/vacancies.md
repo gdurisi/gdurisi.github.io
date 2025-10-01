@@ -8,7 +8,7 @@ classes: wide
 
 ### PhD student vacancies
 
-- [**May 2025**] 1 PhD student position in *Theoretical Machine Learning---Understanding Transformers through Information Theory*: click [here]({% link _posts/2025-05-13-vacancy.md %}) for more information and instructions on how to apply. **Deadline: June 14, 2025**; indicative starting date: Fall 2025.
+<!-- - [**May 2025**] 1 PhD student position in *Theoretical Machine Learning---Understanding Transformers through Information Theory*: click [here]({% link _posts/2025-05-13-vacancy.md %}) for more information and instructions on how to apply. **Deadline: June 14, 2025**; indicative starting date: Fall 2025. -->
 <!-- - [**Jun. 2024**] There will be soon open positions in my team in the area of -->
   <!--joint communication and sensing and context-aided communication; get in touch if you are interested.-->
 <!-- - [**Dec. 2022**] 1 PhD student position in **goal-oriented semantic communication**: click [here](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11269&rmlang=UK) for more information and to apply. **Deadline**: February 19, 2023; Indicative starting date: Fall 2023. -->
@@ -18,6 +18,7 @@ classes: wide
 
 <!-- - [**Apr. 2023**] 1 PhD student position in **machine learning over wireless networks**: click [here](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11704&rmlang=UK) for more information and to apply. **Deadline**: May 12, 2023  -->
 <!-- click [here](https://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=10910&rmlang=UK) for more information and to apply. **Deadline**: October 31 -->
+- No vacancies at the moment
 - For other openings at every level at the Department of Electrical Engineering, please visit [Chalmers vacancy website](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/)
 
 ### Post-doctoral vacancies
@@ -29,7 +30,7 @@ classes: wide
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 
-- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) within the European Horizon framework program. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: September 10, 2025.
+- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) within the European Horizon framework program. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**:  Fall 2026.
 
 ### Master theses
 

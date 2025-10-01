@@ -18,6 +18,11 @@ communication systems
 
 ## Ph.D. students
 
+- Ziyong Cheong (Sep. 2025-present): Understanding transformers via compression and discrimination
+
+- Emmanuella Ametsi (May 2025-present): Runtime safe monitors for automotive ML-based functions
+[main supervisor: [Christian Berger](https://www.gu.se/en/about/find-staff/christianberger)]
+
 - Akshay Vayal Parambath (Nov. 2024-present): Distributed MIMO systems, started in 2024
 [main supervisor: [Tommy Svensson](https://www.chalmers.se/en/persons/tommys/)]
 
@@ -30,26 +35,11 @@ supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 - Alireza Bordbar (Sep. 2023-present): Machine-learning for communication
   systems
 
-- Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bounds
-
-<!-- - Selma Tabakovic (August 2020-present): Mathematics of deep learning  [main supervisor: [Rebecka Jörnsten](http://www.math.chalmers.se/~jornsten/)] -->
-
-- Lise Aabel (March 2020-preseent): Distributed massive MIMO
-
-<!-- - Oguz Kislal (September 2019-present): Ultra-reliable low-latency communications [main supervisor: [Prof. Erik Ström](https://www.chalmers.se/en/staff/Pages/erik-strom.aspx)] -->
-
-<!-- - Yasaman Ettefagh (October 2017-present): Multiantenna wireless architectures -->
-
-<!-- - Johan Östman (September 2015-present): Ultra-reliable low-latency communications [co-supervised with Prof. Erik Ström] -->
-
-<!-- - Sven Jacobsson (March 2015-present): Massive MIMO with low precision converters [industrial PhD student at Ericsson Research]
-
-- Kamran Keykhosravi (March 2014-present): Information theory for fiber-optic channels [co-supervised with Prof. Erik Agrell]
-
-- Rahul Devassy (August 2013 - present): fading networks at finite blocklength -->
+- Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bound
 
 ## Former Ph.D. students
 
+- Lise Aabel (Chalmers 2025): Distributed Antenna Systems Using 1-bit Radio-Over-Fiber [[PhD thesis](https://research.chalmers.se/en/publication/548000)]
 - Oguz Kislal (Chalmers 2024): Fundamental limits of ultra-reliable, low latency
 communications [[PhD thesis]](https://research.chalmers.se/en/publication/543180)
 

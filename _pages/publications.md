@@ -31,8 +31,8 @@ corresponding journal publication.
 
 <ol>
   <li>
-     K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
-with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]
+    M. Zecchin, U. K. Ganesan, G. Durisi, P. Popovski, and O. Simeone, “Prediction-powered communication
+with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.24373"><i class="fas fa-book"></i></a>]
     </li>
   <hr>
 </ol>
@@ -81,20 +81,19 @@ with random access,” Jan. 2025. [<a href="https://arxiv.org/abs/2501.14522"><i
 <ol>
     <li>
     K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
-    updates in slotted Aloha networks with energy harvesting,” <em>IEEE Trans. Commun.</em>, Feb. 2025. Accepted for publication [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>], [<a href="https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting"><i class="fab fa-github"></i></a>]
+    updates in slotted Aloha networks with energy harvesting,” <em>IEEE Trans. Commun.</em>, Sept. 2025 [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>], [<a href="https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting"><i class="fab fa-github"></i></a>]
     </li>
   <hr>
 <li>
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
 in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
-Commun. </em>, Feb. 2025, accepted for publication [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>
+Commun. </em>, Sept. 2025 [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>
     , <a href="ttps://github.com/OguzKislal/ErrorDetection InfoTheory"><i class="fab fa-github"></i></a>]
 </li>
   <hr>
 <li>
     H. Guo, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. F. Keskin, M. M. Moghaddam,
-C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Dec. 2024, accepted for
-publication.
+C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Feb. 2025.
 </li>
   <hr>
  <li>
@@ -449,7 +448,19 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+<li>
+    K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
+with random access,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), (Taipei, Taiwan), Dec.
+2025. [<a href="http://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]  
+  </li>
+  <hr>
   <li>
+    F. Malandrino, C. F. Chiasserini, J. Naram, and G. Durisi, “Choose before you label: Efficient node
+selection in constrained federated learning,” in IEEE Int. Conf. on Network and Service Management,
+(Bologna, Italy), Oct. 2025.[<a href="https://hdl.handle.net/11583/3002637"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+    <li>
     J. Naram, F. Hellström, Z. Wang, R. Jörnsten, and G. Durisi, “Theoretical performance guarantees for
 partial domain adaptation via partial optimal transport,” in Proc. Int. Conf. Machine Learning (ICML),
 Vancouver, Canada, July 2025.  [<a href="https://arxiv.org/abs/2506.02712"><i class="fas fa-book"></i></a>],
