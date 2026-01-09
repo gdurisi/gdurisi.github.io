@@ -13,8 +13,8 @@ classes: wide
 - Dr. Deekshith Pathayappilly Krishnan (May 2023-present): Massive random
   access, statistical learning theory  
 
-- Dr. Unnikrishnan Kunnath Ganesan (October 2024-present): Machine learning over
-communication systems
+<!-- - Dr. Unnikrishnan Kunnath Ganesan (October 2024-present): Machine learning over -->
+<!-- communication systems -->
 
 ## Ph.D. students
 

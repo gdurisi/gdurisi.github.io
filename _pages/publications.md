@@ -79,7 +79,13 @@ with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.2
 ## Journal Papers
 
 <ol>
-    <li>
+  <li>
+    L. Aabel, G. Durisi, F. Olofsson, E. Börjeson, M. Coldrey, and C. Fager, “Insights on the uplink operation
+of a 1-bit radio-over-fiber architecture in multi-user D-MIMO communication,” IEEE Trans. Microw.
+Theory Tech., 2025, to appear. [<a href="http://arxiv.org/abs/2512.01806"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
     K.-H. Ngo, G. Durisi, A. Munari, F. Lazaro, and A. Graell i Amat, “Timely status
     updates in slotted Aloha networks with energy harvesting,” <em>IEEE Trans. Commun.</em>, Sept. 2025 [<a href="https://arxiv.org/abs/2404.18990"><i class="fas fa-book"></i></a>], [<a href="https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting"><i class="fab fa-github"></i></a>]
     </li>
