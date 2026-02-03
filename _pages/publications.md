@@ -31,6 +31,11 @@ corresponding journal publication.
 
 <ol>
   <li>
+    D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum
+energy per bit of unsourced multiple access with location-based codebook
+partitioning (extended version), Feb. 2026 [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
+  </li>
+  <li>
     M. Zecchin, U. K. Ganesan, G. Durisi, P. Popovski, and O. Simeone, “Prediction-powered communication
 with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.24373"><i class="fas fa-book"></i></a>]
     </li>
