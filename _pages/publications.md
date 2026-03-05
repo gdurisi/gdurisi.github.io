@@ -31,14 +31,15 @@ corresponding journal publication.
 
 <ol>
   <li>
+    K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
+channels in distributed MIMO with application to multi-target localization,” Mar. 2026. [<a href="http://arxiv.org/abs/2603.01749"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
     D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum
 energy per bit of unsourced multiple access with location-based codebook
 partitioning (extended version), Feb. 2026 [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
   </li>
-  <li>
-    M. Zecchin, U. K. Ganesan, G. Durisi, P. Popovski, and O. Simeone, “Prediction-powered communication
-with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.24373"><i class="fas fa-book"></i></a>]
-    </li>
   <hr>
 </ol>
 
@@ -70,6 +71,7 @@ with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.2
     <em>Wireless Communications over Rapidly Time-Varying Channels</em>,
     F.&nbsp;Hlawatsch and G.&nbsp;Matz, Eds., Academic Press, Mar. 2011.
   </li>
+  <hr>
 </ol>
 
 ## Lecture Notes
@@ -79,15 +81,22 @@ with distortion guarantees,” Sept. 2025 [<a href="https://arxiv.org/abs/2509.2
     G. Durisi and A. Lancho, <em><a href="https://gdurisi.github.io/fbl-notes/">Transmitting short packets over wireless
     channels--an information-theoretic perspective</a></em>, Nov. 2020. <a href="https://github.com/gdurisi/fbl-notes">[<i class="fab fa-github"></i>]</a>
   </li>
+  <hr>
 </ol>
 
 ## Journal Papers
 
 <ol>
   <li>
+    M. Zecchin, U. K. Ganesan, G. Durisi, P. Popovski, and O. Simeone, “Prediction-powered communication
+with distortion guarantees,” <em>IEEE J. Sel. Areas Info. Theory</em>, 2026, to appear.
+   [<a href="https://arxiv.org/abs/2509.24373"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+  <li>
     L. Aabel, G. Durisi, F. Olofsson, E. Börjeson, M. Coldrey, and C. Fager, “Insights on the uplink operation
-of a 1-bit radio-over-fiber architecture in multi-user D-MIMO communication,” IEEE Trans. Microw.
-Theory Tech., 2025, to appear. [<a href="http://arxiv.org/abs/2512.01806"><i class="fas fa-book"></i></a>]
+of a 1-bit radio-over-fiber architecture in multi-user D-MIMO communication,” <em>IEEE Trans. Microw.
+Theory Tech.</em>, 2025, to appear. [<a href="http://arxiv.org/abs/2512.01806"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
@@ -459,27 +468,39 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+  <li>
+J. Naram, Z. Wang, G. Durisi, and R. Jörnsten, “Weighted partial optimal transport for multi-source
+partial domain adaptation,” in <em>Proc. Int. Conf. Learning Representation (ICLR), Catch, Adapt, and
+Operate: Monitoring ML Models Under Drift (CAO) Workshop</em>, Rio de Janeiro, Brazil, Apr. 2026.
+  </li>
+  <hr>
+  <li>
+K. Okumus, K.-H. Ngo, U. K. Ganesan, G. Durisi, E. G. Ström, and S. R. Pandey, “Type-based unsourced
+federated learning with client self-selection,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Glasgow, U.K.,
+May 2026. [<a href="https://arxiv.org/abs/2602.06601"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
 <li>
     K.-H. Ngo, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices
-with random access,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), (Taipei, Taiwan), Dec.
+with random access,” in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em>, (Taipei, Taiwan), Dec.
 2025. [<a href="http://arxiv.org/abs/2501.14522"><i class="fas fa-book"></i></a>]  
   </li>
   <hr>
   <li>
     F. Malandrino, C. F. Chiasserini, J. Naram, and G. Durisi, “Choose before you label: Efficient node
-selection in constrained federated learning,” in IEEE Int. Conf. on Network and Service Management,
-(Bologna, Italy), Oct. 2025.[<a href="https://hdl.handle.net/11583/3002637"><i class="fas fa-book"></i></a>]
+selection in constrained federated learning,” in <em>Proc. IEEE Int. Conf. on Network and Service Management</em>,
+Bologna, Italy, Oct. 2025.[<a href="https://hdl.handle.net/11583/3002637"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
     <li>
     J. Naram, F. Hellström, Z. Wang, R. Jörnsten, and G. Durisi, “Theoretical performance guarantees for
-partial domain adaptation via partial optimal transport,” in Proc. Int. Conf. Machine Learning (ICML),
+partial domain adaptation via partial optimal transport,” in <em>Proc. Int. Conf. Machine Learning (ICML)</em>,
 Vancouver, Canada, July 2025.  [<a href="https://arxiv.org/abs/2506.02712"><i class="fas fa-book"></i></a>],
    </li>
   <hr>
   <li>
 K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
-channels with cell-free massive MIMO,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Ann Arbor, MI,
+channels with cell-free massive MIMO,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Ann Arbor, MI,
 USA, June 2025.
         [<a href="https://arxiv.org/abs/2504.19954"><i class="fas fa-book"></i></a>],
     [<a href="https://github.com/okumuskaan/tuma_fading_cf"><i class="fab fa-github"></i></a>]
