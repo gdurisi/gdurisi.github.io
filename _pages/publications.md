@@ -38,7 +38,7 @@ channels in distributed MIMO with application to multi-target localization,” M
   <li>
     D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum
 energy per bit of unsourced multiple access with location-based codebook
-partitioning (extended version), Feb. 2026 [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
+partitioning (extended version),” Feb. 2026 [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
 </ol>
@@ -47,8 +47,7 @@ partitioning (extended version), Feb. 2026 [<a href="{{ site.baseurl}}/files/202
 
 <ol>
   <li>
-    F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” vol. 18, pp. 1–223, Foundations and Trends in Machine Learning, Jan.
-2025.
+    F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” <em>Foundations and Trends in Machine Learning</em>, vol. 18, pp. 1–223, Jan. 2025.
 [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -108,12 +107,12 @@ Theory Tech.</em>, 2025, to appear. [<a href="http://arxiv.org/abs/2512.01806"><
   A. Sauter, A. O. Kislal, G. Durisi, G. Liva, B. Matuz, and E. G. Ström, “Undetected error probability
 in the short blocklength regime: Approaching finite-blocklength bounds with polar codes,” <em>IEEE Trans.
 Commun. </em>, Sept. 2025 [<a href="https://arxiv.org/abs/2503.02782"><i class="fas fa-book"></i></a>
-    , <a href="ttps://github.com/OguzKislal/ErrorDetection InfoTheory"><i class="fab fa-github"></i></a>]
+    , <a href="https://github.com/OguzKislal/ErrorDetection_InfoTheory"><i class="fab fa-github"></i></a>]
 </li>
   <hr>
 <li>
     H. Guo, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. F. Keskin, M. M. Moghaddam,
-C. Madapatha, H. Yu, P. Hammaberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Feb. 2025.
+C. Madapatha, H. Yu, P. Hammarberg, H. Kim, and T. Svensson, “Integrated communication, localization and sensing in 6G D-MIMO networks,” <em>IEEE Wireless Commun. Mag.</em>, Feb. 2025.
 </li>
   <hr>
  <li>
@@ -243,7 +242,7 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
   </li>
   <hr>
   <li>
-    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019. [<a href="https: //arxiv.org/abs/1709.04846"><i class="fas fa-book"></i></a>]
+    S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, "Linear precoding with low-resolution DACs for massive MU-MIMO-OFDM downlink," <em>IEEE Trans. Wireless Commun.</em>, 2019. [<a href="https://arxiv.org/abs/1709.04846"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
   <li>
@@ -368,7 +367,7 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
   <hr>
   <li>
     E. Agrell, A. Alvarado, G. Durisi, and M. Karlsson, “Capacity of a nonlinear optical channel with finite
-    memory,” <i>J. Lightw. Technol.</i>, vol. 32, no. 16, pp. 2862–2876, Aug. 201;(<b>invited paper</b>).
+    memory,” <i>J. Lightw. Technol.</i>, vol. 32, no. 16, pp. 2862–2876, Aug. 2014 (<b>invited paper</b>).
     [<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6824164" target="_blank"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
@@ -392,13 +391,13 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
   </li>
   <hr>
   <li>
-    W. Yang, G. Durisi, and E. Riegler, ">On the capacity of large-MIMO block-fading channels,''&nbsp;<i>IEEE J. Sel.
+    W. Yang, G. Durisi, and E. Riegler, "On the capacity of large-MIMO block-fading channels,"&nbsp;<i>IEEE J. Sel.
     Areas Commun.</i>, vol. 31, no. 2, pp. 117-132, Feb. 2013.
   </li>
   <hr>
   <li>
     G. Durisi, V. I. Morgenshtern, and H. Bölcskei, "On the sensitivity of continuous-time noncoherent fading channel
-    capacity, <i>&nbsp;IEEE Trans. Inf. Theory</i>, vol. 58, no. 10, pp. 6372--6391, Oct. 2012.
+    capacity,"&nbsp;<i>IEEE Trans. Inf. Theory</i>, vol. 58, no. 10, pp. 6372--6391, Oct. 2012.
   </li>
   <hr>
   <li>
@@ -408,7 +407,7 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
   </li>
   <hr>
   <li>
-    P. Kuppinger, G.&nbsp;Durisi, H.&nbsp;Bölcskei,
+    P. Kuppinger, G.&nbsp;Durisi, and H.&nbsp;Bölcskei,
     "<a href="https://sites.google.com/site/durisi/publications/kdb_IT11.pdf?attredirects=0"
     target="_blank">Uncertainty relations and sparse signal recovery for pairs of general signal
     sets</a>,"&nbsp;<em>IEEE Trans. Inf. Theory</em>, vol. 58, no. 1, pp. 263-277, Jan. 2012.
@@ -489,7 +488,7 @@ with random access,” in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em
   <li>
     F. Malandrino, C. F. Chiasserini, J. Naram, and G. Durisi, “Choose before you label: Efficient node
 selection in constrained federated learning,” in <em>Proc. IEEE Int. Conf. on Network and Service Management</em>,
-Bologna, Italy, Oct. 2025.[<a href="https://hdl.handle.net/11583/3002637"><i class="fas fa-book"></i></a>]
+Bologna, Italy, Oct. 2025. [<a href="https://hdl.handle.net/11583/3002637"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
     <li>
@@ -535,7 +534,7 @@ Ann Arbor, MI, USA, June 2025. [<a href="http://arxiv.org/abs/2503.08340"><i cla
 </li>
 <hr>
 <li>
-    A. O. Kislal, M. Rajiv, G. Durisi, E. G. Ström, and U. Mitra, “Pilot-assisted URLLC links: Impact of synchronization error,” in Proc. IEEE Int. Conf. Commun. (ICC), Denver, CO, USA, June 2024.
+    A. O. Kislal, M. Rajiv, G. Durisi, E. G. Ström, and U. Mitra, “Pilot-assisted URLLC links: Impact of synchronization error,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, Denver, CO, USA, June 2024.
 </li>
 <hr>
 <li>
@@ -548,7 +547,7 @@ K.-H. Ngo, A. G. i. Amat, and G. Durisi, “Irregular repetition slotted ALOHA o
 </li>
 <hr>
 <li>
-A. O. Kislal, A. Lancho, G. Durisi, and E. Str ̈om, “Efficient evaluation of the error probability for pilot- assisted finite-blocklength transmission,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2022.
+A. O. Kislal, A. Lancho, G. Durisi, and E. Ström, “Efficient evaluation of the error probability for pilot-assisted finite-blocklength transmission,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove CA, U.S.A., Nov. 2022.
 </li>
 <hr>
 <li>
@@ -739,7 +738,7 @@ J. Östman, A. Lancho, and G. Durisi, ``Short-packet transmission over a
 
   </li>
 <hr>
-  <li> H. Sac, T. Bacinoglu, E. Uysal-Biyikoglu, and G. Durisi, “Age-optimal channel coding blocklength for a transmission queue with fcfs service and arq,” <em>in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>,
+  <li> H. Sac, T. Bacinoglu, E. Uysal-Biyikoglu, and G. Durisi, “Age-optimal channel coding blocklength for a transmission queue with FCFS service and ARQ,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>,
     Kalamata, Greece, Jun. 2018.
 
   </li>
@@ -797,27 +796,27 @@ J. Östman, A. Lancho, and G. Durisi, ``Short-packet transmission over a
   <hr>
 
   <li>
-S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, “Massive MU-MIMO-OFDM downlink with one-bit DACs and linear precoding,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Singapore, Dec. 2017. [<a href="https://arxiv.org/abs/1704.04607" target="_blank"><i class="fas fa-book"></i></a>]
+S. Jacobsson, G. Durisi, M. Coldrey, and C. Studer, “Massive MU-MIMO-OFDM downlink with one-bit DACs and linear precoding,” in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em>, Singapore, Dec. 2017. [<a href="https://arxiv.org/abs/1704.04607" target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
 
 <hr>
   <li>
-K. Keykhosravi, G. Durisi, and E. Agrell, "A tighter bound on the capacity of the nondispersive optical fiber channel," in European Conf. Optical Comm. (ECOC), Gothenburg, Sweden, Sep. 2017.
+K. Keykhosravi, G. Durisi, and E. Agrell, "A tighter bound on the capacity of the nondispersive optical fiber channel," in <em>European Conf. Optical Comm. (ECOC)</em>, Gothenburg, Sweden, Sep. 2017.
     [<a href="http://publications.lib.chalmers.se/publication/250961"><i class="fas fa-book"></i></a>]
 
   </li>
 <hr>
   <li>
-  Johan Östman and Giuseppe Durisi and Erik G. Ström, “Finite-Blocklength Bounds on the Maximum Coding Rate of Rician
-  Fading Channels with Applications to Pilot-Assisted Transmission,” Proc. IEEE Int. Workshop Signal Process. Advances
-  Wireless Commun. (SPAWC), Sapporo, Japan, July. 2017. <b>Invited paper</b>. [<a
+  J. Östman, G. Durisi, and E. G. Ström, “Finite-blocklength bounds on the maximum coding rate of Rician
+  fading channels with applications to pilot-assisted transmission,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances
+  Wireless Commun. (SPAWC)</em>, Sapporo, Japan, Jul. 2017, <b>invited paper</b>. [<a
   href="http://publications.lib.chalmers.se/records/fulltext/249170/local_249170.pdf"><i class="fas fa-book"></i></a>]
 
   </li>
 
 <hr>
-  <li>Kasper F Trillingsgaard and Wei Yang and Giuseppe Durisi and Petar Popovski, “Feedback Halves the Dispersion for Some Two-User Broadcast Channels with Common Message,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Aachen, Germany, June. 2017. [<a
+  <li>K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Feedback halves the dispersion for some two-user broadcast channels with common message,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Aachen, Germany, Jun. 2017. [<a
       href="http://publications.lib.chalmers.se/records/fulltext/249349/local_249349.pdf" target="_blank"><i class="fas fa-book"></i></a>]&nbsp;
 
   </li>
@@ -825,7 +824,7 @@ K. Keykhosravi, G. Durisi, and E. Agrell, "A tighter bound on the capacity of th
 
   <li>
 
-A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Aachen, Germany, June. 2017. [<a href="http://publications.lib.chalmers.se/records/fulltext/249350/local_249350.pdf"
+A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single-antenna Rayleigh block-fading channels,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Aachen, Germany, Jun. 2017. [<a href="http://publications.lib.chalmers.se/records/fulltext/249350/local_249350.pdf"
       target="_blank"><i class="fas fa-book"></i></a>]&nbsp;<b>Finalist student best paper award</b>
 
   </li>
@@ -833,18 +832,18 @@ A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single
   <hr>
   <li>
 
-[1] G. Liva, G. Durisi, M. Chiani, S. S. Ullah, and S. C. Liew, "Short codes with mismatched channel state information: A case study," in Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC), Sapporo, Japan, Jul. 2017.
+G. Liva, G. Durisi, M. Chiani, S. S. Ullah, and S. C. Liew, "Short codes with mismatched channel state information: A case study," in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>, Sapporo, Japan, Jul. 2017.
   </li>
   <hr>
 
   <li>
-    J. Östman, G. Durisi, E. G. Ström, J. Li, H. Sahlin, and G. Liva, “Low-latency ultra-reliable 5G communications: finite block-length bounds and coding schemes,” in Proc Int. ITG Conf. Sys. Commun. Coding (SCC), Hamburg, Germany, Feb. 2017. [<a
+    J. Östman, G. Durisi, E. G. Ström, J. Li, H. Sahlin, and G. Liva, “Low-latency ultra-reliable 5G communications: finite block-length bounds and coding schemes,” in <em>Proc. Int. ITG Conf. Sys. Commun. Coding (SCC)</em>, Hamburg, Germany, Feb. 2017. [<a
       href="https://arxiv.org/abs/1611.08714" target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
   <hr>
   <li>
-    Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Nonlinear 1-bit precoding for massive MU-MIMO with higher-order modulation,” in Proc. Asilomar Conf. Signals, Syst., Comput., Pacific Grove CA, Nov. 2016.
+    S. Jacobsson, G. Durisi, M. Coldrey, T. Goldstein, and C. Studer, “Nonlinear 1-bit precoding for massive MU-MIMO with higher-order modulation,” in <em>Proc. Asilomar Conf. Signals, Syst., Comput.</em>, Pacific Grove, CA, Nov. 2016.
     [<a href="https://arxiv.org/abs/1612.02685" target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
@@ -852,26 +851,26 @@ A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single
 <hr>
 
   <li>
-    R. Devassy, G. Durisi, B. Lindqvist, W. Yang, and M. Dalai, “Nonasymptotic coding-rate bounds for binary erasure channels with feedback,” in Proc. IEEE Inf. Theory Workshop (ITW), Cambridge, U.K., Sep. 2016. [<a href="http://arxiv.org/abs/1607.06837"
+    R. Devassy, G. Durisi, B. Lindqvist, W. Yang, and M. Dalai, “Nonasymptotic coding-rate bounds for binary erasure channels with feedback,” in <em>Proc. IEEE Inf. Theory Workshop (ITW)</em>, Cambridge, U.K., Sep. 2016. [<a href="http://arxiv.org/abs/1607.06837"
       target="_blank"><i class="fas fa-book"></i></a> (extended version)]
 
   </li>
 
 <hr>
   <li>
-    K. F. Trillingsgaaard, W. Yang, G. Durisi, and P. Popovski, “Variable-length coding with stop-feedback for the common-message broadcast channel,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Barcelona, Spain, Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237068"
+    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Variable-length coding with stop-feedback for the common-message broadcast channel,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Barcelona, Spain, Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237068"
       target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
 <hr>
   <li>
-    W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “A beta-beta achievability bound with applications,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Barcelona, Spain, Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237064"
+    W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “A beta-beta achievability bound with applications,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Barcelona, Spain, Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237064"
       target="_blank"></a>],&nbsp; extended version [<a href="http://arxiv.org/abs/1601.05880" target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
 <hr>
   <li>
-    J. Scarlett, V. Y. F. Tan, and G. Durisi, “The dispersion of nearest-neighbor decoding for additive non-Gaussian channels,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237064"
+    J. Scarlett, V. Y. F. Tan, and G. Durisi, “The dispersion of nearest-neighbor decoding for additive non-Gaussian channels,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Barcelona, Spain, Jul. 2016. [<a href="http://publications.lib.chalmers.se/publication/237064"
       target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
@@ -879,44 +878,44 @@ A. Lancho, T. Koch, and G. Durisi, “A high-SNR normal approximation for single
   <hr>
 
   <li>
-    J. Scarlett, V. Y. F. Tan, and G. Durisi, “The dispersion of nearest-neighbor decoding for additive non-Gaussian channels,” in Proc. Int. Zurich Seminar Commun. (IZS), Zurich, Switzerland, Mar. 2016. <b>Invited paper</b>
+    J. Scarlett, V. Y. F. Tan, and G. Durisi, “The dispersion of nearest-neighbor decoding for additive non-Gaussian channels,” in <em>Proc. Int. Zurich Seminar Commun. (IZS)</em>, Zurich, Switzerland, Mar. 2016, <b>invited paper</b>.
 
   </li>
 
 <hr>
 
   <li>
-    W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “A beta-beta achievability bound with applications,” in Proc. Int. Zurich Seminar Commun. (IZS), Zurich, Switzerland, Mar. 2016. <b>Invited paper</b>
+    W. Yang, A. Collins, G. Durisi, Y. Polyanskiy, and H. V. Poor, “A beta-beta achievability bound with applications,” in <em>Proc. Int. Zurich Seminar Commun. (IZS)</em>, Zurich, Switzerland, Mar. 2016, <b>invited paper</b>.
 
   </li>
 
 <hr>
 
   <li>
-    K. F. Trillingsgaaard, W. Yang, G. Durisi, and P. Popovski, “Broadcasting a commom message with variable-length
-       stop-feedback codes,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Hong Kong, China, Jul. 2015. [<a
+    K. F. Trillingsgaard, W. Yang, G. Durisi, and P. Popovski, “Broadcasting a common message with variable-length
+       stop-feedback codes,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Hong Kong, China, Jul. 2015. [<a
        href="http://arxiv.org/abs/1504.05940"
       target="_blank"><i class="fas fa-book"></i></a>]
   </li>
 <hr>
   <li>
-    W. Yang, G. Durisi, and Y. Polyanskiy, “Minimum energy to send k bits over Rayleigh-fading channels,” in Proc. IEEE
-       Int. Symp. Inf. Theory (ISIT), Hong Kong, China, Jun. 2015. <a href="" target="_blank">[<i class="fas fa-book"></i>]</a>
+    W. Yang, G. Durisi, and Y. Polyanskiy, “Minimum energy to send k bits over Rayleigh-fading channels,” in <em>Proc. IEEE
+       Int. Symp. Inf. Theory (ISIT)</em>, Hong Kong, China, Jun. 2015.
   </li>
 <hr>
   <li>
-S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit massive MIMO: channel estimation and high-order modulations,” in Proc. IEEE Int. Conf. Commun. (ICC), London, U.K., Jun. 2015. [<a href="http://arxiv.org/abs/1504.04540"
+S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit massive MIMO: channel estimation and high-order modulations,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, London, U.K., Jun. 2015. [<a href="http://arxiv.org/abs/1504.04540"
       target="_blank"><i class="fas fa-book"></i></a>], [<a href="https://github.com/infotheorychalmers/one-bit_massive_MIMO" target="_blank"><i class="fab fa-github"></i></a>]
   </li>
 <hr>
   <li>
-    M. R. Khanzadi, G. Durisi, and T. Eriksson, “High-SNR capacity of multiple-antenna phase-noise chan- nels with common/separate RF oscillators,” in Proc. IEEE Int. Conf. Commun. (ICC), London, U.K., Jun. 2015.
+    M. R. Khanzadi, G. Durisi, and T. Eriksson, “High-SNR capacity of multiple-antenna phase-noise channels with common/separate RF oscillators,” in <em>Proc. IEEE Int. Conf. Commun. (ICC)</em>, London, U.K., Jun. 2015.
   </li>
 
 <hr>
 
   <li>
-    E. Agrell, G. Durisi, and P. Johannisson, “Information-theory-friendly models for fiber-optic channels: A primer,” in Proc. IEEE Inf. Theory Workshop (ITW), Jerusalem, Israel, Apr. 2015. [<a href="https://publications.lib.chalmers.se/publication/220564-information-theory-friendly-models-for-fiber-optic-channels-a-primer"
+    E. Agrell, G. Durisi, and P. Johannisson, “Information-theory-friendly models for fiber-optic channels: A primer,” in <em>Proc. IEEE Inf. Theory Workshop (ITW)</em>, Jerusalem, Israel, Apr. 2015. [<a href="https://publications.lib.chalmers.se/publication/220564-information-theory-friendly-models-for-fiber-optic-channels-a-primer"
       target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
@@ -924,68 +923,67 @@ S. Jacobsson, G. Durisi, M. Coldrey, U. Gustavsson, and C. Studer, “One-bit ma
 <hr>
 
   <li>
-    F. Athley, G. Durisi, and U. Gustavsson, “Analysis of massive MIMO with hardware impairments and different channel models,” in Proc. European Conf. Ant. Prop. (EUCAP), Lisbon, Portugal, Apr. 2015. [<a href="http://arxiv.org/abs/1501.04200"
+    F. Athley, G. Durisi, and U. Gustavsson, “Analysis of massive MIMO with hardware impairments and different channel models,” in <em>Proc. European Conf. Ant. Prop. (EUCAP)</em>, Lisbon, Portugal, Apr. 2015. [<a href="http://arxiv.org/abs/1501.04200"
       target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
   <hr>
   <li>
-    U. Gustavsson, C. Sanchéz-Perez, T. Eriksson, F. Athley, G. Durisi, P. Landin, K. Hausmair, C. Fager, and L. Svensson, “On the impact of hardware impairments on massive MIMO,” in Proc. IEEE Global Telecommun. Conf. (GLOBECOM), Austin, TX, Dec.
-    1. [<a href="http://arxiv.org/abs/1411.7197" target="_blank"><i class="fas fa-book"></i></a>]
+    U. Gustavsson, C. Sanchéz-Perez, T. Eriksson, F. Athley, G. Durisi, P. Landin, K. Hausmair, C. Fager, and L. Svensson, “On the impact of hardware impairments on massive MIMO,” in <em>Proc. IEEE Global Telecommun. Conf. (GLOBECOM)</em>, Austin, TX, Dec. 2014. [<a href="http://arxiv.org/abs/1411.7197" target="_blank"><i class="fas fa-book"></i></a>]
 
   </li>
   <hr>
-  <li>J. Östman, W. Yang, G. Durisi, and T. Koch, “Diversity versus multiplexing at finite blocklength,” in Proc. IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS), Barcelona, Spain, Aug. 2014. &nbsp;[<a href="http://arxiv.org/abs/1406.7315" target="_blank"><i class="fas fa-book"></i></a>]&nbsp;
+  <li>J. Östman, W. Yang, G. Durisi, and T. Koch, “Diversity versus multiplexing at finite blocklength,” in <em>Proc. IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS)</em>, Barcelona, Spain, Aug. 2014. &nbsp;[<a href="http://arxiv.org/abs/1406.7315" target="_blank"><i class="fas fa-book"></i></a>]&nbsp;
     &nbsp;
 
   </li>
 <hr>
-  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “<a href="http://publications.lib.chalmers.se/records/fulltext/197194/local_197194.pdf" target="_blank">Dispersion of quasi-static MIMO fading channels via Stokes’ theorem</a>,” in Proc. IEEE
-    Int. Symp. Inf. Theory (ISIT), Honolulu, HI, USA, Jul. 2014.
+  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “<a href="http://publications.lib.chalmers.se/records/fulltext/197194/local_197194.pdf" target="_blank">Dispersion of quasi-static MIMO fading channels via Stokes’ theorem</a>,” in <em>Proc. IEEE
+    Int. Symp. Inf. Theory (ISIT)</em>, Honolulu, HI, USA, Jul. 2014.
 
   </li>
 <hr>
-  <li>W. Yang, G. Caire, G. Durisi, and Y. Polyanskiy, “<a href="http://publications.lib.chalmers.se/records/fulltext/197193/local_197193.pdf" target="_blank">Finite-blocklength channel coding rate under a long- term power constraint</a>,” in Proc.
-    IEEE Int. Symp. Inf. Theory (ISIT), Honolulu, HI, USA, Jul. 2014.
+  <li>W. Yang, G. Caire, G. Durisi, and Y. Polyanskiy, “<a href="http://publications.lib.chalmers.se/records/fulltext/197193/local_197193.pdf" target="_blank">Finite-blocklength channel coding rate under a long-term power constraint</a>,” in <em>Proc.
+    IEEE Int. Symp. Inf. Theory (ISIT)</em>, Honolulu, HI, USA, Jul. 2014.
 
   </li>
   <hr>
   <li>R. Devassy, G. Durisi, P. Popovski, and E. G. Ström, “<a href="http://publications.lib.chalmers.se/records/fulltext/194153/local_194153.pdf" target="_blank">Finite-blocklength analysis of the ARQ-protocol throughput over the Gaussian collision
-      channel</a>,” in Int. Symp. Commun., Cont., Signal Process. (ISCCSP), May 2014,<b> invited paper</b>.
+      channel</a>,” in <em>Proc. Int. Symp. Commun., Control, Signal Process. (ISCCSP)</em>, May 2014, <b>invited paper</b>.
 
   </li>
 <hr>
-  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “Block-fading channels at finite block- length,”, in Proc IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS), Illmenau, Germany, Aug. 2013, <b>invited paper</b>.
+  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “Block-fading channels at finite blocklength,” in <em>Proc. IEEE Int. Symp. Wirel. Comm. Syst. (ISWCS)</em>, Ilmenau, Germany, Aug. 2013, <b>invited paper</b>.
 
   </li>
   <hr>
-  <li>E. Riegler, G. Koliander, W. Yang, and G. Durisi, “<a href="http://publications.lib.chalmers.se/records/fulltext/177868/local_177868.pdf" target="_blank">How costly is it to learn fading channels?</a>” in Proc. Int. Black Sea Conf. Commun.
-    Netw. (Blackseacom), Batumi, Georgia, Jul. 2013, <b>invited paper</b>.
+  <li>E. Riegler, G. Koliander, W. Yang, and G. Durisi, “<a href="http://publications.lib.chalmers.se/records/fulltext/177868/local_177868.pdf" target="_blank">How costly is it to learn fading channels?</a>” in <em>Proc. Int. Black Sea Conf. Commun.
+    Netw. (Blackseacom)</em>, Batumi, Georgia, Jul. 2013, <b>invited paper</b>.
 
   </li>
   <hr>
-  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “Quasi-static SIMO fading channels at finite blocklength,” in Proc. IEEE Int. Symp. Inf. Theory (ISIT), Istanbul, Turkey, Jul. 2013. [<a href="http://arxiv.org/abs/1302.1302" target="_blank">Extended
+  <li>W. Yang, G. Durisi, T. Koch, and Y. Polyanskiy, “Quasi-static SIMO fading channels at finite blocklength,” in <em>Proc. IEEE Int. Symp. Inf. Theory (ISIT)</em>, Istanbul, Turkey, Jul. 2013. [<a href="http://arxiv.org/abs/1302.1302" target="_blank">Extended
       version with proofs</a>] &nbsp;
 
   </li>
   <hr>
-  <li>G. Koliander, E. Riegler, G. Durisi, and F. Hlawatsch, “<a href="http://publications.lib.chalmers.se/records/fulltext/177867/local_177867.pdf" target="_blank">Generic correlation increases noncoherent MIMO capacity</a>,” in Proc. IEEE Int.
-    Symp. Inf. Theory (ISIT), Istanbul, Turkey, Jul. 2013.
+  <li>G. Koliander, E. Riegler, G. Durisi, and F. Hlawatsch, “<a href="http://publications.lib.chalmers.se/records/fulltext/177867/local_177867.pdf" target="_blank">Generic correlation increases noncoherent MIMO capacity</a>,” in <em>Proc. IEEE Int.
+    Symp. Inf. Theory (ISIT)</em>, Istanbul, Turkey, Jul. 2013.
 
   </li>
 <hr>
-  <li>G. Durisi, A. Tarable, and T. Koch, “<a href="https://sites.google.com/site/durisi/publications/tdk2013.pdf?attredirects=0" target="_blank">On the multiplexing gain of MIMO microwave backhaul links affected by phase noise</a>,” in Proc. IEEE
-    Int. Conf. Commun. (ICC), Budapest, Hungary, Jun. 2013.
+  <li>G. Durisi, A. Tarable, and T. Koch, “<a href="https://sites.google.com/site/durisi/publications/tdk2013.pdf?attredirects=0" target="_blank">On the multiplexing gain of MIMO microwave backhaul links affected by phase noise</a>,” in <em>Proc. IEEE
+    Int. Conf. Commun. (ICC)</em>, Budapest, Hungary, Jun. 2013.
 
   </li>
 <hr>
-  <li>G. Durisi, A. Tarable, C. Camarda, and G. Montorsi, “<a href="https://sites.google.com/site/durisi/publications/dt_ita13.pdf?attredirects=0" target="_blank">On the capacity of MIMO Wiener phase-noise channels</a>,” in Proc. Inf. Theory
-    Applicat. Workshop (ITA), San Diego, CA, U.S.A., Feb. 2013, <b>invited paper</b>.
+  <li>G. Durisi, A. Tarable, C. Camarda, and G. Montorsi, “<a href="https://sites.google.com/site/durisi/publications/dt_ita13.pdf?attredirects=0" target="_blank">On the capacity of MIMO Wiener phase-noise channels</a>,” in <em>Proc. Inf. Theory
+    Applicat. Workshop (ITA)</em>, San Diego, CA, U.S.A., Feb. 2013, <b>invited paper</b>.
 
   </li>
 <hr>
   <li>G. Koliander, E. Riegler, G. Durisi, V. I. Morgenshtern, and F. Hlawatsch, “<a href="https://sites.google.com/site/durisi/publications/Koliander2012-10a.pdf?attredirects=0" target="_blank">A lower bound on the noncoherent capacity pre-log for
-      the MIMO channel with temporally correlated fading</a>,” in Proc. Allerton Conf. Commun., Contr., Comput., Oct. 2012, pp. 1-8.
+      the MIMO channel with temporally correlated fading</a>,” in <em>Proc. Allerton Conf. Commun., Contr., Comput.</em>, Oct. 2012, pp. 1-8.
 
   </li>
   <hr>

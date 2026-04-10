@@ -16,28 +16,28 @@ classes: wide
 <!-- - Dr. Unnikrishnan Kunnath Ganesan (October 2024-present): Machine learning over -->
 <!-- communication systems -->
 
-## Ph.D. students
+## PhD students
 
 - Ziyong Cheong (Sep. 2025-present): Understanding transformers via compression and discrimination
 
 - Emmanuella Ametsi (May 2025-present): Runtime safe monitors for automotive ML-based functions
 [main supervisor: [Christian Berger](https://www.gu.se/en/about/find-staff/christianberger)]
 
-- Akshay Vayal Parambath (Nov. 2024-present): Distributed MIMO systems, started in 2024
+- Akshay Vayal Parambath (Nov. 2024-present): Distributed MIMO systems
 [main supervisor: [Tommy Svensson](https://www.chalmers.se/en/persons/tommys/)]
 
 - Bingcheng Chen (Aug. 2024-present): Machine-learning over communication systems [main
 supervisor: [Christian Häger](https://www.chalmers.se/en/persons/hagerc/)]
 
-- Kaan Okumus (Oct. 2023-present): Goal oriented communication [main supervisor:
+- Kaan Okumus (Oct. 2023-present): Goal-oriented communication [main supervisor:
   [Erik Ström](https://www.chalmers.se/en/persons/estrom/)]
 
 - Alireza Bordbar (Sep. 2023-present): Machine-learning for communication
   systems
 
-- Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bound
+- Jayadev Naram (Jan. 2023-present): Information-theoretic generalization bounds
 
-## Former Ph.D. students
+## Former PhD students
 
 - Lise Aabel (Chalmers 2025): Distributed Antenna Systems Using 1-bit Radio-Over-Fiber [[PhD thesis](https://research.chalmers.se/en/publication/548000)]
 - Oguz Kislal (Chalmers 2024): Fundamental limits of ultra-reliable, low latency
@@ -63,7 +63,7 @@ communications [[PhD thesis]](https://research.chalmers.se/en/publication/543180
 
 - Ulrich Schuster (ETH Zurich, 2009, co-supervised with Prof. Helmut Bölcskei), now with CompuGroup Medical Software GmbH, Berlin, Germany
 
-## Former Post-doctoral students
+## Former Post-doctoral researchers
 
 - Dr. Khac-Hoang Ngo (October 2020-September 2024), now with Linköping University, Sweden
 

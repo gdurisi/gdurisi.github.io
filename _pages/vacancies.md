@@ -30,8 +30,8 @@ classes: wide
 
 <!-- - [**Nov. 2018**] I have two postdoctoral vacancies in the field of [secure and private machine-type communications](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6928) and [information-theoretic methods for deep learning](http://www.chalmers.se/en/about-chalmers/Working-at-Chalmers/Vacancies/Pages/default.aspx?rmpage=job&rmjob=6918)); deadline for applications: **January 5, 2019**. -->
 
-- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) within the European Horizon framework program. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**:  Fall 2026.
+- [Marie Skłodowska-Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) within the Horizon Europe framework programme. If you are interested in applying to one of these fellowships to join my team, get in touch as soon as possible. **Next deadline**: Fall 2026.
 
 ### Master theses
 
-- I am permanently looking for mathematically inclined candidates interested in pursuing a master thesis in the general areas of information theory, communication theory, and machine learning. **Note**: you need to be a master student at Chalmers to apply for a master thesis.
+- I am permanently looking for mathematically inclined candidates interested in pursuing a master's thesis in the general areas of information theory, communication theory, and machine learning. **Note**: you need to be a master's student at Chalmers to apply for a master's thesis.

@@ -13,10 +13,10 @@ degree both from Politecnico di Torino, Italy, in 2001 and 2006, respectively.
 From 2002 to 2006, he was with Istituto Superiore Mario Boella, Torino, Italy.
 From 2006 to 2010 he was a postdoctoral researcher at ETH Zurich, Zurich,
 Switzerland. In 2010, he joined Chalmers University of Technology, Gothenburg,
-Sweden, where he is now full professor with the Communication Systems Group. At
+Sweden, where he is now a full professor with the Communication Systems Group. At
 Chalmers, he served as co-director of the Information and Communication
 Technology Area of Advance, and of the Artificial Intelligence Research Center.
-He is currently director of the master program in information and communication technologies.
+He is currently director of the master's program in information and communication technology.
 
 Dr. Durisi is a senior member of the IEEE. He is the recipient of the 2013 IEEE
 ComSoc Best Young Researcher Award for the Europe, Middle East, and Africa
