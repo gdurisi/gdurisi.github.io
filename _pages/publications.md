@@ -35,12 +35,6 @@ corresponding journal publication.
 channels in distributed MIMO with application to multi-target localization,” Mar. 2026. [<a href="http://arxiv.org/abs/2603.01749"><i class="fas fa-book"></i></a>]
   </li>
   <hr>
-  <li>
-    D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum
-energy per bit of unsourced multiple access with location-based codebook
-partitioning (extended version),” Feb. 2026 [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
-  </li>
-  <hr>
 </ol>
 
 ## Books and Monographs
@@ -467,6 +461,13 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+    <li>
+    D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum energy per bit of unsourced multiple
+access with location-based codebook partitioning (extended version),” in Proc. IEEE Int. Symp. Inf.
+Theory (ISIT), Guangzhou, China, June 2026. [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-book"></i></a>]
+  </li>
+  <hr>
+
   <li>
 J. Naram, Z. Wang, G. Durisi, and R. Jörnsten, “Weighted partial optimal transport for multi-source
 partial domain adaptation,” in <em>Proc. Int. Conf. Learning Representation (ICLR), Catch, Adapt, and
