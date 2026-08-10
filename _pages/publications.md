@@ -31,8 +31,8 @@ corresponding journal publication.
 
 <ol>
   <li>
-    K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
-channels in distributed MIMO with application to multi-target localization,” Mar. 2026. [<a href="http://arxiv.org/abs/2603.01749"><i class="fas fa-file-pdf"></i></a>]
+  A. Bordbar, A. Hu, and G. Durisi, “Distributed massive MIMO with 1-bit radio-over-fiber fronthaul:
+Uplink spectral efficiency and power control,” June 2026. [<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-file-pdf"></i></a>]
   </li>
   <hr>
 </ol>
@@ -42,7 +42,7 @@ channels in distributed MIMO with application to multi-target localization,” M
 <ol>
   <li>
     F. Hellström, G. Durisi, B. Guedj, and M. Raginsky, “Generalization Bounds: Perspectives from Information Theory and PAC-Bayes,” <em>Foundations and Trends in Machine Learning</em>, vol. 18, pp. 1–223, Jan. 2025.
-[<a href="http://arxiv.org/abs/2309.04381"><i class="fas fa-file-pdf"></i></a>]
+[<a href="https://arxiv.org/abs/2606.26939"><i class="fas fa-file-pdf"></i></a>]
   </li>
   <hr>
   <li>
@@ -81,6 +81,17 @@ channels in distributed MIMO with application to multi-target localization,” M
 
 <ol>
   <li>
+        K. Okumus, K.-H. Ngo, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading
+channels in distributed MIMO with application to multi-target localization,” <em>IEEE Trans. Wireless
+Commun.</em>, 2026, to appear. [<a href="http://arxiv.org/abs/2603.01749"><i class="fas fa-file-pdf"></i></a>]
+    </li>
+  <hr>
+  <li>
+    J.-F. Chamberland, K. Narayanan, K.-H. Ngo, G. Durisi, V. T. Kunde, and C. S. K. Valmeekam,
+“Prediction-based compression using large language models,” IEEE BITS, 2026.
+    </li>
+  <hr>
+  <li>
     M. Zecchin, U. K. Ganesan, G. Durisi, P. Popovski, and O. Simeone, “Prediction-powered communication
 with distortion guarantees,” <em>IEEE J. Sel. Areas Info. Theory</em>, 2026, to appear.
    [<a href="https://arxiv.org/abs/2509.24373"><i class="fas fa-file-pdf"></i></a>]
@@ -89,7 +100,7 @@ with distortion guarantees,” <em>IEEE J. Sel. Areas Info. Theory</em>, 2026, t
   <li>
     L. Aabel, G. Durisi, F. Olofsson, E. Börjeson, M. Coldrey, and C. Fager, “Insights on the uplink operation
 of a 1-bit radio-over-fiber architecture in multi-user D-MIMO communication,” <em>IEEE Trans. Microw.
-Theory Tech.</em>, 2025, to appear. [<a href="http://arxiv.org/abs/2512.01806"><i class="fas fa-file-pdf"></i></a>]
+Theory Tech.</em>, Nov., 2025. [<a href="http://arxiv.org/abs/2512.01806"><i class="fas fa-file-pdf"></i></a>]
   </li>
   <hr>
   <li>
@@ -461,10 +472,16 @@ F. Hellström and G. Durisi, Corrections to “Generalization bounds via informa
 ## Conference Papers
 
 <ol>
+  <li>
+  A. Bordbar, A. Hu, and G. Durisi, “Uplink spectral efficiency of distributed MIMO with 1-bit radio-over-
+fiber fronthaul,” in <em>Proc. IEEE Int. Workshop Signal Process. Advances Wireless Commun. (SPAWC)</em>,
+Athens, Greece, Sept. 2026.
+    </li>
+  <hr>
     <li>
     D. P. Krishnan, K. Okumus, K.-H. Ngo, and G. Durisi, “Minimum energy per bit of unsourced multiple
-access with location-based codebook partitioning (extended version),” in Proc. IEEE Int. Symp. Inf.
-Theory (ISIT), Guangzhou, China, June 2026. [<a href="{{ site.baseurl}}/files/2026/krishnan06-02a.pdf"><i class="fas fa-file-pdf"></i></a>]
+access with location-based codebook partitioning,” in <em>Proc. IEEE Int. Symp. Inf.
+Theory (ISIT)</em>, Guangzhou, China, June 2026. [<a href="https://arxiv.org/abs/2604.20643"><i class="fas fa-file-pdf"></i></a>]
   </li>
   <hr>
 
